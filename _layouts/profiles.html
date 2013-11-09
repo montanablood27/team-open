@@ -5,15 +5,22 @@
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Trykker" />
 </head>
 <body>
-<div id="middle">
+<div id="middle" style="background-color: {{page:bgcolor}}; ">
+<div id="topspace"></div>
 <a href="/all/"><h1>Team Open</h1></a>
-<div id="headshot" style="background: url({{page.headshoturl}}) no-repeat 0 0; ">
-<div id="headshot-content">
+<a href="{{previous_page_path}}">
+<div id="arrowleft" style="background: {{page:bgcolor2}} url('/images/leftarrow.png'); " ></div>
+</a>
+<div id="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+<div id="bannerright" style="background: {{page:bgcolor2}} url('/images/bannerright.png'); ">
+<div id="bannerrightcontent">
 <h2>{{ page.title }}</h2>
-<h3>{{ page.blurb }}</h3>
+<h3>{{ page.blurb }}</h3> 
 </div>
 </div>
-{{content}}
+<div id="arrowright" style="background: {{page:bgcolor2}} url('/images/rightarrow.png'); "></div>
+<div style="clear: both; " />
+<div id="profcontent">{{content}}</div>
 <div id="circles">
 <a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen" target="_blank"><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>
 <a href="{{ page.facebookshare }}" target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>

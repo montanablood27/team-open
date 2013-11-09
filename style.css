@@ -5,28 +5,68 @@ body {
 	}
 
 #middle {
-	width: 520px;
+	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: blue;
-	padding-left: 10px;
-	padding-right: 10px;
+	background-color: {{page:bgcolor}};
+	}
+
+#topspace {
+	height: 2px;
+	}
+
+#bannnerstrip {
+	height: 450px;
+	width: 100%;
+	}
+
+#bannerleft {
+	width: 400px;
+	height: 450px;
+	float: left;
+}	
+
+#bannerright {
+	width: 400px;
+	height: 450px;
+	float: left;
+}	
+
+#bannerrightcontent {
+	margin-top: 175px;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+
+#arrowleft {
+	width: 50px;
+	height: 450px;
+	float: left;
+	}
+	
+#arrowright {
+	width: 50px;
+	height: 450px;
+	float: left;
+	}
+
+#profcontent {
+	padding-top: 25px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
 	}
 
 body a {
 	color: #FEFCFF;
 	}
 
-h2 {
-	text-align: right;
-	}
-	
 h1 {
 	text-indent: -9999px;
 	background: url(/images/teamopen_logo.png) no-repeat 0 0;
 	width: 500px;
-	height: 200px;
-	margin-left: auto;
+	height: 82px;
+	margin-left: 25px;
 	margin-right: auto;
 	}
 
