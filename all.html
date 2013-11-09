@@ -8,14 +8,16 @@ permalink: /all/
   {% for page in site.pages %}
     {% if page.layout == 'profiles' %}  
       <a href="{{ page.permalink }}">
+<div id="arrowleft" style="background: black; " ></div>
 <div id="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<div id="bannerright" style="background: {{page:bgcolor2}} url('/images/bannerright.png'); ">
+<div id="bannerright" style="background: {{page:bgcolor2}}; ">
 <div id="bannerrightcontent">
 <h2>{{ page.title }}</h2>
 <h3>{{ page.blurb }}</h3> 
 </div>
 </div>
-      </a>
-<div style="clear: both; " />
+<div id="arrowright" style="background: black; " ></div>
+</a>
+<div style="height: 50px; clear: both; "></div>
       {% endif %}
   {% endfor %}
