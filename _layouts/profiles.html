@@ -47,19 +47,6 @@
 </a>
 <div style="clear: both; " />
 <div id="profcontent">
-
-Order is {{page.order}}
-orderplusone is {{orderplusone}}
-
-  {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderplusone}} %}
-    		<a href="{{page.permalink}}">do it</a>
-    	{% endif %}
-    {% endif %}
-  {% endfor %}
-
-
 {{content}}
 </div>
 <div id="circles">
