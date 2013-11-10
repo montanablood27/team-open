@@ -4,6 +4,8 @@
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Trykker" />
 
+<!-- This code is what causes the "next" and "previous" buttons to work. When adding new profiles, adjust the pageorder variable for all profiles accordingly, and change the maximum number below to the total number of profiles. -->
+
 {% if page.order == 8 %}
 	{% assign orderplusone = 1 %}
 {% else %}
