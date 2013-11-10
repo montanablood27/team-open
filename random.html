@@ -1,0 +1,31 @@
+---
+layout: none
+---
+
+<html>
+        <head>
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+                <script>
+                        var pages = [];
+                        {% for page in site.pages %}
+                            {% if page.layout == 'profiles' %}  
+                        		pages.push("{{ page.url }}");
+							{% endif %}
+                        {% endfor %}  
+
+                        document.write("<meta http-equiv=\"refresh\" content=\"1;url=");
+                        document.write(pages[Math.floor(Math.random() * pages.length)]);
+                        document.write("\">");
+                </script>
+        </head>
+
+        <body style="background: #990000; ">
+<div style="margin-left: auto; margin-right: auto; margin-top: 250px; ">
+                <script>
+                        document.write("<a href=\"");
+                                document.write(pages[Math.floor(Math.random() * pages.length)]);
+                                document.write("\"><h1>Team Open</h1></a>");
+                </script>
+</div>
+        </body>
+</html>
