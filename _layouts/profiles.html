@@ -3,22 +3,63 @@
 <title>{{ page.title }} | Team Open</title>
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Trykker" />
+
+{% if page.order == 8 %}
+	{% assign orderplusone = 1 %}
+{% else %}
+	{% assign orderplusone = page.order|plus:1 %}
+{% endif %}
+
+{% if page.order == 1 %}
+	{% assign orderminusone = 8 %}
+{% else %}
+	{% assign orderminusone = page.order|minus:1 %}
+{% endif %}
+
 </head>
 <body>
-<div id="middle" style="background-color: {{page:bgcolor}}; ">
+<div id="middle" style="background-color: {{page:bgcolora}}; ">
 <div id="topspace"></div>
 <a href="/all/"><h1>Team Open</h1></a>
-<div id="arrowleft" style="background: {{page:bgcolor2}} url('/images/leftarrow.png'); " ></div>
+  {% for page in site.pages %}
+    {% if page.layout == 'profiles' %}  
+    	{% if page.order == {{orderminusone}} %}
+    		<a href="{{page.permalink}}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+<div id="arrowleft" style="background: {{page:bgcolorb}} url('/images/leftarrow.png'); " ></div></a>
 <div id="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<div id="bannerright" style="background: {{page:bgcolor2}} url('/images/bannerright.png'); ">
+<div id="bannerright" style="background: {{page:bgcolorb}} url('/images/bannerright.png'); ">
 <div id="bannerrightcontent">
 <h2>{{ page.title }} </h2>
 <h3>{{ page.blurb }}</h3> 
 </div>
 </div>
-<div id="arrowright" style="background: {{page:bgcolor2}} url('/images/rightarrow.png'); "></div>
+  {% for page in site.pages %}
+    {% if page.layout == 'profiles' %}  
+    	{% if page.order == {{orderplusone}} %}
+    		<a href="{{page.permalink}}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+<div id="arrowright" style="background: {{page.bgcolorb}} url('/images/rightarrow.png'); "></div>
+</a>
 <div style="clear: both; " />
 <div id="profcontent">
+
+Order is {{page.order}}
+orderplusone is {{orderplusone}}
+
+  {% for page in site.pages %}
+    {% if page.layout == 'profiles' %}  
+    	{% if page.order == {{orderplusone}} %}
+    		<a href="{{page.permalink}}">do it</a>
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+
+
 {{content}}
 </div>
 <div id="circles">
