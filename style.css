@@ -38,23 +38,13 @@ body {
 	padding-right: 20px;
 	}
 
-#arrowleft {
+.arrow {
 	width: 50px;
 	height: 450px;
 	float: left;
 	}
 	
-#arrowleft:hover {
-	background-position: -50px 0px;
-	}
-	
-#arrowright {
-	width: 50px;
-	height: 450px;
-	float: left;
-	}
-
-#arrowright:hover {
+.arrow:hover {
 	background-position: -50px 0px;
 	}
 
