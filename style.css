@@ -44,10 +44,18 @@ body {
 	float: left;
 	}
 	
+#arrowleft:hover {
+	background-position: -50px 0px;
+	}
+	
 #arrowright {
 	width: 50px;
 	height: 450px;
 	float: left;
+	}
+
+#arrowright:hover {
+	background-position: -50px 0px;
 	}
 
 #profcontent {
