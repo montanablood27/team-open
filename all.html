@@ -5,19 +5,19 @@ published: true
 permalink: /all/
 ---
 
-  {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
+	{% for page in site.pages %}
+		{% if page.layout == 'profiles' %}  
       <a href="{{ page.permalink }}">
-<div id="arrowleft" style="background: black; " ></div>
-<div id="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<div id="bannerright" style="background: {{page:bgcolorb}}; ">
-<div id="bannerrightcontent">
+<div class="banner" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+<div class="banner" style="background: {{page:bgcolorb}}; ">
+<div class="bannerrightcontent">
 <h2>{{ page.title }}</h2>
 <h3>{{ page.blurb }}</h3> 
 </div>
 </div>
-<div id="arrowright" style="background: black; " ></div>
-</a>
+<div class="arrow" style="background: {{page:bgcolorb}}; " ></div>
+<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrownocc.png'); " ></div></a>
+<div style="clear: both; "></div>
+		{% endif %}
+	{% endfor %}
 <div style="height: 50px; clear: both; "></div>
-      {% endif %}
-  {% endfor %}

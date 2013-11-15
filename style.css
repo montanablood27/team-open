@@ -4,11 +4,27 @@ body {
 	color: #FEFCFF;
 	}
 
+#navbar {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.navface {
+	width: 75px;
+	height: 75px;
+	background-color: inherit;
+	float: left;
+	}
+
+.navface:hover {
+	background-position: -75px 0px;
+	}
+
 #middle {
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: {{page:bgcolor}};
 	}
 
 #topspace {
@@ -16,23 +32,17 @@ body {
 	}
 
 #bannnerstrip {
-	height: 450px;
+	height: 400px;
 	width: 100%;
 	}
 
-#bannerleft {
+.banner {
 	width: 400px;
-	height: 450px;
+	height: 400px;
 	float: left;
 }	
 
-#bannerright {
-	width: 400px;
-	height: 450px;
-	float: left;
-}	
-
-#bannerrightcontent {
+.bannerrightcontent {
 	margin-top: 175px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -40,7 +50,7 @@ body {
 
 .arrow {
 	width: 50px;
-	height: 450px;
+	height: 400px;
 	float: left;
 	}
 	
