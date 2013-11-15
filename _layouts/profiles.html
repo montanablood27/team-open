@@ -9,14 +9,14 @@
 
 <!-- This code is what causes the "next" and "previous" buttons to work. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the maximum number below to the total number of profiles. -->
 
-	{% if page.order == 12 %}
+	{% if page.order == {numberofprofiles} %}
 		{% assign orderplusone = 1 %}
 	{% else %}
 		{% assign orderplusone = page.order|plus:1 %}
 	{% endif %}
 
 	{% if page.order == 1 %}
-		{% assign orderminusone = 12 %}
+		{% assign orderminusone = {numberofprofiles} %}
 	{% else %}
 		{% assign orderminusone = page.order|minus:1 %}
 	{% endif %}
@@ -24,21 +24,20 @@
 
 </head>
 <body>
-
-
 <div id="navbar">
-
-	{% for page in site.pages %}
-		{% if page.layout == 'profiles' %} 
-			{% if page.title == {{currentpage}} %}
-				<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; "></div>
-			{% else %}
-				<a href="{{ page.permalink }}">
-				<div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
+	{% for i in (1..numberofprofiles) %}
+		{% for page in site.pages %}
+			{% if page.layout == 'profiles' %} 
+				{% if page.order == {{i}} %}
+					{% if page.title == {{currentpage}} %}
+						<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; "></div>
+					{% else %}
+						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
+					{% endif %}
+				{% endif %}
 			{% endif %}
-		{% endif %}
+		{% endfor %}
 	{% endfor %}
-
 </div>
 <div style="clear: both; "></div>
 <div id="middle" style="background-color: {{page:bgcolora}}; ">
