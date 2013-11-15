@@ -3,8 +3,23 @@
 <title>Team Open</title>
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+	{% assign numberofprofiles = 12 %}
 </head>
 <body>
+
+<div id="navbar">
+	{% for i in (1..numberofprofiles) %}
+		{% for page in site.pages %}
+			{% if page.layout == 'profiles' %} 
+				{% if page.order == {{i}} %}
+						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</div>
+<div style="clear: both; "></div>
+
 <div id="middle" style="background-color: black;">
 <div id="topspace"></div>
 <h1>Team Open</h1>
