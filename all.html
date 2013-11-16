@@ -4,28 +4,36 @@ title: Team Open
 published: true
 permalink: /all/
 ---
+	{% assign numberofprofiles = 12 %}
 
+<div class="othercontent">
 <p>Creative Commons (CC) is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
-
 <p>The Team Open project showcases individuals and/or organizations who have  benefitted from the use of CC licenses.</p>
+</div>
 
-	{% for page in site.pages %}
-		{% if page.layout == 'profiles' %}  
-      <a href="{{ page.permalink }}">
-<div class="banner" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<div class="banner" style="background: {{page:bgcolorb}}; ">
-<div class="bannerrightcontent">
-<h2>{{ page.title }}</h2>
-<h3>{{ page.blurb }}</h3> 
-</div>
-</div>
-<div class="arrow" style="background: {{page:bgcolorb}}; " ></div>
-<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrownocc.png'); " ></div></a>
-<div style="clear: both; "></div>
-		{% endif %}
+	{% for i in (1..numberofprofiles) %}
+		{% for page in site.pages %}
+			{% if page.layout == 'profiles' %} 
+				{% if page.order == {{i}} %}
+					<a href="{{ page.permalink }}">
+					<div class="banner" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+					<div class="banner" style="background: {{page:bgcolorb}}; ">
+					<div class="bannerrightcontent">
+					<h2>{{ page.title }}</h2>
+					<h3>{{ page.blurb }}</h3> 
+					</div>
+					</div>
+					<div class="arrow" style="background: {{page:bgcolorb}}; " ></div>
+					<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrownocc.png'); " ></div></a>
+					<div style="clear: both; "></div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
 	{% endfor %}
 <div style="height: 50px; clear: both; "></div>
 
+<div class="othercontent">
 <p>Team Open Logo Font - <a href="http://www.myfonts.com/newsletters/cc/200905.html">Mexcellent</a> by Ray Larabie<br>
    Team Open Website Font - <a href="http://www.google.com/fonts/specimen/Roboto+Slab">Roboto Slab</a> by Google Fonts</p>
 <p>Links to original images and editable files available on <a href="https://layervault.com/creative-commons/teamopen">Layervault</a>.</p>
+</div>

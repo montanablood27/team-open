@@ -66,6 +66,12 @@ body {
 	line-height: 150%;
 	}
 
+.othercontent {
+	padding-left: 50px;
+	padding-right: 200px;
+	line-height: 150%;
+	}
+
 body a {
 	color: #FEFCFF;
 	}
