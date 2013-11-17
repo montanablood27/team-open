@@ -4,6 +4,12 @@ body {
 	color: #FEFCFF;
 	}
 
+blockquote {
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 5px;
+	}
+
 #navbar {
 	width: 900px;
 	margin-left: auto;
