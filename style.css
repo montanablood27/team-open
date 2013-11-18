@@ -21,6 +21,7 @@ blockquote {
 	height: 75px;
 	background-color: inherit;
 	float: left;
+	text-indent: -9999px;
 	}
 
 .navface:hover {

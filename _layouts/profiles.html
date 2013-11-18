@@ -30,9 +30,9 @@
 			{% if page.layout == 'profiles' %} 
 				{% if page.order == {{i}} %}
 					{% if page.title == {{currentpage}} %}
-						<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; "></div>
+						<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
 					{% else %}
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
+						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
 					{% endif %}
 				{% endif %}
 			{% endif %}
