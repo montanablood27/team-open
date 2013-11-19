@@ -9,7 +9,7 @@ permalink: /all/
 <div class="othercontent">
 <p>Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
 <p>Team Open is a project to collect and share stories of the power of Creative Commons licenses.</p>
-<p>If you <a href="https://creativecommons.net/">donate $25 (US) or more to Creative Commons</a>, we&#8217;ll send you a complete set of Team Open trading cards,</p>
+<p>If you <a href="https://creativecommons.net/">donate $25 (US) or more to Creative Commons</a>, we&#8217;ll send you a complete set of Team Open trading cards.</p>
 </div>
 
 	{% for i in (1..numberofprofiles) %}
@@ -17,8 +17,8 @@ permalink: /all/
 			{% if page.layout == 'profiles' %} 
 				{% if page.order == {{i}} %}
 					<a href="{{ page.permalink }}">
-					<div class="banner" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-					<div class="banner" style="background: {{page:bgcolorb}}; ">
+					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+					<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
 					<div class="bannerrightcontent">
 					<h2>{{ page.title }}</h2>
 					<h3>{{ page.blurb }}</h3> 

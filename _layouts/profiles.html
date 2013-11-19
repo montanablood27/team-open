@@ -21,7 +21,6 @@
 		{% assign orderminusone = page.order|minus:1 %}
 	{% endif %}
 	
-
 </head>
 <body>
 <div id="navbar">
@@ -51,13 +50,15 @@
     {% endif %}
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/leftarrow.png'); " ></div></a>
-<div class="banner" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<div class="banner" style="background: {{page:bgcolorb}} url('/images/bannerright.png'); ">
+<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+<a href="#profile">
+<div class="bannerright" style="background-color: {{page:bgcolorb}}; background-image: url('/images/bannerright.png'); ">
 <div class="bannerrightcontent">
 <h2>{{ page.title }} </h2>
 <h3>{{ page.blurb }}</h3> 
 </div>
 </div>
+</a>
   {% for page in site.pages %}
     {% if page.layout == 'profiles' %}  
     	{% if page.order == {{orderplusone}} %}
@@ -67,11 +68,11 @@
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
 </a>
-<div style="clear: both; " />
-<div id="profcontent">
+<br style="clear: both; " />
+<div id="profile">
 {{content}}
 </div>
-<div id="circles">
+<div id="circles" style="background-color: {{page:bgcolora}}; ">
 <a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen" target="_blank"><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>
 <a href="{{ page.facebookshare }}" target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>
 <a href="https://creativecommons.net/civicrm/mailing/subscribe" target="_blank"><div class="circle" style="background-image: url(/images/newsletter.png); "><div class="circletext">receive the newsletter</div></div></a>
@@ -85,7 +86,7 @@
 <p><a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" width=88 height=31 border=0></a></p>
 <p>The illustration of {{ page.title }} was created by <a href="{{ page.drawingbyurl }}">{{ page.drawingby }}</a>. To the extent possible under the law, {{ page.drawingby }} has waived all copyright and related or neighboring rights under the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Declaration</a>.</p>
 	{% endif %}
-
+<div class="spacer"></div>
 </div>
 </div>
 </body>

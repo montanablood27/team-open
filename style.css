@@ -43,11 +43,19 @@ blockquote {
 	width: 100%;
 	}
 
-.banner {
+.bannerleft, .bannerright {
 	width: 400px;
 	height: 400px;
 	float: left;
 }	
+
+.bannerright a {
+	text-decoration: none;
+	}
+
+.bannerright:hover {
+	background-position: -400px 0px;
+	}
 
 .bannerrightcontent {
 	margin-top: 125px;
@@ -65,10 +73,10 @@ blockquote {
 	background-position: -50px 0px;
 	}
 
-#profcontent {
+#profile {
 	padding-top: 25px;
 	padding-left: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 	padding-right: 200px;
 	line-height: 150%;
 	}
@@ -93,10 +101,11 @@ h1 {
 	}
 	
 #circles {
-	width: 500px;
-	height: 138px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	position: fixed;
+	bottom: 0px;
+	width: 850px;
+	height: 120px;
+	padding-top: 15px;
 	padding-left: 50px;
 	}
 
@@ -115,16 +124,17 @@ h1 {
 	}
 
 .circletext {
+	font-size: 90%;
 	position: absolute;
 	top: 50%;
 	height: 36px;
 	margin-top: -18px;
+	text-decoration: none;
 	}
 
 .circle:hover {
     background-position: -105px -5px;
 	text-indent: 0px;
-	text-decoration: none;
 	}
 
 .heart {
@@ -140,6 +150,7 @@ h1 {
 	}
 
 .hearttext {
+	font-size: 90%;
 	position: absolute;
 	top: 50%;
 	height: 12px;
@@ -148,8 +159,13 @@ h1 {
 
 .heart:hover {
     background-position: -114px 5px;
-	text-indent: 25px;
+	text-indent: 24px;
 	text-decoration: none;
+	}
+	
+.spacer {
+	height: 100px;
+	clear: both;
 	}
 	
 .licensebox {
