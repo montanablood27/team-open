@@ -182,3 +182,13 @@ h1 {
 	background-position: -41px 0px;
 	}
 	
+.selector {
+	width: 900px;
+	height: 400px;
+	background-image: url(/images/rightarrow-all.png);
+	}
+	
+.selector:hover {
+    background-position: 900px 0px;
+    }
+

@@ -17,6 +17,7 @@ permalink: /all/
 			{% if page.layout == 'profiles' %} 
 				{% if page.order == {{i}} %}
 					<a href="{{ page.permalink }}" style="text-decoration: none; ">
+					<div class="selector" style="background-color: {{page:bgcolorb}}; ">
 					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
 					<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
 					<div class="bannerrightcontent">
@@ -24,8 +25,8 @@ permalink: /all/
 					<h3>{{ page.blurb }}</h3> 
 					</div>
 					</div>
-					<div class="arrow" style="background: {{page:bgcolorb}}; " ></div>
-					<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrownocc.png'); " ></div></a>
+					</div>
+					</a>
 					<div style="clear: both; "></div>
 				{% endif %}
 			{% endif %}
