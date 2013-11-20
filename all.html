@@ -16,7 +16,7 @@ permalink: /all/
 		{% for page in site.pages %}
 			{% if page.layout == 'profiles' %} 
 				{% if page.order == {{i}} %}
-					<a href="{{ page.permalink }}">
+					<a href="{{ page.permalink }}" style="text-decoration: none; ">
 					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
 					<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
 					<div class="bannerrightcontent">

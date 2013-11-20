@@ -49,10 +49,6 @@ blockquote {
 	float: left;
 }	
 
-.bannerright a {
-	text-decoration: none;
-	}
-
 .bannerright:hover {
 	background-position: -400px 0px;
 	}
@@ -129,7 +125,6 @@ h1 {
 	top: 50%;
 	height: 36px;
 	margin-top: -18px;
-	text-decoration: none;
 	}
 
 .circle:hover {
@@ -160,7 +155,6 @@ h1 {
 .heart:hover {
     background-position: -114px 5px;
 	text-indent: 24px;
-	text-decoration: none;
 	}
 	
 .spacer {
