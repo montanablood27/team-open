@@ -171,15 +171,15 @@ h1 {
 	}
 	
 .uparrow {
-	width: 41px;
-	height: 41px;
+	width: 52;
+	height: 25px;
 	margin-left: auto;
 	margin-right: 200px;
 	background-image: url(/images/uparrow.png);
 	}
 
 .uparrow:hover {
-	background-position: -41px 0px;
+	background-position: -52px 0px;
 	}
 	
 .selector {
