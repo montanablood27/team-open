@@ -10,25 +10,26 @@ blockquote {
 	padding: 5px;
 	}
 
-#navbar {
+h1 {
+	text-indent: -9999px;
+	background: url(/images/teamopen_logo.png) no-repeat 0 0;
+	width: 500px;
+	height: 82px;
+	margin-left: 50px;
+	margin-right: auto;
+	}
+	
+body a {
+	color: #FEFCFF;
+	}
+
+#middle {
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
 	}
 
-.navface {
-	width: 75px;
-	height: 75px;
-	background-color: inherit;
-	float: left;
-	text-indent: -9999px;
-	}
-
-.navface:hover {
-	background-position: -75px 0px;
-	}
-
-#middle {
+#navbar {
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
@@ -41,6 +42,35 @@ blockquote {
 #bannnerstrip {
 	height: 400px;
 	width: 100%;
+	}
+
+#profile {
+	padding-top: 25px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+	padding-right: 200px;
+	line-height: 150%;
+	}
+
+#circles {
+	position: fixed;
+	bottom: 0px;
+	width: 850px;
+	height: 120px;
+	padding-top: 15px;
+	padding-left: 50px;
+	}
+
+.navface {
+	width: 75px;
+	height: 75px;
+	background-color: inherit;
+	float: left;
+	text-indent: -9999px;
+	}
+
+.navface:hover {
+	background-position: -75px 0px;
 	}
 
 .bannerleft, .bannerright {
@@ -69,40 +99,22 @@ blockquote {
 	background-position: -50px 0px;
 	}
 
-#profile {
-	padding-top: 25px;
-	padding-left: 50px;
-	padding-bottom: 10px;
-	padding-right: 200px;
-	line-height: 150%;
+.uparrow {
+	width: 52;
+	height: 25px;
+	margin-left: auto;
+	margin-right: 200px;
+	background-image: url(/images/uparrow.png);
+	}
+
+.uparrow:hover {
+	background-position: -52px 0px;
 	}
 
 .othercontent {
 	padding-left: 50px;
 	padding-right: 200px;
 	line-height: 150%;
-	}
-
-body a {
-	color: #FEFCFF;
-	}
-
-h1 {
-	text-indent: -9999px;
-	background: url(/images/teamopen_logo.png) no-repeat 0 0;
-	width: 500px;
-	height: 82px;
-	margin-left: 50px;
-	margin-right: auto;
-	}
-	
-#circles {
-	position: fixed;
-	bottom: 0px;
-	width: 850px;
-	height: 120px;
-	padding-top: 15px;
-	padding-left: 50px;
 	}
 
 .circle {
@@ -119,17 +131,17 @@ h1 {
 	text-align: center;
 	}
 
+.circle:hover {
+    background-position: -105px -5px;
+	text-indent: 0px;
+	}
+
 .circletext {
 	font-size: 90%;
 	position: absolute;
 	top: 50%;
 	height: 36px;
 	margin-top: -18px;
-	}
-
-.circle:hover {
-    background-position: -105px -5px;
-	text-indent: 0px;
 	}
 
 .heart {
@@ -144,6 +156,11 @@ h1 {
 	background-image: url(/images/heart.png); 
 	}
 
+.heart:hover {
+    background-position: -114px 5px;
+	text-indent: 24px;
+	}
+
 .hearttext {
 	font-size: 90%;
 	position: absolute;
@@ -152,34 +169,17 @@ h1 {
 	margin-top: -20px;
 	}
 
-.heart:hover {
-    background-position: -114px 5px;
-	text-indent: 24px;
-	}
-	
-.spacer {
-	height: 100px;
-	clear: both;
-	}
-	
 .licensebox {
 	width: 400px;
 	margin-left: 50px;
 	margin-right: auto;
 	padding-bottom: 50px;
 	font-size: 90%;
-	}
-	
-.uparrow {
-	width: 52;
-	height: 25px;
-	margin-left: auto;
-	margin-right: 200px;
-	background-image: url(/images/uparrow.png);
-	}
+	}	
 
-.uparrow:hover {
-	background-position: -52px 0px;
+.spacer {
+	height: 100px;
+	clear: both;
 	}
 	
 .selector {

@@ -16,11 +16,10 @@
 
 </script>
 
+<!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
 	{% assign currentpage = page.title %}
 	{% assign numberofprofiles = 12 %}
-
-<!-- This code is what causes the "next" and "previous" buttons to work. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the maximum number below to the total number of profiles. -->
 
 	{% if page.order == {numberofprofiles} %}
 		{% assign orderplusone = 1 %}
@@ -37,6 +36,9 @@
 </head>
 <body>
 <div id="navbar">
+
+<!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
+
 	{% for i in (1..numberofprofiles) %}
 		{% for page in site.pages %}
 			{% if page.layout == 'profiles' %} 
