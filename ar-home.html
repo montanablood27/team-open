@@ -1,0 +1,24 @@
+---
+layout: annualreport
+ar-banner-bg: /images/ar-copyrightreform.jpg
+bgcolora: "#5C8091"
+bgcolorb: "#7ABBE2"
+title: The future is open
+permalink: /ar/
+published: true
+---
+
+	{% for i in (1..9) %}
+		{% for page in site.pages %}
+			{% if page.layout == 'annualreport' %} 
+				{% if page.order == {{i}} %}
+					<a href="{{ page.permalink }}">
+					<div class="armenu">
+					<div class="armenu-photo" style="background-image: url({{ page.menu-image }})"></div>
+					<h3>{{ page.title }}</h3>
+					</div>
+					</a>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
