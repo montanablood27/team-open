@@ -1,0 +1,103 @@
+<html>
+<head>
+<head>
+<title>{{ page.title }} | The future is open</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2010376-27', 'teamopen.cc');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+<div style="clear: both; "></div>
+<div id="middle" style="background-color: {{page:bgcolora}}; ">
+<div id="topspace"></div>
+
+<div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">  
+
+<!--
+
+<a href="/all/"><h1>Team Open</h1></a>
+  {% for page in site.pages %}
+    {% if page.layout == 'profiles' %}  
+    	{% if page.order == {{orderminusone}} %}
+    		<a href="{{page.permalink}}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+ 
+<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/leftarrow.png'); " ></div></a>
+<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+<a href="#profile" style="text-decoration: none; ">
+</div>
+</div>
+
+
+
+</a>
+  {% for page in site.pages %}
+    {% if page.layout == 'profiles' %}  
+    	{% if page.order == {{orderplusone}} %}
+    		<a href="{{page.permalink}}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
+<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
+</a>
+
+
+-->
+
+</div>
+<br style="clear: both; " />
+<div id="profile">
+<h2>{{ page.title }}</h2>
+{{content}}
+</div>
+
+	{% for feature in site.data.features %}
+		{% if feature.owner == page.order %}
+			<a href="{{ feature.link }}" target="_blank">
+			<div class="feature">
+			<div class="feature-photo" style="background-image: url({{ feature.image }}); "></div>
+							{% if feature.header %}
+					<h3>{{ feature.header }}</h3>
+				{% endif %}
+			<p>{{ feature.description }}</p>
+			<img src="/images/facebooksmall.png" />
+			<img src="/images/twittersmall.png" />
+			</div>
+			</a>
+		{% endif %}
+	{% endfor %}
+<div style="clear: both; " />
+<a href="#"><div class="uparrow"></div></a>
+<!--
+<div id="circles" style="background-color: {{page:bgcolora}}; ">
+<a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>
+<a href="{{ page.facebookshare }}" style="text-decoration: none; " target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>
+<a href="{{ page.newsletter }}" target="_blank" style="text-decoration:none; "><div class="circle" style="background-image: url(/images/newsletter.png); "><div class="circletext">receive the newsletter</div></div></a>
+<a href="https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.source }}&utm_medium=web" target="_blank" style="text-decoration:none; "><div class="heart"><div class="hearttext">support cc</div></div></a>
+</div>
+-->
+<!--
+<div class="licensebox">
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a></p>
+<p><a href="{{page.url}}"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">{{ page.title }} (Team Open)</span></a> was written by {{ page.writer }} for <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Creative Commons</span>. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<div class="spacer"></div>
+</div>
+-->
+</div>
+</body>
+</html>
