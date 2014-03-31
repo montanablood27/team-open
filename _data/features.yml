@@ -3,10 +3,19 @@
   image: /images/roadclosed.jpg
   header: 10 great moments from the CC Summit
   description: Wait until you read number 4!
+  image-license: CC BY-SA 2.0
+  image-author: Daniel Spiess
+  image-title: road-closed
+  image-url: http://www.flickr.com/photos/22341616@N05/4432395270/
+  image-note: cropped and color adjusted
 
 - owner: 3
   link: http://creativecommons.org/weblog/entry/39521
   image: /images/roadclosed.jpg
+  image-license: CC BY-NC-ND 4.0
+  image-author: Daniel Spiess
+  image-title: road-closed
+  image-url: http://www.flickr.com/photos/22341616@N05/4432395270/
   header: CC growing in Africa
   description: The CC community is thriving in Africa. Reports from Tanzania, Uganga, and South Africa.
   
@@ -14,7 +23,12 @@
   link: http://creativecommons.org/weblog/entry/42361
   image: /images/ar-bassel.jpg
   description: CC Syrian community leader Bassel Khartabil has not yet been released from prison.
-  
+  image-license: CC BY 2.0
+  image-author: Joi Ito
+  image-title: Bassel
+  image-url: http://www.flickr.com/photos/joi/4670781482/
+  image-note: cropped and color adjusted
+ 
 - owner: 6
   link: http://creativecommons.org/weblog/entry/39639
   image: /images/roadclosed.jpg

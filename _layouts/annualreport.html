@@ -64,7 +64,11 @@
 
 </div>
 <br style="clear: both; " />
-<div id="profile">
+	{% if page.title == "The future is open" %}
+		<div class="arfeatures">
+	{% else %}
+		<div id="profile">
+	{% endif %}
 <h2>{{ page.title }}</h2>
 {{content}}
 </div>
@@ -74,7 +78,27 @@
 			<a href="{{ feature.link }}" target="_blank">
 			<div class="feature">
 			<div class="feature-photo" style="background-image: url({{ feature.image }}); "></div>
-							{% if feature.header %}
+				{% if feature.image-license %}
+					<a href="#license">					
+					<div class="feature-credit">
+					<small>
+						{% if feature.image-license contains 'BY' %}
+							<img src="/images/by-25-white.png" class="feature-badge" />
+						{% endif %}
+						{% if feature.image-license contains 'NC' %}
+							<img src="/images/nc-25-white.png" class="feature-badge" />
+						{% endif %}						
+						{% if feature.image-license contains 'SA' %}
+							<img src="/images/sa-25-white.png" class="feature-badge" />
+						{% endif %}						
+						{% if feature.image-license contains 'ND' %}
+							<img src="/images/nd-25-white.png" class="feature-badge" />
+						{% endif %}						
+					 {{ feature.image-author }}</a>
+					</small></div>
+					</a>
+				{% endif %}
+				{% if feature.header %}
 					<h3>{{ feature.header }}</h3>
 				{% endif %}
 			<p>{{ feature.description }}</p>
@@ -86,6 +110,28 @@
 	{% endfor %}
 <div style="clear: both; " />
 <a href="#"><div class="uparrow"></div></a>
+
+<div id="license" class="licensebox">
+Image credits
+<ul>
+	{% for feature in site.data.features %}
+		{% if feature.owner == page.order %}
+			{% if feature.image-license %}
+				<li><a href="{{ feature.image-url }}">{{ feature.image-title }}</a>
+				/
+				{{ feature.image-author }}
+				/
+				<a href="http://creativecommons.org/licenses/{{ feature.image-license | remove:'CC ' | replace:' ','/' | downcase}}">{{ feature.image-license }}</a>
+					{% if feature.image-note %}
+						({{ feature.image-note }})
+					{% endif %}
+				</li>
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+</ul>
+</div>
+
 <!--
 <div id="circles" style="background-color: {{page:bgcolora}}; ">
 <a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>

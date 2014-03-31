@@ -117,6 +117,25 @@ body a {
     background-position: -200px 0px;
 	}
 
+.feature-credit {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	margin-top: 5px;
+	}
+
+.feature-credit a {
+	text-decoration: none;
+	}
+
+.feature-badge {
+	width: 25px;
+	height: 25px;
+	margin-right: 1px;
+	vertical-align: middle;
+	}
+
+/*
 .armenu {
 	width: 600px;
 	padding: 10px;
@@ -127,25 +146,50 @@ body a {
 	margin-left: auto;
 	margin-right: auto;
 	}
+*/
 
-.armenu h3 {
-	text-align: center;
+.armenu {
+	width: 250px;
+	margin: 10px;
+	border: 8px solid white;
+	float: left;
+	height: 270px;
 	}
 
+.armenu-textbox {
+	width: 250px;
+	height: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #484848;
+	padding-top: 10px;
+	}
+
+.armenu-textbox h3 {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 0px;
+	}
 
 .armenu-photo {
 	margin-left: auto;
 	margin-right: auto;
-	width: 500px;
-	height: 300px;
+	width: 250px;
+	height: 150px;
 	}	
 
 .armenu-photo:hover {
-    background-position: -500px 0px;
+    background-position: -250px 0px;
 	}
 
-
-
+.armenu-sharebox {
+	width: 250px;
+	height: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
 
 #ar-textblock {
 	width: 350px;
