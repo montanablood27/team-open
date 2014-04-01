@@ -18,16 +18,57 @@
 
 </script>
 
+<!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
+
+	{% assign numberofpages = 9 %}
+
+	{% if page.order %}
+		{% if page.order == {numberofpages} %}
+			{% assign orderplusone = 1 %}
+		{% else %}
+			{% assign orderplusone = page.order|plus:1 %}
+		{% endif %}
+	{% endif %}
+
+	{% if page.order %}
+		{% if page.order == 1 %}
+			{% assign orderminusone = {numberofpages} %}
+		{% else %}
+			{% assign orderminusone = page.order|minus:1 %}
+		{% endif %}
+	{% endif %}
+
 </head>
 <body>
 <div style="clear: both; "></div>
-<div id="middle" style="background-color: {{page:bgcolora}}; ">
+<div id="middle" style="background-color: {{ page:bgcolora }}; ">
 <div id="topspace"></div>
 
 <div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">  
+
+{% if page.order %}
+  {% for page in site.pages %}
+    {% if page.layout == 'annualreport' %}  
+    	{% if page.order == {{orderminusone}} %}
+    		<a href="{{ page.permalink }}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
 <div class="arrow" style="background-image: url('/images/leftarrow.png'); " ></div>
+</a>
+
 <div style="width: 800px; float:left; ">&#160;</div>
+
+  {% for page in site.pages %}
+    {% if page.layout == 'annualreport' %}  
+    	{% if page.order == {{orderplusone}} %}
+    		<a href="{{ page.permalink }}">
+    	{% endif %}
+    {% endif %}
+  {% endfor %}
 <div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
+</a>
+{% endif %}
 </div>
 
 
@@ -47,7 +88,7 @@
 			<a href="{{ feature.link }}" target="_blank">
 			<div class="armenu">
 			<div class="armenu-photo" style="background-image: url({{ feature.image }})"></div>
-			<div class="armenu-textbox">
+			<div class="armenu-textbox" style="background-color: {{ page.bgcolorb }};">
 					<p>{{ feature.description }}</p>
 			</div>
 			<div class="armenu-sharebox">
