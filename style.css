@@ -156,6 +156,10 @@ body a {
 	height: 270px;
 	}
 
+.armenu a {
+	text-decoration: none;
+	}
+
 .armenu-textbox {
 	width: 250px;
 	height: 75px;
@@ -173,6 +177,16 @@ body a {
 	margin-top: 0px;
 	}
 
+.armenu-textbox p {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 0px;
+	font-size: 90%;
+	}
+
+
 .armenu-photo {
 	margin-left: auto;
 	margin-right: auto;
@@ -189,6 +203,7 @@ body a {
 	height: 25px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	padding-left: 5px;
 	}
 
 #ar-textblock {

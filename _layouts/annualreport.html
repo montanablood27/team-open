@@ -28,41 +28,9 @@
 <div class="arrow" style="background-image: url('/images/leftarrow.png'); " ></div>
 <div style="width: 800px; float:left; ">&#160;</div>
 <div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
-
-<!--
-
-<a href="/all/"><h1>Team Open</h1></a>
-  {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderminusone}} %}
-    		<a href="{{page.permalink}}">
-    	{% endif %}
-    {% endif %}
-  {% endfor %}
- 
-<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/leftarrow.png'); " ></div></a>
-<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-<a href="#profile" style="text-decoration: none; ">
-</div>
 </div>
 
 
-
-</a>
-  {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderplusone}} %}
-    		<a href="{{page.permalink}}">
-    	{% endif %}
-    {% endif %}
-  {% endfor %}
-<div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
-</a>
-
-
--->
-
-</div>
 <br style="clear: both; " />
 	{% if page.title == "The future is open" %}
 		<div class="arfeatures">
@@ -73,41 +41,41 @@
 {{content}}
 </div>
 
+<div class="arfeatures">
 	{% for feature in site.data.features %}
 		{% if feature.owner == page.order %}
 			<a href="{{ feature.link }}" target="_blank">
-			<div class="feature">
-			<div class="feature-photo" style="background-image: url({{ feature.image }}); "></div>
+			<div class="armenu">
+			<div class="armenu-photo" style="background-image: url({{ feature.image }})"></div>
+			<div class="armenu-textbox">
+					<p>{{ feature.description }}</p>
+			</div>
+			<div class="armenu-sharebox">
 				{% if feature.image-license %}
 					<a href="#license">					
-					<div class="feature-credit">
-					<small>
+					<!--<div class="feature-credit">-->
 						{% if feature.image-license contains 'BY' %}
-							<img src="/images/by-25-white.png" class="feature-badge" />
+							<img src="/images/by-25-white.png" />
 						{% endif %}
 						{% if feature.image-license contains 'NC' %}
-							<img src="/images/nc-25-white.png" class="feature-badge" />
+							<img src="/images/nc-25-white.png" />
 						{% endif %}						
 						{% if feature.image-license contains 'SA' %}
-							<img src="/images/sa-25-white.png" class="feature-badge" />
+							<img src="/images/sa-25-white.png" />
 						{% endif %}						
 						{% if feature.image-license contains 'ND' %}
-							<img src="/images/nd-25-white.png" class="feature-badge" />
+							<img src="/images/nd-25-white.png" />
 						{% endif %}						
-					 {{ feature.image-author }}</a>
-					</small></div>
-					</a>
+					<!--</div>--></a>
 				{% endif %}
-				{% if feature.header %}
-					<h3>{{ feature.header }}</h3>
-				{% endif %}
-			<p>{{ feature.description }}</p>
 			<img src="/images/facebooksmall.png" />
 			<img src="/images/twittersmall.png" />
 			</div>
 			</a>
+		</div>
 		{% endif %}
 	{% endfor %}
+</div>
 <div style="clear: both; " />
 <a href="#"><div class="uparrow"></div></a>
 
