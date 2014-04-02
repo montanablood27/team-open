@@ -9,7 +9,7 @@
   image-note: cropped and color adjusted
 
 - owner: 3
-  link: http://creativecommons.org/weblog/entry/39521
+  link: https://creativecommons.org/weblog/entry/42167
   image: /images/roadclosed.jpg
   image-license: CC BY-NC-ND 4.0
   image-author: Daniel Spiess
@@ -19,7 +19,7 @@
   description: The CC community is thriving in Africa. Reports from Tanzania, Uganga, and South Africa.
   
 - owner: 3
-  link: http://creativecommons.org/weblog/entry/39521
+  link: https://creativecommons.org/weblog/entry/42208
   image: /images/roadclosed.jpg
   image-license: CC BY-NC-ND 4.0
   image-author: Daniel Spiess
@@ -29,14 +29,14 @@
   description: Reports from Algeria, Lebanon, Morocco, and Palestine.
   
 - owner: 3
-  link: http://creativecommons.org/weblog/entry/39521
+  link: https://creativecommons.org/weblog/entry/42249
   image: /images/roadclosed.jpg
   image-license: CC BY-NC-ND 4.0
   image-author: Daniel Spiess
   image-title: road-closed
   image-url: http://www.flickr.com/photos/22341616@N05/4432395270/
   header: Asia-Pacific Affiliates  
-  description: Projcets in open data, media education, and public domain guidelines in Japan, New Zealand, and Taiwan.
+  description: Projects in open data, media education, and public domain guidelines in Japan, New Zealand, and Taiwan.
   
 - owner: 3
   link: http://creativecommons.org/weblog/entry/39521
@@ -46,8 +46,18 @@
   image-title: road-closed
   image-url: http://www.flickr.com/photos/22341616@N05/4432395270/
   header: E
-  description: Projcets in open data, media education, and public domain guidelines in Japan, New Zealand, and Taiwan.
-  
+  description: Moving forward in tech, culture, and education in Finland, Ireland, and Romania.
+
+- owner: 3
+  link: http://creativecommons.org/weblog/entry/42393
+  image: /images/roadclosed.jpg
+  image-license: CC BY-NC-ND 4.0
+  image-author: Daniel Spiess
+  image-title: road-closed
+  image-url: http://www.flickr.com/photos/22341616@N05/4432395270/
+  header: E
+  description: Latin America takes on academic journals, open ed for librarians, and music throughout the region
+
 - owner: 6
   link: http://creativecommons.org/weblog/entry/42361
   image: /images/ar-bassel.jpg
