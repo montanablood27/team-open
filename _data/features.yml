@@ -69,9 +69,19 @@
   image-url: https://www.flickr.com/photos/nofrills/10895361/in/photostream/
   image-note: cropped
   header: E
-  description: 4.0 Legal translations flourish
+  description: 4.0 legal translations flourish
 
-
+- owner: 3
+  link: http://wiki.creativecommons.org/Legal_Tools_Translation
+  image: /images/global-newaffiliates.jpg
+  image-license: CC BY-NC 2.0
+  image-author: Matt Hamm
+  image-title: The World Islands Dubai
+  image-url: https://www.flickr.com/photos/matthamm/35407238
+  image-note: 
+  header: E
+  description: New affiliate teams in India, Kenya, Mongolia, United Kingdom, and the United States.
+  
 - owner: 6
   link: http://creativecommons.org/weblog/entry/42361
   image: /images/ar-bassel.jpg
