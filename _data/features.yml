@@ -83,7 +83,7 @@
   description: New affiliate teams in India, Kenya, Mongolia, United Kingdom, and the United States.
   
 - owner: 3
-  link:
+  link: http://us.creativecommons.org/archives/852
   image: /images/global-morocco.jpg
   image-license: CC BY-NC 2.0
   image-author: Kieren Messenger
@@ -91,18 +91,7 @@
   image-url: https://www.flickr.com/photos/antiquote/4995316209
   image-note: cropped
   header: E
-  description: WIPO Marrakesch treaty for print/disabled
-
-- owner: 3
-  link: creativecommons.org/affiliates
-  image: /images/global-newaffiliates.jpg
-  image-license: CC BY-NC 2.0
-  image-author: Matt Hamm
-  image-title: the world islands dubai
-  image-url: https://www.flickr.com/photos/matthamm/35407238
-  image-note: cropped
-  header: E
-  description: TPP 
+  description: WIPO Marrakesch treaty for print disabled
 
 - owner: 3
   link: creativecommons.org/affiliates
