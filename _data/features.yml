@@ -15,7 +15,7 @@
   image-author: Paul Kihwelo
   image-title: cc tanzania salon
   image-url: https://www.dropbox.com/sh/dobz4z2fqf81nuw/NQp6bBpCmB#lh:null-DSC00099.JPG
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: CC growing in Africa
   description: The CC culture and education communities are thriving in Africa.
   
@@ -26,6 +26,7 @@
   image-author: Maya Zankoul
   image-title: cc morocco movie
   image-url: 
+  image-note: color adjusted
   header: Arab World takes on music, media, and education.
   description: Arab World Update. Reports from Algeria, Lebanon, Morocco, and Palestine.
   
@@ -36,6 +37,7 @@
   image-author: Meryl Mohan
   image-title: asia-pacific 
   image-url: 
+  image-note: color adjusted
   header: Asia-Pacific Affiliates  
   description: Asia-Pacific takes on open data, media education, and public domain in Japan, New Zealand, Taiwan.
   
@@ -46,7 +48,7 @@
   image-author: Conor McCabe
   image-title: cc ireland salon
   image-url: https://www.flickr.com/photos/114281612@N04/12014979964/lightbox/
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: E
   description: Europe moves forward in tech, culture, and education in Finland, Ireland, and Romania.
 
@@ -57,7 +59,7 @@
   image-author: Peter Miller
   image-title: south america - a year of edits
   image-url: https://www.flickr.com/photos/peterito/2808008345
-  image-note: cropped and scaled
+  image-note: cropped, scaled, and color adjusted
   header: E
   description: Latin America project updates on academic journals, open ed for librarians, and music.
 
@@ -68,7 +70,7 @@
   image-author: nofrills
   image-title: language variety on cadbury's choc
   image-url: https://www.flickr.com/photos/nofrills/10895361/in/photostream/
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: E
   description: 4.0 legal translations flourish
 
@@ -79,7 +81,7 @@
   image-author: Matt Hamm
   image-title: the world islands dubai
   image-url: https://www.flickr.com/photos/matthamm/35407238
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: E
   description: New affiliate teams in India, Kenya, Mongolia, United Kingdom, and the United States.
   
@@ -90,7 +92,7 @@
   image-author: Kieren Messenger
   image-title: Morocco - Meknes
   image-url: https://www.flickr.com/photos/antiquote/4995316209
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: E
   description: WIPO Marrakesch treaty for print disabled
 
@@ -101,21 +103,20 @@
   image-author: Angelo DeSantis
   image-title: international law books
   image-url: https://www.flickr.com/photos/angeloangelo/8147928376
-  image-note: cropped
+  image-note: cropped and color adjusted
   header: E
   description: Bringing IGOs into the community
 
   
 - owner: 5
-  link: http://creativecommons.org/weblog/entry/42361
-  image: /images/ar-bassel.jpg
-  description: CC Syrian community leader Bassel Khartabil has not yet been released from prison.
-  image-license: CC BY 2.0
-  image-author: Joi Ito
-  image-title: Bassel
-  image-url: http://www.flickr.com/photos/joi/4670781482/
+  link: https://creativecommons.org/weblog/entry/37866
+  image: /images/platforms-dpla.jpg
+  image-license: CC BY-NC 2.0
+  image-author: Diana Gels, Digital Public Library of America
+  image-title: DPLA
+  image-url: https://www.flickr.com/photos/dpla/6771226677/
   image-note: cropped and color adjusted
-  description: Digital Public Libraries of America launches
+  description: Digital Public Library of America launches
 
   
 - owner: 5
@@ -125,7 +126,7 @@
   image-license: CC BY 2.0
   image-author: Joi Ito
   image-title: Bassel
-  image-url: http://www.flickr.com/photos/joi/4670781482/
+  image-url: https://www.flickr.com/photos/dpla/6771226677/
   image-note: cropped and color adjusted
   description: Autodesk
 
