@@ -138,6 +138,16 @@
   image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
   image-note: cropped and color adjusted
   description: Bing & Microsoft Office incorporate CC
+
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/34236
+  image: /images/platforms-lrmi.jpg
+  image-license: CC BY 2.0
+  image-author: gabitogol
+  image-title: Metadata
+  image-url: https://www.flickr.com/photos/19499961@N00/6588259005
+  image-note: cropped and color adjusted
+  description: LRMI accepted into schema.org
   
 - owner: 6
   link: http://creativecommons.org/weblog/entry/42361
