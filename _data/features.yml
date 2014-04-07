@@ -90,7 +90,7 @@
   image: /images/global-morocco.jpg
   image-license: CC BY-NC 2.0
   image-author: Kieren Messenger
-  image-title: Morocco - Meknes
+  image-title: morocco - meknes
   image-url: https://www.flickr.com/photos/antiquote/4995316209
   image-note: cropped and color adjusted
   header: E
@@ -113,7 +113,7 @@
   image: /images/platforms-dpla.jpg
   image-license: CC BY-NC 2.0
   image-author: Diana Gels, Digital Public Library of America
-  image-title: DPLA
+  image-title: dpla
   image-url: https://www.flickr.com/photos/dpla/6771226677/
   image-note: cropped and color adjusted
   description: Digital Public Library of America launches
@@ -124,7 +124,7 @@
   image: /images/platforms-autodesk.jpg
   image-license: CC BY-NC 2.0
   image-author: Robin Capper
-  image-title: Autodesk Blogger Day 2014 Trip
+  image-title: autodesk blogger day 2014 trip
   image-url: https://www.flickr.com/photos/robinzblog/13477436423
   image-note: cropped and color adjusted
   description: Autodesk 2014 product line available under CC
@@ -134,7 +134,7 @@
   image: /images/platforms-microsoft.jpg
   image-license: CC BY-NC 2.0
   image-author: Michael Kappel
-  image-title: Microsoft Store Logo
+  image-title: microsoft store logo
   image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
   image-note: cropped and color adjusted
   description: Bing & Microsoft Office incorporate CC
@@ -144,11 +144,21 @@
   image: /images/platforms-lrmi.jpg
   image-license: CC BY 2.0
   image-author: gabitogol
-  image-title: Metadata
+  image-title: metadata
   image-url: https://www.flickr.com/photos/19499961@N00/6588259005
   image-note: cropped and color adjusted
   description: Learning Resource Metadata Initiative (LRMI) accepted into schema.org
-  
+
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/41895
+  image: /images/platforms-honda.jpg
+  image-license: CC BY 2.0
+  image-author: Hsin-Cheng Lin
+  image-title: Wei's 3d printed car
+  image-url: https://www.flickr.com/photos/hsincheng_lin/9830677904
+  image-note: cropped and color adjusted
+  description: Honda releases 3D models under CC
+   
 - owner: 6
   link: http://creativecommons.org/weblog/entry/42361
   image: /images/global-igos.jpg
