@@ -21,7 +21,7 @@
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
 	{% assign currentpage = page.title %}
-	{% assign numberofpages = 9 %}
+	{% assign numberofpages = 10 %}
 
 	{% if page.order %}
 		{% if page.order == {numberofpages} %}
@@ -43,11 +43,11 @@
 <body>
 
 <a href="/ar/"><h1 class="annualreport" style="background-color: {{ page.bgcolorb }}; ">the future is open</h1></a>
-<div id="navbar" style="width: 675px;">
+<div id="navbar" style="width: 750px;">
 
 <!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
 
-	{% for i in (1..9) %}
+	{% for i in (1..numberofpages) %}
 		{% for page in site.pages %}
 			{% if page.layout == 'annualreport' %} 
 				{% if page.order == {{i}} %}
