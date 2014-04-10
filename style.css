@@ -19,6 +19,16 @@ h1 {
 	margin-right: auto;
 	}
 	
+h1.annualreport {
+	text-indent: -9999px;
+	background: url(/images/ar-title.png) no-repeat 0 0;
+	width: 750px;
+	height: 114px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	}
+
 body a {
 	color: #FEFCFF;
 	}
