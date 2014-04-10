@@ -20,8 +20,7 @@
 
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
-	{% assign currentpage = page.title %}
-	{% assign numberofprofiles = 9 %}
+	{% assign numberofpages = 9 %}
 
 	{% if page.order %}
 		{% if page.order == {numberofpages} %}
@@ -41,33 +40,9 @@
 
 </head>
 <body>
-
-<h2 align="center" style="color: {{ page.bgcolorb }}">the future is open</h2>
-<div id="navbar" style="width: 675px;">
-
-<!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
-
-	{% for i in (1..9) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'annualreport' %} 
-				{% if page.order == {{i}} %}
-					{% if page.title == {{currentpage}} %}
-						<div class="navface" style="background-image: url({{page.navurl}}); background-color: {{ page.bgcolorb }}; background-position: -75px 0px; ">{{ page.title }}</div>
-					{% else %}
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
-					{% endif %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endfor %}
-</div>
-
-
 <div style="clear: both; "></div>
 <div id="middle" style="background-color: {{ page:bgcolora }}; ">
 <div id="topspace"></div>
-
-
 
 <div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">  
 
