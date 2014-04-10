@@ -178,12 +178,23 @@
   image-url: https://www.flickr.com/photos/opensourceway/4371000486
   image-note: cropped and color adjusted
   description: Increasing the free availability of foundation-supported works
- 
+
+- owner: 5
+  link: https://creativecommons.org/weblog/entry/41423
+  image: /images/platforms-foundation.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Libby Levi, opensource.com
+  image-title: Gary Hamel - Open source is one of the greatest management innovations of the 21st century
+  image-url: https://www.flickr.com/photos/opensourceway/4371000486
+  image-note: cropped and color adjusted
+  description: School of Open launches, accomplishes global impact
+
+
 - owner: 6
   link: teamopen.cc/piya
   image: /images/ar-teamopen-piya.gif
   description: Piya Sorcar
-
+  
 - owner: 6
   link: http://creativecommons.org/weblog/entry/39639
   image: /images/roadclosed.jpg
