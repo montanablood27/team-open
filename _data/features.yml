@@ -260,14 +260,44 @@
   image-title: Bassel
   image-url: http://www.flickr.com/photos/joi/4670781482/
   image-note: cropped and color adjusted
-  
+
 - owner: 7
+  link: http://creativecommons.org/weblog/entry/42361
+  image: /images/ar-bassel.jpg
+  description: K-12 user research (product development)
+  image-license: CC BY 2.0
+  image-author: Joi Ito
+  image-title: Bassel
+  image-url: http://www.flickr.com/photos/joi/4670781482/
+  image-note: cropped and color adjusted
+
+- owner: 7
+  link: //creativecommons.org/weblog/entry/39978
+  image: /images/roadclosed.jpg
+  description: K-12 user research (product development)
+
+- owner: 7
+  link: //creativecommons.org/weblog/entry/39978
+  image: /images/roadclosed.jpg
+  description: can’t yet track use and reuse on CC licenses
+
+- owner: 7
+  link: //creativecommons.org/weblog/entry/39978
+  image: /images/roadclosed.jpg
+  description: incompatible with GPL 
+
+- owner: 7
+  link: //creativecommons.org/weblog/entry/39978
+  image: /images/roadclosed.jpg
+  description: humanities
+  
+- owner: 8
   link: //creativecommons.org/weblog/entry/39978
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
   header: Try open
   
-- owner: 7
+- owner: 8
   link: //wiki.creativecommons.org/CC_Affiliate_Network
   image: /images/roadclosed.jpg
   header: Join the community.
