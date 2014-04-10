@@ -205,6 +205,18 @@ body a {
 	padding-left: 5px;
 	}
 
+.navby {
+	width: 75px;
+	height: 75px;
+	background-color: #bebebe;
+	float: left;
+	text-indent: -9999px;
+	}
+
+.navby:hover {
+	background-position: -75px 0px;
+	}
+
 #ar-textblock {
 	width: 350px;
 	padding-top: 25px;
