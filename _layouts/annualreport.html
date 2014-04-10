@@ -52,9 +52,9 @@
 			{% if page.layout == 'annualreport' %} 
 				{% if page.order == {{i}} %}
 					{% if page.title == {{currentpage}} %}
-						<div class="navface" style="background-image: url({{page.navurl}}); background-color: {{ page.bgcolorb }}; background-position: -75px 0px; ">{{ page.title }}</div>
+						<div class="navface" style="background-image: url({{ page.navurl }}); background-color: {{ page.bgcolorb }}; background-position: -75px 0px; ">{{ page.title }}</div>
 					{% else %}
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
+						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); background-color: {{ page.bgcolorb }};">{{ page.title }}</div></a>
 					{% endif %}
 				{% endif %}
 			{% endif %}
