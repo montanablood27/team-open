@@ -21,7 +21,7 @@
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
 	{% assign currentpage = page.title %}
-	{% assign numberofprofiles = 9 %}
+	{% assign numberofpages = 9 %}
 
 	{% if page.order %}
 		{% if page.order == {numberofpages} %}
