@@ -307,14 +307,14 @@
   description: can’t yet track use and reuse on CC licenses
   
 - owner: 8
-  link: donate.creativecommons.org
+  link: https://donate.creativecommons.org/
   image: /images/participate-donate.jpg
   image-license: CC BY-NC-SA 2.0
   image-author: LEOL30
   image-title: donate for re-use
   image-urL: https://www.flickr.com/photos/lwr/118050340
   image-note: cropped and color adjusted
-  description: Make a donation to CC
+  description: Make a donation to CC.
   
 - owner: 8
   link: //creativecommons.org/weblog/entry/39978
