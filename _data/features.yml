@@ -317,20 +317,24 @@
   description: Make a donation to CC.
   
 - owner: 8
-  link: //creativecommons.org/weblog/entry/39978
+  link: http://creativecommons.org/choose/
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
   
 - owner: 8
   link: //wiki.creativecommons.org/CC_Affiliate_Network
-  image: /images/roadclosed.jpg
-  header: Join the community.
+  image: /images/participate-affiliates.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: HUMAN&HEROBUM
+  image-title: hey
+  image-urL: https://www.flickr.com/photos/herobum/4684737183
+  image-note: cropped and color adjusted
   description: Get involved with the CC affiliate in your country.
   
 - owner: 8
-  link: //creativecommons.org/weblog/entry/39978
+  link: http://search.creativecommons.org/
   image: /images/roadclosed.jpg
-  description:   check out cool adopters
+  description: Use CC-licensed content.
   
 - owner: 8
   link: //creativecommons.org/weblog/entry/39978
