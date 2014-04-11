@@ -273,8 +273,12 @@
 
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description: K-12 user research (product development)
+  image: /images/whatdidnt-product.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: Steven Warburton
+  image-title: communities
+  image-urL: https://www.flickr.com/photos/stevenwarburton/3209461104/
+  description: K-12 user research and product development on hold
 
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
