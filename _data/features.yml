@@ -349,6 +349,16 @@
 
   
 - owner: 8
+  link: //creativecommons.org/weblog/entry/39978
+  image: /images/participate-mic.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: Bruno Belcastro
+  image-title: microphone
+  image-urL: https://www.flickr.com/photos/argen/7094368529
+  image-note: cropped and color adjusted
+  description:  Share your open story.
+  
+- owner: 8
   link: http://creativecommons.org/choose/
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
@@ -358,11 +368,7 @@
   link: //creativecommons.org/weblog/entry/39978
   image: /images/roadclosed.jpg
   description:   take a school of open course/project! 
-  
-- owner: 8
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description:  Share your open story.
+
   
 - owner: 10
   link: //creativecommons.org/weblog/entry/39978
