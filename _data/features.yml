@@ -190,6 +190,17 @@
   description: School of Open launches, reaching global impact
 
 
+- owner: 5
+  link: https://creativecommons.org/tag/open-textbooks
+  image: /images/platforms-opentextbook.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Dave Dugdale
+  image-title: open book
+  image-url: https://www.flickr.com/photos/davedugdale/5099718716
+  image-note: cropped and color adjusted
+  description: Students rally around open textbooks
+
+
 - owner: 6
   link: teamopen.cc/piya
   image: /images/ar-teamopen-piya.gif
