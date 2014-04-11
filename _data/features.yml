@@ -315,11 +315,7 @@
   image-urL: https://www.flickr.com/photos/lwr/118050340
   image-note: cropped and color adjusted
   description: Make a donation to CC.
-  
-- owner: 8
-  link: http://creativecommons.org/choose/
-  image: /images/roadclosed.jpg
-  description: Make a decision to openly license your work in 2014.
+
   
 - owner: 8
   link: //wiki.creativecommons.org/CC_Affiliate_Network
@@ -330,6 +326,11 @@
   image-urL: https://www.flickr.com/photos/herobum/4684737183
   image-note: cropped and color adjusted
   description: Get involved with the CC affiliate in your country.
+    
+- owner: 8
+  link: http://creativecommons.org/choose/
+  image: /images/roadclosed.jpg
+  description: Make a decision to openly license your work in 2014.
   
 - owner: 8
   link: http://search.creativecommons.org/
