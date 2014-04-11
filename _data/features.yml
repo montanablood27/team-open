@@ -340,10 +340,10 @@
 - owner: 8
   link: http://openpolicynetwork.org
   image: /images/participate-policy.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: AJ Cann
-  image-title: open access
-  image-urL: https://www.flickr.com/photos/ajc1/4051820019
+  image-license: CC BY-SA 2.0
+  image-author: Libby Levi, opensource.com
+  image-title: open source - dangerous to computing education?
+  image-urL: https://www.flickr.com/photos/opensourceway/4371000798
   image-note: cropped and color adjusted
   description:   Advocate for policy changes within institutions.
 
@@ -357,17 +357,23 @@
   image-urL: https://www.flickr.com/photos/argen/7094368529
   image-note: cropped and color adjusted
   description:  Share your open story.
-  
+ 
+ 
+- owner: 8
+  link: https://p2pu.org/en/schools/school-of-open/
+  image: /images/participate-learn.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Jessica Duensing, opensource.com
+  image-title: education reform: insert your favorite "wrath of khan" joke blog title here
+  image-urL: https://www.flickr.com/photos/opensourceway/6082519811
+  image-note: cropped and color adjusted
+  description:   Take a School of Open course and/or project
+ 
+ 
 - owner: 8
   link: http://creativecommons.org/choose/
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
-
-
-- owner: 8
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description:   take a school of open course/project! 
 
   
 - owner: 10
