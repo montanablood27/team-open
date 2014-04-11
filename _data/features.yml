@@ -289,13 +289,18 @@
   image-title: only proprietary?
   image-urL: https://www.flickr.com/photos/barraquito/39854118
   image-note: cropped and color adjusted
-  description: CC still incompatible with GPL 
+  description: Incompatible with GPL 
 
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description: humanities
-
+  image: /images/whatdidnt-humanities.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: rherring
+  image-title: HRC
+  image-urL: https://www.flickr.com/photos/rherring/275455178
+  image-note: cropped and color adjusted
+  description: Humanities researchers haven't enhance CC
+  
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
   image: /images/roadclosed.jpg
