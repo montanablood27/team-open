@@ -326,7 +326,6 @@
   image-urL: https://www.flickr.com/photos/herobum/4684737183
   image-note: cropped and color adjusted
   description: Get involved with the CC affiliate in your country.
-
   
 - owner: 8
   link: http://search.creativecommons.org/
@@ -338,16 +337,22 @@
   image-note: cropped and color adjusted
   description: Find and/or use CC-licensed content.
   
+- owner: 8
+  link: http://openpolicynetwork.org
+  image: /images/participate-policy.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: AJ Cann
+  image-title: open access
+  image-urL: https://www.flickr.com/photos/ajc1/4051820019
+  image-note: cropped and color adjusted
+  description:   Advocate for policy changes within institutions.
+
   
 - owner: 8
   link: http://creativecommons.org/choose/
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
 
-- owner: 8
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description:   advocate for policy changes w/in institutions
 
 - owner: 8
   link: //creativecommons.org/weblog/entry/39978
