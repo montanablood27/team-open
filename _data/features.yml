@@ -286,9 +286,13 @@
   description: can’t yet track use and reuse on CC licenses
 
 - owner: 7
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description: incompatible with GPL 
+  link: http://wiki.creativecommons.org/GPL_compatibility_use_cases
+  image: /images/whatdidnt-gpl.jpg
+  image-license: CC BY-SA 2.0
+  image-author: barraquito
+  image-title: only proprietary?
+  image-urL: https://www.flickr.com/photos/barraquito/39854118
+  description: CC still incompatible with GPL 
 
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
