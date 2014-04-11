@@ -296,10 +296,10 @@
   image: /images/whatdidnt-humanities.jpg
   image-license: CC BY-NC-SA 2.0
   image-author: rherring
-  image-title: HRC
+  image-title: hrc
   image-urL: https://www.flickr.com/photos/rherring/275455178
   image-note: cropped and color adjusted
-  description: Humanities researchers haven't enhance CC
+  description: Humanities researchers haven't enhanced CC
   
 - owner: 7
   link: //creativecommons.org/weblog/entry/39978
@@ -307,15 +307,19 @@
   description: can’t yet track use and reuse on CC licenses
   
 - owner: 8
-  link: //wiki.creativecommons.org/CC_Affiliate_Network
-  image: /images/roadclosed.jpg
-  description: Donate to CC.
+  link: donate.creativecommons.org
+  image: /images/participate-donate.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: LEOL30
+  image-title: donate for re-use
+  image-urL: https://www.flickr.com/photos/lwr/118050340
+  image-note: cropped and color adjusted
+  description: Make a donation to CC
   
 - owner: 8
   link: //creativecommons.org/weblog/entry/39978
   image: /images/roadclosed.jpg
   description: Make a decision to openly license your work in 2014.
-  header: Try open
   
 - owner: 8
   link: //wiki.creativecommons.org/CC_Affiliate_Network
