@@ -277,7 +277,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: Steven Warburton
   image-title: communities
-  image-urL: https://www.flickr.com/photos/stevenwarburton/3209461104/
+  image-url: https://www.flickr.com/photos/stevenwarburton/3209461104/
   image-note: cropped and color adjusted
   description: K-12 user research and product development on hold
 
@@ -287,7 +287,7 @@
   image-license: CC BY-SA 2.0
   image-author: barraquito
   image-title: only proprietary?
-  image-urL: https://www.flickr.com/photos/barraquito/39854118
+  image-url: https://www.flickr.com/photos/barraquito/39854118
   image-note: cropped and color adjusted
   description: Incompatible with GPL 
 
@@ -297,7 +297,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: rherring
   image-title: hrc
-  image-urL: https://www.flickr.com/photos/rherring/275455178
+  image-url: https://www.flickr.com/photos/rherring/275455178
   image-note: cropped and color adjusted
   description: Humanities researchers haven't enhanced CC
   
@@ -312,7 +312,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: LEOL30
   image-title: donate for re-use
-  image-urL: https://www.flickr.com/photos/lwr/118050340
+  image-url: https://www.flickr.com/photos/lwr/118050340
   image-note: cropped and color adjusted
   description: Make a donation to CC.
 
@@ -323,7 +323,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: HUMAN&HEROBUM
   image-title: hey
-  image-urL: https://www.flickr.com/photos/herobum/4684737183
+  image-url: https://www.flickr.com/photos/herobum/4684737183
   image-note: cropped and color adjusted
   description: Get involved with the CC affiliate in your country.
   
@@ -333,7 +333,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: Enokson
   image-title: where do i find creative commons items?
-  image-urL: https://www.flickr.com/photos/vblibrary/6988640903
+  image-url: https://www.flickr.com/photos/vblibrary/6988640903
   image-note: cropped and color adjusted
   description: Find and/or use CC-licensed content.
   
@@ -343,7 +343,7 @@
   image-license: CC BY-SA 2.0
   image-author: Libby Levi, opensource.com
   image-title: open source - dangerous to computing education?
-  image-urL: https://www.flickr.com/photos/opensourceway/4371000798
+  image-url: https://www.flickr.com/photos/opensourceway/4371000798
   image-note: cropped and color adjusted
   description:   Advocate for policy changes within institutions.
 
@@ -354,7 +354,7 @@
   image-license: CC BY-NC-SA 2.0
   image-author: Bruno Belcastro
   image-title: microphone
-  image-urL: https://www.flickr.com/photos/argen/7094368529
+  image-url: https://www.flickr.com/photos/argen/7094368529
   image-note: cropped and color adjusted
   description:  Share your open story.
  
@@ -364,8 +364,17 @@
   image: /images/participate-learn.jpg
   image-license: CC BY-SA 2.0
   image-author: Jessica Duensing, opensource.com
+<<<<<<< HEAD
   image-title: education reform: insert your favorite "wrath of khan" joke blog title here
+  image-url: https://www.flickr.com/photos/opensourceway/6082519811
+=======
+  image-title: education reform&#58; insert your favorite &#8220;wrath of khan&#8221; joke blog title here
+<<<<<<< HEAD
   image-urL: https://www.flickr.com/photos/opensourceway/6082519811
+>>>>>>> FETCH_HEAD
+=======
+  image-url: https://www.flickr.com/photos/opensourceway/6082519811
+>>>>>>> FETCH_HEAD
   image-note: cropped and color adjusted
   description:   Take a School of Open course and/or project
  
