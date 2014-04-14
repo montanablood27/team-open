@@ -364,7 +364,7 @@
   image: /images/participate-learn.jpg
   image-license: CC BY-SA 2.0
   image-author: Jessica Duensing, opensource.com
-  image-title: education reform - insert your favorite "wrath of khan" joke blog title here
+  image-title: education reform: insert your favorite "wrath of khan" joke blog title here
   image-url: https://www.flickr.com/photos/opensourceway/6082519811
   image-note: cropped and color adjusted
   description:   Take a School of Open course and/or project
@@ -382,8 +382,8 @@
   description:  CC Staff
 
 - owner: 10
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
+  link: http://wiki.creativecommons.org/CC_Affiliate_Network
+  image: /images/about-affiliates.jpg
   description: Affiliates
 
 - owner: 10
