@@ -8,6 +8,27 @@ permalink: /ar/
 published: true
 ---
 
+	{% assign numberofpages = 10 %}
+
+	{% for i in (1..10) %}
+		{% for page in site.pages %}
+			{% if page.layout == 'annualreport' %} 
+				{% if page.order == {{i}} %}
+					<a href="{{ page.permalink }}">
+					<div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">
+					<div style="width: 850px; float:left; ">
+					<h2 style="background-color: rgba(0, 0, 0, 0.5); ">{{ page.title }}</h2>
+					</div>
+					<div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
+					</div>
+					<h2 align="center">{{ page.title }}</h2>
+					</a>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+<!--
 	{% for i in (1..10) %}
 		{% for page in site.pages %}
 			{% if page.layout == 'annualreport' %} 
@@ -26,3 +47,4 @@ published: true
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+-->
