@@ -16,7 +16,6 @@
   image-title: cc tanzania salon
   image-url: https://www.dropbox.com/sh/dobz4z2fqf81nuw/NQp6bBpCmB#lh:null-DSC00099.JPG
   image-note: cropped and color adjusted
-  header: CC growing in Africa
   description: The CC culture and education communities are thriving in Africa.
   
 - owner: 3
@@ -27,7 +26,6 @@
   image-title: cc morocco movie
   image-url: 
   image-note: color adjusted
-  header: Arab World takes on music, media, and education.
   description: Arab World Update. Reports from Algeria, Lebanon, Morocco, and Palestine.
   
 - owner: 3
@@ -49,7 +47,6 @@
   image-title: cc ireland salon
   image-url: https://www.flickr.com/photos/114281612@N04/12014979964/lightbox/
   image-note: cropped and color adjusted
-  header: E
   description: Europe moves forward in tech, culture, and education in Finland, Ireland, and Romania.
 
 - owner: 3
@@ -60,7 +57,6 @@
   image-title: south america - a year of edits
   image-url: https://www.flickr.com/photos/peterito/2808008345
   image-note: cropped, scaled, and color adjusted
-  header: E
   description: Latin America project updates on academic journals, open ed for librarians, and music.
 
 - owner: 3
@@ -71,7 +67,6 @@
   image-title: language variety on cadbury's choc
   image-url: https://www.flickr.com/photos/nofrills/10895361/in/photostream/
   image-note: cropped and color adjusted
-  header: E
   description: 4.0 legal translations flourish
 
 - owner: 3
@@ -82,7 +77,6 @@
   image-title: the world islands dubai
   image-url: https://www.flickr.com/photos/matthamm/35407238
   image-note: cropped and color adjusted
-  header: E
   description: New affiliate teams in India, Kenya, Mongolia, United Kingdom, and the United States.
   
 - owner: 3
@@ -93,7 +87,6 @@
   image-title: morocco - meknes
   image-url: https://www.flickr.com/photos/antiquote/4995316209
   image-note: cropped and color adjusted
-  header: E
   description: WIPO Marrakesch treaty for print disabled
 
 - owner: 3
@@ -104,7 +97,6 @@
   image-title: international law books
   image-url: https://www.flickr.com/photos/angeloangelo/8147928376
   image-note: cropped and color adjusted
-  header: E
   description: Bringing IGOs into the community
 
   
@@ -227,7 +219,7 @@
 
 - owner: 6
   link: http://teamopen.cc/ramzi/
-  image:/images/teamopen-ramzi.gif
+  image: /images/teamopen-ramzi.gif
   description: Ramzi Jaber, Visualizing Palestine
   
 - owner: 6
