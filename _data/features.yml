@@ -361,10 +361,15 @@
   image-note: cropped and color adjusted
   description:   Take a School of Open course and/or project
  
- 
+
 - owner: 8
   link: http://creativecommons.org/choose/
-  image: /images/roadclosed.jpg
+  image: /images/participate-tryopen.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Libby Levi, opensource.com
+  image-title: how to build a sustainable nonprofit the open source way
+  image-url: https://www.flickr.com/photos/opensourceway/5537457375
+  image-note: cropped and color adjusted
   description: Make a decision to openly license your work in 2014.
 
 - owner: 10
