@@ -195,61 +195,110 @@
 - owner: 6
   link: http://teamopen.cc/piya/
   image: /images/ar-teamopen-piya.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Piya Sorcar
+  image-url:
   description: Piya Sorcar, TeachAIDS
   
 - owner: 6
   link: http://teamopen.cc/khalid/
   image: /images/teamopen-khalid.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Khalid Albai
+  image-url:
   description: Khalid Albaih, Cartoonist
   
 - owner: 6
   link: http://teamopen.cc/john/
   image: /images/teamopen-john.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: John Wetzel
+  image-url:
   description: John Wetzel, WikiPremed
 
 - owner: 6
   link: http://teamopen.cc/miyoung/
   image: /images/teamopen-miyoung.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Miyoung Yi
+  image-url:
   description: Miyoung Yi, Artist
 
 - owner: 6
   link: http://teamopen.cc/daniel/
   image: /images/teamopen-daniel.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Daniel Branan
+  image-url:
   description: Daniel Branan, North American Network of Science Labs Online
 
 - owner: 6
   link: http://teamopen.cc/ramzi/
   image: /images/teamopen-ramzi.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Ramzi Jaber
+  image-url:
   description: Ramzi Jaber, Visualizing Palestine
   
 - owner: 6
   link: http://teamopen.cc/jack/
   image: /images/teamopen-jack.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Jack Andraka
+  image-url:
   description: Jack Andraka, Researcher
 
 - owner: 6
   link: http://teamopen.cc/sofya/
   image: /images/teamopen-sofya.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Sofya Polyakov
+  image-url:
   description: Sofya Polyakov, The Noun Project
   
 - owner: 6
   link: http://teamopen.cc/carlos/
   image: /images/teamopen-carlos.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Carlos Rossel
+  image-url:
   description: Carlos Rossel, World Bank
    
 - owner: 6
   link: http://teamopen.cc/thomas/
   image: /images/teamopen-thomas.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Thomas Bonte
+  image-url: 
   description: Thomas Bonte, MuseScore
 
 - owner: 6
   link: http://teamopen.cc/kasyoka/
   image: /images/teamopen-kasyoka.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Kasyoka Mutunga
+  image-url: 
   description: Kasyoka Mutunga, School of Open
   
 - owner: 6
   link: http://teamopen.cc/jonathan/
   image: /images/teamopen-jonathan.gif
+  image-license: CC BY 2.0
+  image-author: Luke Surl
+  image-title: Jonathan Mann
+  image-url: 
+  image-note: cropped and color adjusted
   description: Jonathan Mann, Musician
   
   
