@@ -45,8 +45,6 @@
 <a href="/ar/"><h1 class="annualreport" style="background-color: {{ page.bgcolorb }}; ">the future is open</h1></a>
 <div id="navbar" style="width: 750px;">
 
-<!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
-
 	{% for i in (1..numberofpages) %}
 		{% for page in site.pages %}
 			{% if page.layout == 'annualreport' %} 
@@ -67,11 +65,10 @@
 <div id="middle" style="background-color: {{ page:bgcolora }}; ">
 <div id="topspace"></div>
 
-
+{% if page.order %}
 
 <div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">  
 
-{% if page.order %}
   {% for page in site.pages %}
     {% if page.layout == 'annualreport' %}  
     	{% if page.order == {{orderminusone}} %}
@@ -93,19 +90,21 @@
   {% endfor %}
 <div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
 </a>
-{% endif %}
 </div>
 
-
 <br style="clear: both; " />
-	{% if page.title == "The future is open" %}
-		<div class="arfeatures">
-	{% else %}
 		<div id="profile">
-	{% endif %}
 <h2>{{ page.title }}</h2>
 {{content}}
 </div>
+
+{% else %}
+
+{{content}}
+
+{% endif %}
+
+
 
 <div class="arfeatures">
 	{% for feature in site.data.features %}
