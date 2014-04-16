@@ -145,9 +145,11 @@
 <div style="clear: both; " />
 <a href="#"><div class="uparrow"></div></a>
 
-<div id="license" class="licensebox">
+<div id="license" class="ar-licensebox">
 Image credits
 <ul>
+	{% include ar-navbarcredits.html %}
+
 	{% for feature in site.data.features %}
 		{% if feature.owner == page.order %}
 			{% if feature.image-license %}

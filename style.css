@@ -329,6 +329,14 @@ body a {
 	font-size: 90%;
 	}	
 
+.ar-licensebox {
+	width: 700px;
+	margin-left: 50px;
+	margin-right: auto;
+	padding-bottom: 50px;
+	font-size: 75%;
+	}	
+
 .spacer {
 	height: 100px;
 	clear: both;
