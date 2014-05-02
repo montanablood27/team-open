@@ -107,12 +107,13 @@
 <div class="arfeatures">
 	{% for feature in site.data.features %}
 		{% if feature.owner == page.order %}
-			<a href="{{ feature.link }}" target="_blank">
 			<div class="armenu">
+			<a href="{{ feature.link }}" target="_blank">
 			<div class="armenu-photo" style="background-image: url({{ feature.image }})"></div>
 			<div class="armenu-textbox" style="background-color: {{ page.bgcolorb }};">
 					<p>{{ feature.description }}</p>
 			</div>
+			</a>
 			<div class="armenu-sharebox">
 				{% if feature.image-license %}
 					<a href="#license">					
@@ -131,10 +132,9 @@
 						{% endif %}						
 					<!--</div>--></a>
 				{% endif %}
-			<img src="/images/facebooksmall.png" />
-			<a href="http://twitter.com/intent/tweet?source=webclient&text={{ feature.description }}+{{ feature.link }}&via=creativecommons"><img src="/images/twittersmall.png" /></a>
+			<a href="https://www.facebook.com/sharer/sharer.php?u={{ feature.link }}" target="_blank"><img src="/images/facebooksmall.png" /></a>
+			<a href="http://twitter.com/intent/tweet?source=webclient&text={{ feature.description }}+{{ feature.link }}&via=creativecommons" target="_blank"><img src="/images/twittersmall.png" /></a>
 			</div>
-			</a>
 		</div>
 		{% endif %}
 	{% endfor %}
