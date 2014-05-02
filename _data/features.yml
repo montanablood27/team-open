@@ -26,7 +26,7 @@
   image-title: cc morocco movie
   image-url: 
   image-note: color adjusted
-  description: Arab World Update. Reports from Algeria, Lebanon, Morocco, and Palestine.
+  description: Arab World update&#58; reports from Algeria, Lebanon, Morocco, and Palestine
   
 - owner: 3
   link: https://creativecommons.org/weblog/entry/42249
@@ -37,7 +37,7 @@
   image-url: 
   image-note: color adjusted
   header: Asia-Pacific Affiliates  
-  description: Asia-Pacific takes on open data, media education, and public domain in Japan, New Zealand, Taiwan.
+  description: CC Asia-Pacific takes on open data, media education, and public domain.
   
 - owner: 3
   link: http://creativecommons.org/weblog/entry/42311
@@ -47,7 +47,7 @@
   image-title: cc ireland salon
   image-url: https://www.flickr.com/photos/114281612@N04/12014979964/lightbox/
   image-note: cropped and color adjusted
-  description: Europe moves forward in tech, culture, and education in Finland, Ireland, and Romania.
+  description: CC Europe moves forward in tech, culture, and education.
 
 - owner: 3
   link: http://creativecommons.org/weblog/entry/42393
@@ -67,10 +67,10 @@
   image-title: language variety on cadbury's choc
   image-url: https://www.flickr.com/photos/nofrills/10895361/in/photostream/
   image-note: cropped and color adjusted
-  description: 4.0 legal translations flourish
+  description: 4.0 licenses translated into 12+ languages
 
 - owner: 3
-  link: creativecommons.org/affiliates
+  link: //wiki.creativecommons.org/Affiliates
   image: /images/global-newaffiliates.jpg
   image-license: CC BY-NC 2.0
   image-author: Matt Hamm
@@ -87,7 +87,7 @@
   image-title: morocco - meknes
   image-url: https://www.flickr.com/photos/antiquote/4995316209
   image-note: cropped and color adjusted
-  description: WIPO Marrakesch treaty for print disabled
+  description: WIPO Treaty&#58; copyright exceptions for visually impaired readers
 
 - owner: 3
   link: http://creativecommons.org/weblog/entry/41061
@@ -97,7 +97,7 @@
   image-title: international law books
   image-url: https://www.flickr.com/photos/angeloangelo/8147928376
   image-note: cropped and color adjusted
-  description: Bringing IGOs into the community
+  description: Bringing IGOs into the Creative Commons community
 
   
 - owner: 5
