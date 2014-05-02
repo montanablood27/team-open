@@ -195,7 +195,6 @@ body a {
 	font-size: 90%;
 	}
 
-
 .armenu-photo {
 	margin-left: auto;
 	margin-right: auto;
@@ -229,6 +228,7 @@ body a {
 .arfeatures {
 	margin-left: auto;
 	margin-right: auto;
+	width: 860px;
 	}
 
 .bannerright:hover {
