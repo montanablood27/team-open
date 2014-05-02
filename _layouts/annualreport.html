@@ -104,8 +104,6 @@
 
 {% endif %}
 
-
-
 <div class="arfeatures">
 	{% for feature in site.data.features %}
 		{% if feature.owner == page.order %}
@@ -134,7 +132,7 @@
 					<!--</div>--></a>
 				{% endif %}
 			<img src="/images/facebooksmall.png" />
-			<img src="/images/twittersmall.png" />
+			<a href="http://twitter.com/intent/tweet?source=webclient&text={{ feature.description }}+{{ feature.link }}&via=creativecommons"><img src="/images/twittersmall.png" /></a>
 			</div>
 			</a>
 		</div>
