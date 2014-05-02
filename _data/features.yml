@@ -119,17 +119,17 @@
   image-title: autodesk blogger day 2014 trip
   image-url: https://www.flickr.com/photos/robinzblog/13477436423
   image-note: cropped and color adjusted
-  description: Autodesk 2014 product line available under CC
+  description: Autodesk shares all of its training and support materials under CC
 
 - owner: 5
-  link: 
+  link: http://lessig.tumblr.com/post/69817011020/from-now-on-im-bing-ing-it
   image: /images/platforms-microsoft.jpg
   image-license: CC BY-NC 2.0
   image-author: Michael Kappel
   image-title: microsoft store logo
   image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
   image-note: cropped and color adjusted
-  description: Bing & Microsoft Office incorporate CC
+  description: Bing and Microsoft Office incorporate CC
 
 - owner: 5
   link: http://creativecommons.org/weblog/entry/34236
@@ -152,7 +152,7 @@
   description: Honda releases 3D models under CC
 
 - owner: 5
-  link: https://creativecommons.org/weblog/entry/41737
+  link: http://creativecommons.org/weblog/entry/41737
   image: /images/platforms-google.jpg
   image-license: CC BY 2.0
   image-author: Carlos Luna
