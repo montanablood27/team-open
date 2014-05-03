@@ -116,20 +116,24 @@
 			</a>
 			<div class="armenu-sharebox">
 				{% if feature.image-license %}
-					<a href="#license">					
+					<a href="#license">
+						{% if feature.image-license == 'CC0' %}
+							<img src="/images/cc0-25-white.png" />
+						{% else %}
 					<!--<div class="feature-credit">-->
-						{% if feature.image-license contains 'BY' %}
-							<img src="/images/by-25-white.png" />
-						{% endif %}
-						{% if feature.image-license contains 'NC' %}
-							<img src="/images/nc-25-white.png" />
-						{% endif %}						
-						{% if feature.image-license contains 'SA' %}
-							<img src="/images/sa-25-white.png" />
-						{% endif %}						
-						{% if feature.image-license contains 'ND' %}
-							<img src="/images/nd-25-white.png" />
-						{% endif %}						
+							{% if feature.image-license contains 'BY' %}
+								<img src="/images/by-25-white.png" />
+							{% endif %}
+							{% if feature.image-license contains 'NC' %}
+								<img src="/images/nc-25-white.png" />
+							{% endif %}						
+							{% if feature.image-license contains 'SA' %}
+								<img src="/images/sa-25-white.png" />
+							{% endif %}						
+							{% if feature.image-license contains 'ND' %}
+								<img src="/images/nd-25-white.png" />
+							{% endif %}
+						{% endif %}	
 					<!--</div>--></a>
 				{% endif %}
 			<a href="https://www.facebook.com/sharer/sharer.php?u={{ feature.link }}" target="_blank"><img src="/images/facebooksmall.png" /></a>
@@ -155,10 +159,14 @@ Image credits
 				/
 				{{ feature.image-author }}
 				/
-				<a href="http://creativecommons.org/licenses/{{ feature.image-license | remove:'CC ' | replace:' ','/' | downcase}}">{{ feature.image-license }}</a>
-					{% if feature.image-note %}
-						({{ feature.image-note }})
-					{% endif %}
+				{% if feature.image-license == 'CC0' %}
+					<a href="//creativecommons.org/publicdomain/zero/1.0/">CC0</a>
+				{% else %}				
+					<a href="http://creativecommons.org/licenses/{{ feature.image-license | remove:'CC ' | replace:' ','/' | downcase}}">{{ feature.image-license }}</a>
+				{% endif %}
+				{% if feature.image-note %}
+					({{ feature.image-note }})
+				{% endif %}
 				</li>
 			{% endif %}
 		{% endif %}
