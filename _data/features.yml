@@ -132,6 +132,26 @@
   description: Bing and Microsoft Office incorporate CC
 
 - owner: 5
+  link: http://creativecommons.org/weblog/entry/41737
+  image: /images/platforms-google.jpg
+  image-license: CC BY 2.0
+  image-author: Carlos Luna
+  image-title: Google
+  image-url: https://www.flickr.com/photos/carlosluna/2856173673
+  image-note: cropped and color adjusted
+  description: Google improves CC image search
+  
+- owner: 5
+  link: //creativecommons.org/weblog/entry/41688
+  image: /images/ar-publicdomain.jpg
+  image-license: CC BY 2.0
+  image-author: NASA Goddard Space Flight Center
+  image-title: Satellite View of the Americas on Earth Day
+  image-url: //www.flickr.com/photos/gsfc/13989104603
+  image-note: cropped and color adjusted, <a href="//creativecommons.org/about/downloads">public domain icon added</a>
+  description: Building and defending a rich public domain
+
+- owner: 5
   link: http://creativecommons.org/weblog/entry/34236
   image: /images/platforms-lrmi.jpg
   image-license: CC BY 2.0
@@ -151,16 +171,6 @@
   image-note: cropped and color adjusted
   description: Honda releases 3D models under CC
 
-- owner: 5
-  link: http://creativecommons.org/weblog/entry/41737
-  image: /images/platforms-google.jpg
-  image-license: CC BY 2.0
-  image-author: Carlos Luna
-  image-title: Google
-  image-url: https://www.flickr.com/photos/carlosluna/2856173673
-  image-note: cropped and color adjusted
-  description: Google makes CC-licensed image searches easier
-  
 - owner: 5
   link: http://creativecommons.org/weblog/entry/40760
   image: /images/platforms-foundation.jpg
@@ -194,7 +204,7 @@
 - owner: 6
   link: http://teamopen.cc/piya/
   image: /images/teamopen-piya.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Piya Sorcar
   image-url:
@@ -204,7 +214,7 @@
 - owner: 6
   link: http://teamopen.cc/khalid/
   image: /images/teamopen-khalid.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Khalid Albai
   image-url:
@@ -214,7 +224,7 @@
 - owner: 6
   link: http://teamopen.cc/john/
   image: /images/teamopen-john.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: John Wetzel
   image-url:
@@ -224,7 +234,7 @@
 - owner: 6
   link: http://teamopen.cc/miyoung/
   image: /images/teamopen-miyoung.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Miyoung Yi
   image-url:
@@ -234,7 +244,7 @@
 - owner: 6
   link: http://teamopen.cc/daniel/
   image: /images/teamopen-daniel.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Daniel Branan
   image-url:
@@ -244,7 +254,7 @@
 - owner: 6
   link: http://teamopen.cc/ramzi/
   image: /images/teamopen-ramzi.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Ramzi Jaber
   image-url:
@@ -254,7 +264,7 @@
 - owner: 6
   link: http://teamopen.cc/jack/
   image: /images/teamopen-jack.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Jack Andraka
   image-url:
@@ -264,7 +274,7 @@
 - owner: 6
   link: http://teamopen.cc/sofya/
   image: /images/teamopen-sofya.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Sofya Polyakov
   image-url:
@@ -274,7 +284,7 @@
 - owner: 6
   link: http://teamopen.cc/carlos/
   image: /images/teamopen-carlos.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Carlos Rossel
   image-url:
@@ -284,7 +294,7 @@
 - owner: 6
   link: http://teamopen.cc/thomas/
   image: /images/teamopen-thomas.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Thomas Bonte
   image-url: 
@@ -294,7 +304,7 @@
 - owner: 6
   link: http://teamopen.cc/kasyoka/
   image: /images/teamopen-kasyoka.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Kasyoka Mutunga
   image-url: 
@@ -304,7 +314,7 @@
 - owner: 6
   link: http://teamopen.cc/jonathan/
   image: /images/teamopen-jonathan.gif
-  image-license: CC BY 2.0
+  image-license: CC0
   image-author: Luke Surl
   image-title: Jonathan Mann
   image-url: 
