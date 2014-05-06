@@ -376,7 +376,17 @@
   image-url: https://web.law.duke.edu/cspd/publicdomainday
   image-note: cropped and color adjusted
   description: Nothing entered the public domain in the US in 2013
-    
+
+- owner: 7
+  link: http://creativecommons.org/weblog/entry/41744
+  image: /images/whatdidnt-oa.jpg
+  image-license: CC BY
+  image-author: Duncan Hull
+  image-title: Open Access by @PeterSuber
+  image-url: https://www.flickr.com/photos/dullhunk/9075667058
+  image-note: cropped and color adjusted
+  description: 2013 Copyright Week tackles open access & permitting free use for everyone
+  
 - owner: 8
   link: https://donate.creativecommons.org/
   image: /images/participate-donate.jpg
