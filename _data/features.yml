@@ -380,12 +380,22 @@
 - owner: 7
   link: http://creativecommons.org/weblog/entry/41744
   image: /images/whatdidnt-oa.jpg
-  image-license: CC BY
+  image-license: CC BY 2.0
   image-author: Duncan Hull
   image-title: Open Access by @PeterSuber
   image-url: https://www.flickr.com/photos/dullhunk/9075667058
   image-note: cropped and color adjusted
   description: 2013 Copyright Week urges moving beyond public access to full use for everyone
+  
+- owner: 7
+  link: http://creativecommons.org/weblog/entry/41819
+  image: /images/whatdidnt-brazil.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: William Kitzinger
+  image-title: My National Flag
+  image-url: https://www.flickr.com/photos/willkit/3158145540
+  image-note: cropped and color adjusted
+  description: Copyright Reform in Brazil still faces significant hurdles
   
 - owner: 8
   link: https://donate.creativecommons.org/
