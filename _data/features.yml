@@ -333,16 +333,6 @@
   image-note: cropped and color adjusted
 
 - owner: 7
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/whatdidnt-product.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: Steven Warburton
-  image-title: communities
-  image-url: https://www.flickr.com/photos/stevenwarburton/3209461104/
-  image-note: cropped and color adjusted
-  description: K-12 user research and product development on hold
-
-- owner: 7
   link: http://wiki.creativecommons.org/GPL_compatibility_use_cases
   image: /images/whatdidnt-gpl.jpg
   image-license: CC BY-SA 2.0
@@ -351,21 +341,6 @@
   image-url: https://www.flickr.com/photos/barraquito/39854118
   image-note: cropped and color adjusted
   description: Incompatible with GPL 
-
-- owner: 7
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/whatdidnt-humanities.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: rherring
-  image-title: hrc
-  image-url: https://www.flickr.com/photos/rherring/275455178
-  image-note: cropped and color adjusted
-  description: Humanities researchers haven't enhanced CC
-  
-- owner: 7
-  link: //creativecommons.org/weblog/entry/39978
-  image: /images/roadclosed.jpg
-  description: Can’t yet track use and reuse on CC licenses
 
 - owner: 7
   link: https://web.law.duke.edu/cspd/publicdomainday
