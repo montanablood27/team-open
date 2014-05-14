@@ -313,16 +313,6 @@
   image-note: cropped and color adjusted
 
 - owner: 7
-  link: http://wiki.creativecommons.org/GPL_compatibility_use_cases
-  image: /images/whatdidnt-gpl.jpg
-  image-license: CC BY-SA 2.0
-  image-author: barraquito
-  image-title: only proprietary?
-  image-url: https://www.flickr.com/photos/barraquito/39854118
-  image-note: cropped and color adjusted
-  description: Incompatible with GPL 
-
-- owner: 7
   link: https://web.law.duke.edu/cspd/publicdomainday
   image: /images/whatdidnt-publicdomain.jpg
   image-license: CC BY-SA
