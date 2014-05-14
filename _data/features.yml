@@ -240,6 +240,26 @@
   image-note: cropped and color adjusted
   description: Students rally around open textbooks
 
+- owner: 5
+  link: https://creativecommons.org/tag/taaccct
+  image: /images/platforms-opentextbook.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Dave Dugdale
+  image-title: open book
+  image-url: https://www.flickr.com/photos/davedugdale/5099718716
+  image-note: cropped and color adjusted
+  description: CC supports largest OER project in the world
+
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/36421
+  image: /images/platforms-opentextbook.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Dave Dugdale
+  image-title: open book
+  image-url: https://www.flickr.com/photos/davedugdale/5099718716
+  image-note: cropped and color adjusted
+  description: Arab world open book project and exchange
+  
 - owner: 6
   link: http://teamopen.cc/piya/
   image: /images/teamopen-piya.gif
