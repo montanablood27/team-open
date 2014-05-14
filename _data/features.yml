@@ -269,7 +269,17 @@
   image-url: https://www.flickr.com/photos/davedugdale/5099718716
   image-note: cropped and color adjusted
   description: Arab world open book project and exchange
-  
+
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/40361
+  image: /images/platforms-opentextbook.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Dave Dugdale
+  image-title: open book
+  image-url: https://www.flickr.com/photos/davedugdale/5099718716
+  image-note: cropped and color adjusted
+  description: OERu Launches Worldwide
+
 - owner: 6
   link: http://teamopen.cc/piya/
   image: /images/teamopen-piya.gif
