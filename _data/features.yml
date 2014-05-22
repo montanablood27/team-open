@@ -9,6 +9,16 @@
   image-note: cropped and color adjusted
 
 - owner: 3
+  link: http://creativecommons.org/weblog/entry/40274
+  image: /images/global-arabic.jpg
+  image-license: CC BY 3.0
+  image-author: Muhammad Basheer
+  image-title: Finally the arabic translation...
+  image-url: http://twitpic.com/30i0c4
+  image-note: cropped and color adjusted
+  description: First Arabic language CC licenses launched
+
+- owner: 3
   link: https://creativecommons.org/weblog/entry/42167
   image: /images/global-africa.jpg
   image-license: CC BY 4.0
@@ -88,26 +98,6 @@
   image-url: https://www.flickr.com/photos/angeloangelo/8147928376
   image-note: cropped and color adjusted
   description: Bringing IGOs into the Creative Commons community
-
-- owner: 3
-  link: http://creativecommons.org/weblog/entry/40274
-  image: /images/global-arabic.jpg
-  image-license: CC BY 3.0
-  image-author: Muhammad Basheer
-  image-title: Finally the arabic translation...
-  image-url: http://twitpic.com/30i0c4
-  image-note: cropped and color adjusted
-  description: First Arabic language CC licenses launched
-
-- owner: 4
-  link: http://creativecommons.org/weblog/entry/42585
-  image: /images/reform-larrywebby.jpg
-  image-license: CC BY 2.0
-  image-author: Joi Ito
-  image-title: Lawrence Lessig
-  image-url: https://www.flickr.com/photos/joi/2235721396/
-  image-note: cropped and color adjusted
-  description: Lawrence Lessig receives Lifetime Achievement Webby Award
 
 - owner: 4
   link: http://www.nhrebellion.org/
@@ -220,6 +210,16 @@
   image-note: cropped and color adjusted
   description: Google improves CC image search
   
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/42585
+  image: /images/reform-larrywebby.jpg
+  image-license: CC BY 2.0
+  image-author: Joi Ito
+  image-title: Lawrence Lessig
+  image-url: https://www.flickr.com/photos/joi/2235721396/
+  image-note: cropped and color adjusted
+  description: Lawrence Lessig receives Lifetime Achievement Webby Award
+ 
 - owner: 5
   link: //creativecommons.org/weblog/entry/41688
   image: /images/ar-publicdomain.jpg
@@ -410,17 +410,6 @@
   image-note: cropped and color adjusted
   description: The most prolific songwriter we know is also the most generous with his music.
   
-  
-- owner: 7
-  link: http://creativecommons.org/weblog/entry/42361
-  image: /images/ar-bassel.jpg
-  description: CC Syrian community leader Bassel Khartabil has not yet been released from prison.
-  image-license: CC BY 2.0
-  image-author: Joi Ito
-  image-title: Bassel
-  image-url: http://www.flickr.com/photos/joi/4670781482/
-  image-note: cropped and color adjusted
-
 - owner: 7
   link: https://web.law.duke.edu/cspd/publicdomainday
   image: /images/whatdidnt-publicdomain.jpg
@@ -439,7 +428,7 @@
   image-title: Open Access by @PeterSuber
   image-url: https://www.flickr.com/photos/dullhunk/9075667058
   image-note: cropped and color adjusted
-  description: 2013 Copyright Week urges moving beyond public access to full use for everyone
+  description: Open access for publicly funded works&#58; read-only is not enough
   
 - owner: 7
   link: http://creativecommons.org/weblog/entry/41819
@@ -451,6 +440,12 @@
   image-note: cropped and color adjusted
   description: Copyright reform in Brazil still faces significant hurdles
   
+  
+- owner: 7
+  link: http://creativecommons.org/weblog/entry/39707
+  description: True open access&#58; what could be
+
+
 - owner: 8
   link: https://donate.creativecommons.org/
   image: /images/participate-donate.jpg
@@ -526,14 +521,9 @@
   description: Make a decision to openly license your work in 2014.
 
 - owner: 10
-  link: http://creativecommons.org/weblog/entry/41172
-  image: /images/about-board.jpg
-  image-license: CC BY
-  image-author: Meryl Mohan
-  image-title: board meeting 12/7/13
-  image-url: 
-  description:  Board of Directors & Advisory Council Re-Energized
-  
+  link: http://creativecommons.org/weblog/entry/42690
+  description: Welcoming our new CEO, Ryan Merkley
+
 - owner: 10
   link: http://creativecommons.org/staff
   image: /images/about-staff.jpg
@@ -552,3 +542,13 @@
   image-url: https://www.flickr.com/photos/meexplore/11002141666
   image-note: cropped and color adjusted
   description: CC Affiliates
+
+- owner: 10
+  link: http://creativecommons.org/weblog/entry/41172
+  image: /images/about-board.jpg
+  image-license: CC BY
+  image-author: Meryl Mohan
+  image-title: board meeting 12/7/13
+  image-url: 
+  description:  Board of Directors & Advisory Council Re-Energized
+  
