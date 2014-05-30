@@ -69,14 +69,20 @@
 
 <div class="arbanner" style="background: url('{{page:ar-banner-bg}}'); ">  
 
-  {% for page in site.pages %}
-    {% if page.layout == 'annualreport' %}  
-    	{% if page.order == {{orderminusone}} %}
-    		<a href="{{ page.permalink }}">
-    	{% endif %}
-    {% endif %}
-  {% endfor %}
-<div class="arrow" style="background-image: url('/images/leftarrow.png'); " ></div>
+	{% for page in site.pages %}
+    	{% if page.layout == 'annualreport' %}  
+			{% if page.order == {{orderminusone}} %}
+				<a href="{{ page.permalink }}">
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+
+	{% if page.darkarrow == true %}
+	  	<div class="arrow" style="background-image: url('/images/leftarrow-dark.png'); " ></div>
+  	{% else %}
+	  	<div class="arrow" style="background-image: url('/images/leftarrow.png'); " ></div>
+	{% endif %}
+
 </a>
 
 <div style="width: 800px; float:left; ">&#160;</div>
@@ -88,8 +94,15 @@
     	{% endif %}
     {% endif %}
   {% endfor %}
-<div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
+
+	{% if page.darkarrow == true %}
+	  	<div class="arrow" style="background-image: url('/images/rightarrownocc-dark.png'); " ></div>
+  	{% else %}
+	  	<div class="arrow" style="background-image: url('/images/rightarrownocc.png'); " ></div>
+	{% endif %}
+
 </a>
+
 </div>
 
 <br style="clear: both; " />
