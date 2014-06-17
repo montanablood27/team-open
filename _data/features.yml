@@ -251,6 +251,16 @@
   description: Learning Resource Metadata Initiative (LRMI) accepted into schema.org
 
 - owner: 5
+  link: https://vimeo.com/92951902
+  image: /images/ar-machinery.jpg
+  image-license: CC BY 2.0
+  image-author: Kazue Asano
+  image-title: factory at night
+  image-url: https://www.flickr.com/photos/crystallineradical/3048730629/
+  image-note: cropped and color adjusted
+  description: Commons Machinery&#58; Building the infrastructure of the commons
+
+- owner: 5
   link: http://creativecommons.org/weblog/entry/41895
   image: /images/platforms-honda.jpg
   image-license: CC BY 2.0
@@ -279,16 +289,6 @@
   image-url: https://www.flickr.com/photos/davedugdale/5099718716
   image-note: cropped and color adjusted
   description: Students rally around open textbooks
-
-- owner: 5
-  link: https://vimeo.com/92951902
-  image: /images/ar-machinery.jpg
-  image-license: CC BY 2.0
-  image-author: Kazue Asano
-  image-title: factory at night
-  image-url: https://www.flickr.com/photos/crystallineradical/3048730629/
-  image-note: cropped and color adjusted
-  description: Commons Machinery&#58; Building the infrastructure of the commons
 
 - owner: 5
   link: http://creativecommons.org/weblog/entry/40361
