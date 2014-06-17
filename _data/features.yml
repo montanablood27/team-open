@@ -209,16 +209,6 @@
   image-url: https://www.flickr.com/photos/joi/2235721396/
   image-note: cropped and color adjusted
   description: Lawrence Lessig receives Lifetime Achievement Webby Award
- 
-- owner: 5
-  link: http://creativecommons.org/weblog/entry/41737
-  image: /images/platforms-google.jpg
-  image-license: CC BY 2.0
-  image-author: Carlos Luna
-  image-title: Google
-  image-url: https://www.flickr.com/photos/carlosluna/2856173673
-  image-note: cropped and color adjusted
-  description: PeerJ
   
 - owner: 5
   link: http://creativecommons.org/weblog/entry/41216
@@ -229,6 +219,16 @@
   image-url: https://www.flickr.com/photos/biodivlibrary/7158984640
   image-note: cropped and color adjusted
   description: Paleobiology Database makes all works available under CC license
+   
+- owner: 5
+  link: http://creativecommons.org/weblog/entry/41983
+  image: /images/platforms-peerj.jpg
+  image-license: CC BY 2.0
+  image-author: Duncan Hull
+  image-title: PeerJ
+  image-url: https://www.flickr.com/photos/dullhunk/7365639892
+  image-note: cropped and color adjusted
+  description: PeerJ marks one year anniversary with over 200 CC-licensed Biological and Medical Sciences articles
 
 - owner: 5
   link: //creativecommons.org/weblog/entry/41688
