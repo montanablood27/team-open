@@ -451,16 +451,15 @@
   image-note: cropped and color adjusted
   description: Make a donation to CC.
 
-  
 - owner: 8
-  link: //wiki.creativecommons.org/CC_Affiliate_Network
-  image: /images/participate-affiliates.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: HUMAN&HEROBUM
-  image-title: hey
-  image-url: https://www.flickr.com/photos/herobum/4684737183
+  link: http://creativecommons.org/choose/
+  image: /images/participate-tryopen.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Libby Levi, opensource.com
+  image-title: how to build a sustainable nonprofit the open source way
+  image-url: https://www.flickr.com/photos/opensourceway/5537457375
   image-note: cropped and color adjusted
-  description: Get involved with the CC affiliate in your country.
+  description: License something you made.
   
 - owner: 8
   link: http://search.creativecommons.org/
@@ -471,6 +470,16 @@
   image-url: https://www.flickr.com/photos/auntiep/17135231
   image-note: cropped and color adjusted
   description: Find and/or use CC-licensed content.
+    
+- owner: 8
+  link: //wiki.creativecommons.org/CC_Affiliate_Network
+  image: /images/participate-affiliates.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: HUMAN&HEROBUM
+  image-title: hey
+  image-url: https://www.flickr.com/photos/herobum/4684737183
+  image-note: cropped and color adjusted
+  description: Get involved with the CC affiliate in your country.
   
 - owner: 8
   link: http://openpolicynetwork.org
@@ -503,17 +512,6 @@
   image-url: https://www.flickr.com/photos/opensourceway/6082519811
   image-note: cropped and color adjusted
   description:   Take a School of Open course and/or project
- 
-
-- owner: 8
-  link: http://creativecommons.org/choose/
-  image: /images/participate-tryopen.jpg
-  image-license: CC BY-SA 2.0
-  image-author: Libby Levi, opensource.com
-  image-title: how to build a sustainable nonprofit the open source way
-  image-url: https://www.flickr.com/photos/opensourceway/5537457375
-  image-note: cropped and color adjusted
-  description: Make a decision to openly license your work in 2014.
 
 - owner: 10
   link: http://creativecommons.org/weblog/entry/42690
