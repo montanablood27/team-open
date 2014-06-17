@@ -100,24 +100,14 @@
   description: Bringing IGOs into the Creative Commons community
 
 - owner: 4
-  link: http://www.nhrebellion.org/
-  image: /images/reform-nhrebellion.jpg
-  image-license: CC BY
-  image-author: Richard Pollack
-  image-title: NH Rebellion
-  image-url: http://d3n8a8pro7vhmx.cloudfront.net/nhrebellion/pages/1/attachments/original/1390184998/louden.jpg?1390184998
+  link: https://creativecommons.org/weblog/entry/42736
+  image: /images/reform-opn.jpg
+  image-license: CC BY-SA 2.0
+  image-author: Libby Levi for opensource.com
+  image-title: Gary Hamel
+  image-url: https://www.flickr.com/photos/opensourceway/4371000486
   image-note: cropped and color adjusted
-  description: New Hampshire Rebellion fights systemic government corruption
-  
-- owner: 4
-  link: https://mayone.us/learn-more/
-  image: /images/reform-superpac.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: Marsmettnn Tallahassee
-  image-title: America today
-  image-url: https://www.flickr.com/photos/87764589@N07/8356001670
-  image-note: cropped and color adjusted
-  description: Lawrence Lessig launches a Mayday PAC to end Super PACs
+  description: Open Policy Network & Institute for Open Leadership launches
 
 - owner: 4
   link: http://infojustice.org/archives/31804
@@ -127,7 +117,7 @@
   image-title: Arial view of Cape Town
   image-url: http://infojustice.org/wp-content/uploads/2013/05/cape-town-cc.jpg
   image-note: cropped and color adjusted
-  description: Cape Town Declaration calls for reform in international IP law
+  description: Global Congress Declaration on Public Interest Principles for International IP Negotiations
 
 - owner: 4
   link: http://creativecommons.org/weblog/entry/41265
@@ -160,15 +150,15 @@
   description: CC supports largest OER project in the world
 
 - owner: 4
-  link: https://creativecommons.org/weblog/entry/42736
-  image: /images/reform-opn.jpg
-  image-license: CC BY-SA 2.0
-  image-author: Libby Levi for opensource.com
-  image-title: Gary Hamel
-  image-url: https://www.flickr.com/photos/opensourceway/4371000486
+  link: https://mayone.us/learn-more/
+  image: /images/reform-superpac.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: Marsmettnn Tallahassee
+  image-title: America today
+  image-url: https://www.flickr.com/photos/87764589@N07/8356001670
   image-note: cropped and color adjusted
-  description: Open Policy Network & Institute for Open Leadership launches
-
+  description: Lawrence Lessig launches a Mayday PAC to end Super PACs
+  
 - owner: 5
   link: https://creativecommons.org/weblog/entry/37866
   image: /images/platforms-dpla.jpg
