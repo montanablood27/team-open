@@ -120,16 +120,6 @@
   description: Global Congress Declaration on Public Interest Principles for International IP Negotiations
 
 - owner: 4
-  link: http://creativecommons.org/weblog/entry/41265
-  image: /images/reform-unesco.jpg
-  image-license: CC BY-NC-SA 2.0
-  image-author: Bentley Smith
-  image-title: 200711 unesco
-  image-url: https://www.flickr.com/photos/superciliousness/2005124484
-  image-note: cropped and color adjusted
-  description: UNESCO launches open access policy
-
-- owner: 4
   link: http://creativecommons.org/weblog/entry/39457
   image: /images/reform-communitycollege.jpg
   image-license: CC BY-SA 2.0
@@ -148,6 +138,16 @@
   image-url: https://www.flickr.com/photos/gforsythe/9094358708
   image-note: cropped and color adjusted
   description: CC supports largest OER project in the world
+
+- owner: 4
+  link: http://creativecommons.org/weblog/entry/41265
+  image: /images/reform-unesco.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: Bentley Smith
+  image-title: 200711 unesco
+  image-url: https://www.flickr.com/photos/superciliousness/2005124484
+  image-note: cropped and color adjusted
+  description: UNESCO launches open access policy
 
 - owner: 4
   link: https://mayone.us/learn-more/
