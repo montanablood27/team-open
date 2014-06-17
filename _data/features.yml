@@ -221,15 +221,15 @@
   description: PeerJ
   
 - owner: 5
-  link: http://creativecommons.org/weblog/entry/41737
-  image: /images/platforms-google.jpg
-  image-license: CC BY 2.0
-  image-author: Carlos Luna
-  image-title: Google
-  image-url: https://www.flickr.com/photos/carlosluna/2856173673
+  link: http://creativecommons.org/weblog/entry/41216
+  image: /images/platforms-paleo.jpg
+  image-license: CC BY-NC-SA 2.0
+  image-author: Biodiversity Heritage Library
+  image-title: Dinocerata
+  image-url: https://www.flickr.com/photos/biodivlibrary/7158984640
   image-note: cropped and color adjusted
-  description: Paleo-Biology Database
-  
+  description: Paleobiology Database makes all works available under CC license
+
 - owner: 5
   link: //creativecommons.org/weblog/entry/41688
   image: /images/ar-publicdomain.jpg
