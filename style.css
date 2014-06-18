@@ -293,11 +293,11 @@ body a {
 
 .circletext {
 	font-size: 90%;
-	position: absolute;
-	top: 50%;
-	height: 36px;
-	margin-top: -18px;
-	}
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	height: 91px;
+	}  
 
 .heart {
 	float: left;
@@ -313,16 +313,23 @@ body a {
 
 .heart:hover {
     background-position: -114px 5px;
-	text-indent: 24px;
+	text-indent: 0px;
 	}
 
 .hearttext {
 	font-size: 90%;
-	position: absolute;
-	top: 50%;
-	height: 12px;
-	margin-top: -20px;
-	}
+	text-align: center;
+	vertical-align: middle;
+	line-height: 91px;
+	}  
+
+.circletext {
+	font-size: 90%;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	height: 91px;
+	}  
 
 .licensebox {
 	width: 400px;
