@@ -80,7 +80,7 @@
   description: 4.0 license translations underway
 
 - owner: 3
-  link: //wiki.creativecommons.org/Affiliates
+  link: http://wiki.creativecommons.org/CC_Affiliate_Network
   image: /images/global-newaffiliates.jpg
   image-license: CC BY-NC 2.0
   image-author: Matt Hamm
@@ -137,7 +137,7 @@
   image-title: Online Open Ed Resources & Open Licences
   image-url: https://www.flickr.com/photos/gforsythe/9094358708
   image-note: cropped and color adjusted
-  description: CC supports largest OER project in the world
+  description: CC supports the largest OER project in the world
 
 - owner: 4
   link: http://creativecommons.org/weblog/entry/41265
@@ -158,18 +158,17 @@
   image-url: https://www.flickr.com/photos/87764589@N07/8356001670
   image-note: cropped and color adjusted
   description: Lawrence Lessig launches a Mayday PAC to end Super PACs
-  
-- owner: 5
-  link: https://creativecommons.org/weblog/entry/37866
-  image: /images/platforms-dpla.jpg
-  image-license: CC BY-NC 2.0
-  image-author: Diana Gels, Digital Public Library of America
-  image-title: dpla
-  image-url: https://www.flickr.com/photos/dpla/6771226677/
-  image-note: cropped and color adjusted
-  description: Digital Public Library of America launches
 
-  
+- owner: 5
+  link: http://lessig.tumblr.com/post/69817011020/from-now-on-im-bing-ing-it
+  image: /images/platforms-microsoft.jpg
+  image-license: CC BY-NC 2.0
+  image-author: Michael Kappel
+  image-title: microsoft store logo
+  image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
+  image-note: cropped and color adjusted
+  description: Bing and Microsoft Office incorporate CC
+
 - owner: 5
   link: https://creativecommons.org/weblog/entry/39184
   image: /images/platforms-autodesk.jpg
@@ -181,16 +180,6 @@
   description: Autodesk shares all of its training and support materials under CC
 
 - owner: 5
-  link: http://lessig.tumblr.com/post/69817011020/from-now-on-im-bing-ing-it
-  image: /images/platforms-microsoft.jpg
-  image-license: CC BY-NC 2.0
-  image-author: Michael Kappel
-  image-title: microsoft store logo
-  image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
-  image-note: cropped and color adjusted
-  description: Bing and Microsoft Office incorporate CC
-  
-- owner: 5
   link: http://creativecommons.org/weblog/entry/41737
   image: /images/platforms-google.jpg
   image-license: CC BY 2.0
@@ -199,6 +188,16 @@
   image-url: https://www.flickr.com/photos/carlosluna/2856173673
   image-note: cropped and color adjusted
   description: Google improves CC image search
+
+- owner: 5
+  link: https://creativecommons.org/weblog/entry/37866
+  image: /images/platforms-dpla.jpg
+  image-license: CC BY-NC 2.0
+  image-author: Diana Gels, Digital Public Library of America
+  image-title: dpla
+  image-url: https://www.flickr.com/photos/dpla/6771226677/
+  image-note: cropped and color adjusted
+  description: Digital Public Library of America launches 
   
 - owner: 5
   link: http://creativecommons.org/weblog/entry/42585
@@ -218,16 +217,11 @@
   image-title: Dinocerata
   image-url: https://www.flickr.com/photos/biodivlibrary/7158984640
   image-note: cropped and color adjusted
-  description: Paleobiology Database makes all works available under CC license
+  description: Paleobiology Database makes all works available under CC BY
    
 - owner: 5
   link: http://creativecommons.org/weblog/entry/41983
   image: /images/platforms-peerj.jpg
-  image-license: CC BY 2.0
-  image-author: Duncan Hull
-  image-title: PeerJ
-  image-url: https://www.flickr.com/photos/dullhunk/7365639892
-  image-note: cropped and color adjusted
   description: PeerJ marks one year anniversary with over 200 CC-licensed Biological and Medical Sciences articles
 
 - owner: 5
@@ -301,7 +295,7 @@
   description: OERu launches worldwide
 
 - owner: 6
-  link: http://teamopen.cc/piya/
+  link: /piya/
   image: /images/teamopen-piya.gif
   image-license: CC0
   image-author: Luke Surl
@@ -311,7 +305,7 @@
   description: Disseminating free HIV/AIDS education to millions of people around the world.
   
 - owner: 6
-  link: http://teamopen.cc/khalid/
+  link: /khalid/
   image: /images/teamopen-khalid.gif
   image-license: CC0
   image-author: Luke Surl
@@ -321,7 +315,7 @@
   description: He wanted his cartoons to empower his region, so he empowered people to share them.
   
 - owner: 6
-  link: http://teamopen.cc/john/
+  link: /john/
   image: /images/teamopen-john.gif
   image-license: CC0
   image-author: Luke Surl
@@ -331,7 +325,7 @@
   description: When he openly licensed his test prep course, his customers became his collaborators.
 
 - owner: 6
-  link: http://teamopen.cc/miyoung/
+  link: /miyoung/
   image: /images/teamopen-miyoung.gif
   image-license: CC0
   image-author: Luke Surl
@@ -341,7 +335,7 @@
   description: When she shared her art for free, more Korean artists followed her lead.
 
 - owner: 6
-  link: http://teamopen.cc/daniel/
+  link: /daniel/
   image: /images/teamopen-daniel.gif
   image-license: CC0
   image-author: Luke Surl
@@ -351,7 +345,7 @@
   description: Using remote access and free content to open doors for science students.
 
 - owner: 6
-  link: http://teamopen.cc/ramzi/
+  link: /ramzi/
   image: /images/teamopen-ramzi.gif
   image-license: CC0
   image-author: Luke Surl
@@ -361,7 +355,7 @@
   description: He shared data visualizations on social injustices to increase equality in Palestine.
   
 - owner: 6
-  link: http://teamopen.cc/jack/
+  link: /jack/
   image: /images/teamopen-jack.gif
   image-license: CC0
   image-author: Luke Surl
@@ -371,7 +365,7 @@
   description: Fighting cancer with free research.
 
 - owner: 6
-  link: http://teamopen.cc/sofya/
+  link: /sofya/
   image: /images/teamopen-sofya.gif
   image-license: CC0
   image-author: Luke Surl
@@ -381,7 +375,7 @@
   description: She built a community of professional designers by helping them give away their designs.
   
 - owner: 6
-  link: http://teamopen.cc/carlos/
+  link: /carlos/
   image: /images/teamopen-carlos.gif
   image-license: CC0
   image-author: Luke Surl
@@ -391,7 +385,7 @@
   description: How the World Bank opened its resources to the world.
    
 - owner: 6
-  link: http://teamopen.cc/thomas/
+  link: /thomas/
   image: /images/teamopen-thomas.gif
   image-license: CC0
   image-author: Luke Surl
@@ -401,7 +395,7 @@
   description: Bringing public domain music to the public.
 
 - owner: 6
-  link: http://teamopen.cc/kasyoka/
+  link: /kasyoka/
   image: /images/teamopen-kasyoka.gif
   image-license: CC0
   image-author: Luke Surl
@@ -411,7 +405,7 @@
   description: How open educational resources brought running water to a community in Kenya.
   
 - owner: 6
-  link: http://teamopen.cc/jonathan/
+  link: /jonathan/
   image: /images/teamopen-jonathan.gif
   image-license: CC0
   image-author: Luke Surl
@@ -464,11 +458,6 @@
 - owner: 8
   link: https://donate.creativecommons.org/
   image: /images/participate-donate.jpg
-  image-license: CC BY
-  image-author: Meryl Mohan
-  image-title: donate to CC
-  image-url: 
-  image-note: 
   description: Fund our work.
 
 - owner: 8
@@ -489,7 +478,7 @@
   image-title: magnifying glass
   image-url: https://www.flickr.com/photos/auntiep/17135231
   image-note: cropped and color adjusted
-  description: Find and/or use CC-licensed content.
+  description: Find and use CC-licensed content.
     
 - owner: 8
   link: //wiki.creativecommons.org/CC_Affiliate_Network
@@ -509,7 +498,7 @@
   image-title: open source - dangerous to computing education?
   image-url: https://www.flickr.com/photos/opensourceway/4371000798
   image-note: cropped and color adjusted
-  description:   Advocate for policy changes within institutions.
+  description: Become an open policy advocate.
 
   
 - owner: 8
@@ -531,7 +520,7 @@
   image-title: education reform
   image-url: https://www.flickr.com/photos/opensourceway/6082519811
   image-note: cropped and color adjusted
-  description:   Take a School of Open course and/or project
+  description:   Take a School of Open course.
 
 - owner: 10
   link: http://creativecommons.org/weblog/entry/42690
