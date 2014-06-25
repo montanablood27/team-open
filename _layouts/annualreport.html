@@ -4,11 +4,23 @@
 <title>{{ page.title }} | The future is open</title>
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
+<!-- Facebook open graph metadata -->
+
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:url" content="http://teamopen.cc{{ page.permalink }}" />
 <meta property="og:image" content="http://teamopen.cc{{ page.fbog-image }}"/>
 <meta property="og:site_name" content="The future is open" />
 <meta property="og:description" content="{{ page.fbog-blurb }}" />
+
+<!-- Twitter card metadata -->
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@creativecommons">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.fbog-blurb }}">
+<meta name="twitter:image:src" content="http://teamopen.cc{{ page.permalink }}">
+
+
 
 
 <link rel="stylesheet" type="text/css" href="/style.css" />
