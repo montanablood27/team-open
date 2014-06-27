@@ -463,15 +463,20 @@
 - owner: 8
   link: https://donate.creativecommons.org/
   image: /images/participate-donate.jpg
+  image-license: CC BY 4.0
+  image-author: Meryl Mohan
+  image-title: Donate to CC
+  image-url: 
+  image-note: 
   description: Fund our work.
 
 - owner: 8
   link: http://creativecommons.org/choose/
   image: /images/participate-tryopen.jpg
   image-license: CC BY-SA 2.0
-  image-author: Libby Levi, opensource.com
-  image-title: how to build a sustainable nonprofit the open source way
-  image-url: https://www.flickr.com/photos/opensourceway/5537457375
+  image-author: Libby Levi for opensource.com
+  image-title: Open here (purple)
+  image-url: https://www.flickr.com/photos/opensourceway/5537457345/
   image-note: cropped and color adjusted
   description: License something you made.
   
@@ -480,7 +485,7 @@
   image: /images/participate-usecontent.jpg
   image-license: CC BY-NC-SA 2.0
   image-author: Auntie P
-  image-title: magnifying glass
+  image-title: Magnifying Glass
   image-url: https://www.flickr.com/photos/auntiep/17135231
   image-note: cropped and color adjusted
   description: Find and use CC-licensed content.
@@ -490,7 +495,7 @@
   image: /images/participate-affiliates.jpg
   image-license: CC BY-NC-SA 2.0
   image-author: HUMAN&HEROBUM
-  image-title: hey
+  image-title: hey~
   image-url: https://www.flickr.com/photos/herobum/4684737183
   image-note: cropped and color adjusted
   description: Get involved with the CC affiliate in your country.
@@ -499,8 +504,8 @@
   link: http://openpolicynetwork.org
   image: /images/participate-policy.jpg
   image-license: CC BY-SA 2.0
-  image-author: Libby Levi, opensource.com
-  image-title: open source - dangerous to computing education?
+  image-author: Libby Levi for opensource.com
+  image-title: Open source - dangerous to computing education?
   image-url: https://www.flickr.com/photos/opensourceway/4371000798
   image-note: cropped and color adjusted
   description: Become an open policy advocate.
@@ -511,7 +516,7 @@
   image: /images/participate-mic.jpg
   image-license: CC BY-NC-SA 2.0
   image-author: Bruno Belcastro
-  image-title: microphone
+  image-title: Microphone
   image-url: https://www.flickr.com/photos/argen/7094368529
   image-note: cropped and color adjusted
   description:  Share your open story.
@@ -521,8 +526,8 @@
   link: http://schoolofopen.org
   image: /images/participate-learn.jpg
   image-license: CC BY-SA 2.0
-  image-author: Jessica Duensing, opensource.com
-  image-title: education reform
+  image-author: Jessica Duensing for opensource.com
+  image-title: Education Reform
   image-url: https://www.flickr.com/photos/opensourceway/6082519811
   image-note: cropped and color adjusted
   description:   Take a School of Open course.
