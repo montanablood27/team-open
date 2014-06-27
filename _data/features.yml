@@ -164,7 +164,7 @@
   image: /images/platforms-microsoft.jpg
   image-license: CC BY-NC 2.0
   image-author: Michael Kappel
-  image-title: microsoft store logo
+  image-title: Microsoft Store Logo
   image-url: https://www.flickr.com/photos/m-i-k-e/6866648395
   image-note: cropped and color adjusted
   description: Bing and Microsoft Office incorporate CC
@@ -174,7 +174,7 @@
   image: /images/platforms-autodesk.jpg
   image-license: CC BY-NC 2.0
   image-author: Robin Capper
-  image-title: autodesk blogger day 2014 trip
+  image-title: Autodesk Blogger Day 2014 Trip
   image-url: https://www.flickr.com/photos/robinzblog/13477436423
   image-note: cropped and color adjusted
   description: Autodesk shares all of its training and support materials under CC
@@ -192,9 +192,9 @@
 - owner: 5
   link: https://creativecommons.org/weblog/entry/37866
   image: /images/platforms-dpla.jpg
-  image-license: CC BY-NC 2.0
-  image-author: Diana Gels, Digital Public Library of America
-  image-title: dpla
+  image-license: CC BY-NC-ND 2.0
+  image-author: Diana Geis, Digital Public Library of America
+  image-title: DPLA
   image-url: https://www.flickr.com/photos/dpla/6771226677/
   image-note: cropped and color adjusted
   description: Digital Public Library of America launches 
@@ -222,6 +222,11 @@
 - owner: 5
   link: http://creativecommons.org/weblog/entry/41983
   image: /images/platforms-peerj.jpg
+  image-license: CC BY 2.0
+  image-author: Duncan Hull
+  image-title: PeerJ
+  image-url: https://www.flickr.com/photos/dullhunk/7365639892
+  image-note: cropped and color adjusted
   description: PeerJ marks one year anniversary with over 200 CC-licensed Biological and Medical Sciences articles
 
 - owner: 5
@@ -239,7 +244,7 @@
   image: /images/platforms-lrmi.jpg
   image-license: CC BY 2.0
   image-author: gabitogol
-  image-title: metadata
+  image-title: Metadata
   image-url: https://www.flickr.com/photos/19499961@N00/6588259005
   image-note: cropped and color adjusted
   description: Learning Resource Metadata Initiative (LRMI) accepted into schema.org
@@ -279,7 +284,7 @@
   image: /images/platforms-opentextbook.jpg
   image-license: CC BY-SA 2.0
   image-author: Dave Dugdale
-  image-title: open book
+  image-title: Open Book
   image-url: https://www.flickr.com/photos/davedugdale/5099718716
   image-note: cropped and color adjusted
   description: Students rally around open textbooks
