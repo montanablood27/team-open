@@ -62,8 +62,8 @@
 <body>
 
 <a href="/thefuture/"><h1 class="annualreport" style="background-color: {{ page.bgcolorb }}; ">the future is open</h1></a>
-<div id="navbar" style="width: 750px;">
 
+<div id="navbar" style="width: 750px;">
 	{% for i in (1..numberofpages) %}
 		{% for page in site.pages %}
 			{% if page.layout == 'annualreport' %} 
@@ -81,6 +81,11 @@
 
 
 <div style="clear: both; "></div>
+
+<div style="max-width: 700px; margin-left: auto; margin-right: auto; color: {{ page:bgcolorb }}; ">
+{% include newslettersignup.html %}
+</div>
+
 <div id="middle" style="background-color: {{ page:bgcolora }}; ">
 <div id="topspace"></div>
 
@@ -126,7 +131,10 @@
 
 <br style="clear: both; " />
 		<div id="profile">
+		
+{% include newslettersignup.html %}
 <h2>{{ page.title }}</h2>
+
 {{content}}
 </div>
 
