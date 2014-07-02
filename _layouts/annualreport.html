@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<head>
 <title>{{ page.title }} | The future is open</title>
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+ <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <!-- Facebook open graph metadata -->
 
@@ -189,14 +190,14 @@
 
 
 
-<p align="center"><a href="https://creativecommons.org/"><img src="/images/cclogo-white-300.png" width=300 height=71 /></a></p>
+<p style="text-align: center;"><a href="https://creativecommons.org/"><img src="/images/cclogo-white-300.png" width="300" height="71" alt="Creative Commons" /></a></p>
 
 <div style="display: inline-block; height: 50px; "></div>
 <a href="#"><div class="uparrow"></div></a>
 <div style="display: inline-block; height: 50px; "></div>
 <div id="license" class="ar-licensebox">
 
-<p align="center">
+<p style="text-align: center">
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, <em><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The future is open</span></em> by <a href="https://creativecommons.org/"><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Creative Commons</span></a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 <p>Image credits</p>
@@ -235,6 +236,7 @@
 
 </div>
 
+yo2
 
 	{% unless page.title == 'Home' %}
 		<div class="spacer"></div>
@@ -247,17 +249,22 @@
 		position: fixed;
 	{% endif %}
 		">
-<a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>
-<a href="https://www.facebook.com/sharer/sharer.php?u=http://teamopen.cc{{ page.permalink }}" style="text-decoration: none; " target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>
-<a href="https://donate.creativecommons.org/?utm_campaign=thefuture&utm_source={{ page.title | remove: ' ' | downcase }}&utm_medium=web" target="_blank" style="text-decoration:none; "><div class="heart"><div class="hearttext">donate</div></div></a>
-               <form align="center" style="margin: 0; font-size: 90%;" id="Edit" action="https://donate.creativecommons.org/civicrm/profile/create?gid=29&amp;reset=1 <https://donate.creativecommons.org/civicrm/profile/create?gid=29&amp;reset=1>" method="post" name="Edit">
+
+<a href="http://twitter.com/intent/tweet?source=webclient&amp;text={{ page.blurb | | replace:' ','%20' }}+teamopen.cc{{ page.url }}" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/images/twitter.png);"><div class="circletext">share on twitter</div></div></a>
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://teamopen.cc/{{page.url}}" style="text-decoration: none; " target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>
+
+<a href="https://donate.creativecommons.org/?utm_campaign=thefuture&amp;utm_source={{ page.title | remove: ' ' | downcase }}&amp;utm_medium=web" target="_blank" style="text-decoration:none; "><div class="heart"><div class="hearttext">donate</div></div></a></li>
+
+
+               <form style="text-align: center; margin: 0; margin-top: -1em; padding: 0; padding-left: 400px; " action="https://donate.creativecommons.org/civicrm/profile/create?gid=29&amp;reset=1" method="post" name="Edit">
                <p><label for="email-Primary">Get Creative Commons
                updates</label></p><p><small><input id="email-Primary"
                class="form-control input-lg" maxlength="64"
                name="email-Primary" size="30"
                placeholder="mattl@example.com" >   <input class="btn btn-success" id="_qf_Edit_next" accesskey="S" name="_qf_Edit_next" type="submit" value="Subscribe"><input name="postURL" type="hidden" value="https://creativecommons.org/thank-you"><input name="cancelURL" type="hidden" value="https://creativecommons.org/newsletter"><input name="group[121]" type="hidden" value="1"><input name="_qf_default" type="hidden" value="Edit:cancel"></small></p>
                <p>
-                 <a href="https://donate.creativecommons.org/?utm_campaign=thefuture&utm_source={{ page.title | remove: ' ' | downcase }}&utm_medium=web">Donate to Creative Commons</a></p>
+                 <a href="https://donate.creativecommons.org/?utm_campaign=thefuture&amp;utm_source={{ page.title | remove: ' ' | downcase }}&amp;utm_medium=web">Donate to Creative Commons</a></p>
                </form>
 		</div>
 
