@@ -62,7 +62,7 @@
 </head>
 <body>
 
-<a href="/thefuture/"><h1 class="annualreport" style="background-color: {{ page.bgcolorb }}; ">the future is open</h1></a>
+<a href="/thefuture/"><h1 class="annualreport" style="background-color: {{ page.bgcolorb }}; ">The future is open</h1></a>
 
 <div id="navbar" style="width: 750px;">
 	{% for i in (1..numberofpages) %}
@@ -136,6 +136,7 @@
 <h2>{{ page.title }}</h2>
 
 {{content}}
+
 </div>
 
 {% else %}
@@ -182,13 +183,21 @@
 		</div>
 		{% endif %}
 	{% endfor %}
+	
 </div>
 <div style="clear: both; "></div>
+
+
+
+<p align="center"><a href="https://creativecommons.org/"><img src="/images/cclogo-white-300.png" width=300 height=71 /></a></p>
+
 <div style="display: inline-block; height: 50px; "></div>
 <a href="#"><div class="uparrow"></div></a>
 <div style="display: inline-block; height: 50px; "></div>
 <div id="license" class="ar-licensebox">
-<p align="center"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, this report by <a xmlns:cc="http://creativecommons.org/ns#" href="http://teamopen.cc/thefuture/" property="cc:attributionName" rel="cc:attributionURL">Creative Commons</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Except where otherwise noted, <em><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The future is open</span></em> by <a href="https://creativecommons.org/"><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Creative Commons</span></a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 <p>Image credits</p>
 <ul>
@@ -220,8 +229,8 @@
 	
 </ul>
 
-<p>The banner illustrations were created by <a href="http://www.lukesurl.com/">Luke Surl</a>. To the extent possible under the law, Luke has waived all copyright and related or neighboring rights under the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Declaration</a>.</p>
-<p>The &#8220;the future is open&#8221; logo is set in <a href="//creativecommons.org/about/downloads">Akzidenz Grotesk Bold</a>. This website is set in <a href="http://www.google.com/fonts/specimen/Roboto+Slab">Roboto Slab</a>.</p>
+<p>The banner illustrations were created by <a href="http://www.lukesurl.com/">Luke Surl</a>. To the extent possible under the law, Luke has waived all copyright and related or neighboring rights under the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Dedication</a>.</p>
+<p>The &#8220;The future is open&#8221; logo is set in <a href="//creativecommons.org/about/downloads">Akzidenz Grotesk Bold</a>. This website is set in <a href="http://www.google.com/fonts/specimen/Roboto+Slab">Roboto Slab</a>.</p>
 <p><a href="https://github.com/creativecommons/team-open/">GitHub repository</a> / <a href="https://layervault.com/creative-commons/annual-report-2014">LayerVault project</a></p>
 
 </div>
@@ -245,13 +254,8 @@
 		</div>
 	{% endunless %}
 
-<!--
-<div class="licensebox">
-<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a></p>
-<p><a href="{{page.url}}"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">{{ page.title }} (Team Open)</span></a> was written by {{ page.writer }} for <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Creative Commons</span>. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
-<div class="spacer"></div>
-</div>
--->
+
+
 </div>
 </body>
 </html>
