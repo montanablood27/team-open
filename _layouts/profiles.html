@@ -88,12 +88,7 @@
 {{content}}
 </div>
 <a href="#"><div class="uparrow"></div></a>
-<div id="circles" style="background-color: {{page:bgcolora}}; position: fixed;">
-<a href="http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen" target="_blank" style="text-decoration: none; "><div class="circle" style="background-image: url(/images/twitter.png); "><div class="circletext">share on twitter</div></div></a>
-<a href="{{ page.facebookshare }}" style="text-decoration: none; " target="_blank"><div class="circle" style="background-image: url(/images/facebook.png); "><div class="circletext">share on facebook</div></div></a>
-<a href="{{ page.newsletter }}" target="_blank" style="text-decoration:none; "><div class="circle" style="background-image: url(/images/newsletter.png); "><div class="circletext">receive the newsletter</div></div></a>
-<a href="https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.source }}&utm_medium=web" target="_blank" style="text-decoration:none; "><div class="heart"><div class="hearttext">support cc</div></div></a>
-</div>
+
 <div class="licensebox">
 <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a></p>
 <p><a href="{{page.url}}"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">{{ page.title }} (Team Open)</span></a> was written by {{ page.writer }} for <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Creative Commons</span>. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
@@ -102,8 +97,15 @@
 <p><a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" width=88 height=31 border=0></a></p>
 <p>The illustration of {{ page.title }} was created by <a href="{{ page.drawingbyurl }}">{{ page.drawingby }}</a>. To the extent possible under the law, {{ page.drawingby }} has waived all copyright and related or neighboring rights under the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 Public Domain Declaration</a>.</p>
 	{% endif %}
-<div class="spacer"></div>
+
 </div>
+
+{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen{% endcapture %}
+
+{% capture donate %}https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.source }}&utm_medium=web{% endcapture %}
+
+{% include footer.html position="fixed" bgcolora=page.bgcolora tweet=tweet facebook=page.facebookshare donate=donate %}
+
 </div>
 </body>
 </html>
