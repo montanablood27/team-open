@@ -19,6 +19,7 @@
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
 	{% assign currentpage = page.title %}
+	{% assign series = page.series %}
 	{% assign numberofprofiles = 12 %}
 
 	{% if page.order == {numberofprofiles} %}
@@ -41,13 +42,11 @@
 
 	{% for i in (1..numberofprofiles) %}
 		{% for page in site.pages %}
-			{% if page.layout == 'profiles' %} 
-				{% if page.order == {{i}} %}
-					{% if page.title == {{currentpage}} %}
-						<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
-					{% else %}
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
-					{% endif %}
+			{% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{i}} %}
+				{% if page.title == {{currentpage}} %}
+					<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
+				{% else %}
+					<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
 				{% endif %}
 			{% endif %}
 		{% endfor %}
@@ -61,10 +60,8 @@
 {% include newslettersignup.html context="teamopen" %}
 
   {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderminusone}} %}
+    {% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{orderminusone}} %}
     		<a href="{{page.permalink}}">
-    	{% endif %}
     {% endif %}
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/leftarrow.png'); " ></div></a>
@@ -78,10 +75,8 @@
 </div>
 </a>
   {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderplusone}} %}
+    {% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{orderplusone}} %}
     		<a href="{{page.permalink}}">
-    	{% endif %}
     {% endif %}
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
