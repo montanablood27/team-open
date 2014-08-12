@@ -1,0 +1,34 @@
+---
+layout: profiles
+bgcolora: "#626C72"
+bgcolorb: "#E5723F"
+title: David Lippman
+writer: Elliot Harmon
+drawingby: Luke Surl
+drawingbyurl: http://www.lukesurl.com/
+series: 2
+order: 9
+headshoturl: /images/thomas.gif
+navurl: /images/navthomas.gif
+blurb: How one professor saved students a million dollars.
+twitterhandle: drlippman
+facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
+newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276
+source: thomas
+permalink: /david/
+published: true
+---
+
+One day last year, David Lippman got an interesting Google Alert. 1300 miles away, [fellow math professor James Sousa had created free video tutorials](http://creativecommons.org/weblog/entry/37647) for almost every example question in David's basic math textbook. James did all of that without asking for David's permission; *David had already given permission* by licensing his work under a Creative Commons license.
+
+David loves getting that kind of news. He's dedicated his career to making it easier for instructors and students to get the math content they need. David created [http://imathas.com/](iMathAS), a free, open-source platform that generates math homework problems and grades students' work. [He's also co-written two math textbooks](http://dlippman.imathas.com/) --- one on precalculus and one for a basic college-level math survey course.
+
+Why did David choose to give the textbooks away for free, rather than publish them with a traditional publisher? "I'm sitting here faced with this reality that my students are buying this $150 book. We only use about half of it anyway. And we're not even using the exercises in the book. It just felt so silly that they were having to pay 150 dollars for the book for a course that they don't even want to be taking anyway." David estimates that the precalculus book has saved students around the country over a million dollars.
+
+Like almost everything David creates, the books are licensed under [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/4.0/), which allows anyone to republish, reuse, or remix a piece of content so long as they give the author credit and share their own version under the same license. "Whatever I create's not going to be perfect," James says. "So I want to make sure that people have the ability to make changes and improvements, and hopefully contribute back."
+
+David says that sharing his work for free always seems to result in people helping out who wouldn't otherwise. And even though he doesn't have the large budget of a major textbook publisher, community contributions make up for it. "Very shortly after the book came out, we had one guy who went through it and literally sent us a thousand edits," David says. "He ended up acting like a professional copyeditor for us, all for free. He wouldn't have done that for a traditional textbook."
+
+But David considers open licenses more than just a way of saving students money or getting free work: he sees them as a new path forward for education. He tells the story of a professor who asked a representative from a textbook company if they published a list of known errors in the book: "They said, 'No, we'd never have that, because then the other publishers would use that against us.' I get it: people are concerned about the accuracy of their textbooks. Particularly math teachers: we hate it when there's a wrong answer in the book. But don't just let us live with it. Fix it!"
+
+As for those free videos that James Sousa created based on David's course, the story doesn't end there. Shortly thereafter, Santa Ana Community College used David's basic math textbook for a course, complete with James' videos. But California laws require videos used as part of college courses to them. And thanks to the BY-SA license, the captions are available for free too. "So now we have this course that's blending a textbook from us with homework from dozens of faculty members who have created these questions over the years, videos from James, and captioning paid for by the state of California. It's fun to see that sort of stuff come together."
