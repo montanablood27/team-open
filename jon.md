@@ -1,14 +1,14 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#712cca"
+bgcolorb: "#4030a5"
 title: Jon Festinger
 writer: Paul Stacey
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 12
-headshoturl: /images/abel.gif
+headshoturl: /images/jon.gif
 navurl: /images/navthomas.gif
 blurb: 
 twitterhandle: musescore
