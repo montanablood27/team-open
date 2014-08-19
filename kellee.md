@@ -19,7 +19,7 @@ permalink: /kellee/
 published: true
 ---
 
-Listen to Kellee Maize’s “[Google Female Rapper](https://www.youtube.com/watch?v=VhhdXG5UM2o),” and you hear her rap about agency, transformation, and community in such rapid precision that it takes you aback. And if you *literally* [Google “female rapper,”](https://www.google.com/search?q=female+rapper&rlz=1C5CHFA_enUS503US503&oq=female+rapper&aqs=chrome..69i57j0l5.15897j0j4&sourceid=chrome&es_sm=119&ie=UTF-8)  Kellee is first on the list.
+Listen to Kellee Maize's "[Google Female Rapper](https://www.youtube.com/watch?v=VhhdXG5UM2o)," and you hear her rap about agency, transformation, and community in such rapid precision that it takes you aback. And if you *literally* [Google "female rapper,"](https://www.google.com/search?q=female+rapper&rlz=1C5CHFA_enUS503US503&oq=female+rapper&aqs=chrome..69i57j0l5.15897j0j4&sourceid=chrome&es_sm=119&ie=UTF-8)  Kellee is first on the list.
 
 Kellee Maize is a full-time, independent musician out of Pittsburgh, Pennsylvania, who raps about spirituality, feminism, and social and political issues. Under a [Creative Commons Attribution (BY) license](http://creativecommons.org/licenses/by/4.0/), she shares all of her music freely in the hopes that doing so will raise awareness and help others live a life of positivity and collaboration. 
 
