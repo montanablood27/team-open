@@ -16,9 +16,20 @@ h1 {
 	width: 500px;
 	height: 82px;
 	margin-left: 50px;
-	margin-right: auto;
+	float: left;
+/*	margin-right: auto; */
 	}
-	
+
+.seriesbox {
+	float: left;
+	background-color: {{page:bgcolorb}};
+	padding: 5px;
+	margin-top: 18px;
+	margin-right: 10px;
+	border: 2px solid white;
+	border-radius: 5px;
+	}
+
 h1.annualreport {
 	text-indent: -9999px;
 	background: url(/images/ar-title.png) no-repeat 0 0;

@@ -13,8 +13,7 @@
 
   ga('create', 'UA-2010376-27', 'teamopen.cc');
   ga('send', 'pageview');
-
-</script>
+	</script>
 
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
@@ -40,22 +39,35 @@
 
 <!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
 
-	{% for i in (1..numberofprofiles) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{i}} %}
-				{% if page.title == {{currentpage}} %}
+		{% for i in (1..numberofprofiles) %}
+			{% for page in site.pages %}
+				{% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{i}} %}
+					{% if page.title == {{currentpage}} %}
 					<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
-				{% else %}
+					{% else %}
 					<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
+					{% endif %}
 				{% endif %}
-			{% endif %}
+			{% endfor %}
 		{% endfor %}
-	{% endfor %}
 </div>
 <div style="clear: both; "></div>
 <div id="middle" style="background-color: {{page:bgcolora}}; ">
 <div id="topspace"></div>
 <a href="/all/"><h1>Team Open</h1></a>
+	{% if page.series == 1 %}
+		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series one</p>
+	{% else %}
+		<a href="/piya/"><p class="seriesbox">series one</p></a>
+	{% endif %}
+
+	{% if page.series == 2 %}
+		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series two</p>
+	{% else %}
+		<a href="/kellee/"><p class="seriesbox">series two</p></a>
+	{% endif %}
+<a href="/all/"><p class="seriesbox">all</p></a>
+<div style="clear: both;" />
 
 {% include newslettersignup.html context="teamopen" %}
 
