@@ -1,14 +1,14 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#E5723F"
-title: SL "Lisa" Huang
-writer: Elliot Harmon
+bgcolorb: "#318ae3"
+title: Lisa Huang
+writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 5
-headshoturl: /images/thomas.gif
+headshoturl: /images/lisa.gif
 navurl: /images/navthomas.gif
 blurb: She writes books and stuff.
 twitterhandle: musescore

@@ -1,16 +1,16 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolorb: "#751e1e"
 title: Chris Zabriskie
 writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 1
-headshoturl: /images/thomas.gif
+headshoturl: /images/chris.gif
 navurl: /images/navthomas.gif
-blurb: Making a living with CC-licensing his music
+blurb: Making a living with CC-licensed music
 twitterhandle: chriszabriskie
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
 newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276

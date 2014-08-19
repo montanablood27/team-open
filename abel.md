@@ -1,14 +1,14 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolorb: "#275732"
 title: Abel Caine
-writer: Elliot Harmon
+writer: Timothy Vollmer
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 8
-headshoturl: /images/thomas.gif
+headshoturl: /images/abel.gif
 navurl: /images/navthomas.gif
 blurb: Bringing public domain music to the public.
 twitterhandle: musescore

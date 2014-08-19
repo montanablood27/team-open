@@ -1,14 +1,14 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolorb: "#1191ac"
 title: Max Temkin
-writer: Elliot Harmon
+writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 2
-headshoturl: /images/thomas.gif
+headshoturl: /images/max.gif
 navurl: /images/navthomas.gif
 blurb: Bringing public domain music to the public.
 twitterhandle: musescore
