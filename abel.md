@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#275732"
+bgcolorb: "#712cca"
 title: Abel Caine
 writer: Timothy Vollmer
 drawingby: Luke Surl
