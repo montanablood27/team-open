@@ -3,7 +3,7 @@ layout: profiles
 bgcolora: "#626C72"
 bgcolorb: "#E5723F"
 title: Mariana Fossatti
-writer: Elliot Harmon
+writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
