@@ -1,6 +1,6 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
+bgcolora: "#5C8091"
 bgcolorb: "#3a2516"
 title: Anil Prasad
 writer: Meryl Mohan

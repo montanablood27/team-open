@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#318ae3"
+bgcolorb: "#4794e1"
 title: Lisa Huang
 writer: Meryl Mohan
 drawingby: Luke Surl

@@ -1,7 +1,7 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
-bgcolorb: "#4030a5"
+bgcolora: "#786D6B"
+bgcolorb: "#c7a600"
 title: Jon Festinger
 writer: Paul Stacey
 drawingby: Luke Surl

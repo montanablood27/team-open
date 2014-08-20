@@ -1,6 +1,6 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
+bgcolora: "#5C8091"
 bgcolorb: "#751e1e"
 title: Chris Zabriskie
 writer: Meryl Mohan
