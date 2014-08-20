@@ -43,7 +43,7 @@ Kellee has reached a level of success that many other musicians hope to achieve 
 
 "A lot of artists don't understand that 95% of artists signed to a label fail," explains Kellee. "I don't trust the music industry in general. I don't think it values music or the artist. When you think about artists like TLC with no money, it's heartbreaking. There has to be another avenue."
 
-"CC is one of the many ways we did things differently," Kellee explains. "I highly recommend it. I was skeptical of it, and I totally see the value now. It's not for everyone, but it's also not like you're signing a record deal where your next three albums are owed to someone. [...] And it doesn’t prevent you from doing traditional things like putting your work on iTunes."
+"CC is one of the many ways we did things differently," Kellee explains. "I highly recommend it. I was skeptical of it, and I totally see the value now. It's not for everyone, but it's also not like you're signing a record deal where your next three albums are owed to someone. [...] And it doesn't prevent you from doing traditional things like putting your work on iTunes."
 
 By doing things differently and testing different strategies, Kellee has been able to bypass competition and create an avenue for herself. She's maintained her independent status, and most importantly, the power of creative control to write about what matters most to her.
 
