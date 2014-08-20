@@ -31,7 +31,7 @@ That decision was the easy part. The hard part was convincing his major funders 
 
 It was also important to Simon to put the film on The Pirate Bay before it ever aired on television, an idea that raised a few eyebrows with the networks. "They said, 'Are you crazy? Are you telling me me that we're going to leak our own film before we broadcast it?' We told them the audience that's going to download this film from Pirate Bay is totally different from the audience that's going to watch it on Thursday night at 9 pm. The hype is going to drive viewers."
 
-And it worked. The film premiered on Thursday at 9pm to massive viewership, and went on to become the talk of the 2013 festival circuit, proving Simon's point that giving away the film would grow the viewership, not cannibalize it.
+And it worked. The film premiered on Thursday at 9 pm to massive viewership, and went on to become the talk of the 2013 festival circuit, proving Simon's point that giving away the film would grow the viewership, not cannibalize it.
 
 Simon is quick to point out that his distribution model was an experiment, and that he had to make some compromises along the way. He'd originally hoped to release the film under the [Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/), allowing commercial use, but the networks pushed back. One television station didn't want to allow remixes of its content, so Simon released [two versions of the film](http://creativecommons.org/examples#by-nc-nd), one with [a license that forbids remix](http://creativecommons.org/licenses/by-nc-nd/3.0/).
 
