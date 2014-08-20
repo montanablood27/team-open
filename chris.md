@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#5C8091"
-bgcolorb: "#751e1e"
+bgcolorb: "#742424"
 title: Chris Zabriskie
 writer: Meryl Mohan
 drawingby: Luke Surl
