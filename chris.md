@@ -19,7 +19,7 @@ permalink: /chris/
 published: true
 ---
 
-A couple of months ago when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the [Creative Commons] attribution logo tattooed on my wrist. Literally. I'm not kidding."
+A couple of months ago when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."
 
 He wasn't. In July of this year, [he did it](https://www.flickr.com/photos/chriszabriskie/14951359402/).
 
