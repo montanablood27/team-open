@@ -33,9 +33,9 @@ Within a few months of placing his interviews under CC, Anil has seen downloads 
 
 "Interesting big commercial enterprises are looking to CC for content," explains Anil. "There has been a general lift in awareness of *Innerviews* since the decision has been made. I'm busier than I've ever been."
 
-In addition to Anil, the musicians featured on *Innerviews* have seen successes themselves. *[Premier Guitar Magazine]*(http://www.premierguitar.com/articles/print/19891-bass-bench-beef-up-your-4-string) ran Anil's story on Michael Manring under the CC license. In Russia, *[InRock magazine]*(http://ow.ly/i/4HkF4) -- one of the country's biggest rock publications -- ran Anil's interview with [Peter Hammill](http://innerviews.org/inner/hammill.html) on the cover.
+In addition to Anil, the musicians featured on *Innerviews* have seen successes themselves. [*Premier Guitar Magazine*](http://www.premierguitar.com/articles/print/19891-bass-bench-beef-up-your-4-string) ran Anil's story on Michael Manring under the CC license. In Russia, [*InRock Magazine*](http://ow.ly/i/4HkF4) -- one of the country's biggest rock publications -- ran Anil's interview with [Peter Hammill](http://innerviews.org/inner/hammill.html) on the cover.
 
-"The *In Rock* cover story came entirely out of CC. Peter Hammill is very well known in Europe, and I don't think even he could have foreseen that he would be on the cover of a major Russian magazine," says Anil. 
+"The *In Rock* cover story came entirely out of CC. Peter Hammill is very well known in Europe, and I don't think even *he* could have foreseen that he would be on the cover of a major Russian magazine," says Anil. 
 
 Enabled by CC licenses, a greater number of people are reading Anil's pieces on more and more websites, with coverage in various countries in multiple forums, benefiting everyone. 
 
@@ -43,13 +43,13 @@ Enabled by CC licenses, a greater number of people are reading Anil's pieces on 
 
 One year into using CC licenses, Anil views opening up his work as integral to *Innerviews* and the changing context in which people digest, share, and use online content.
 
-"I have no regrets about the decision. A lot of people -- like those from conventional music magazines -- paid attention when I adopted CC and raised their eyebrows. I got a lot of emails in capital letters and exclamation points, saying that I was forgoing future revenue opportunities and that I was watering it down for the rest of them. I think it reflects a generational shift in the digital world."
+"I have no regrets about the decision. A lot of people -- like those from conventional music magazines -- paid attention when I adopted CC and raised their eyebrows. I got a lot of emails in capital letters and exclamation points, saying that I was forgoing future revenue opportunities, and that I was watering it down for the rest of them. I think it reflects a generational shift in the digital world."
 
 As the internet's first music magazine in 1994, Anil poised *Innerviews* as an enduring body of work. 20 years later, Anil has not only adapted to the evolving digital landscape, but embraced it. This outlook has paid dividends for *Innerviews*, securing his site as a classic fixture of music journalism.
 
 "I'm proud that I'm still able to do *Innerviews* on a non-commercial basis, have it last this long, and turn into a life's work. It started essentially when I was a kid - and now I'm in my mid 40s and still doing it. The opportunities have become pretty significant, and it's a very well known site at this point. The world comes to it instead of me going to the world, and the CC element comes into that," says Anil.
 
-For *Innerviews'* 20th anniversary this year, Anil is undergoing a major website redesign that will radically revision the current site -- ready for unveiling in September. The design will be "future-proof," seamlessly adapting to mobile and tablet formats so everyone can have the same experience, no matter how small their screen is. CC will be integrated into every element.
+For *Innerviews*'  20th anniversary this year, Anil is undergoing a major website redesign that will radically revision the current site -- ready for unveiling in September. The design will be "future-proof," seamlessly adapting to mobile and tablet formats so everyone can have the same experience, no matter how small their screen is. CC will be integrated into every element.
 
 "For the 20th anniversary, it's a statement that the site belongs to everyone else as much as it does to me. That's the biggest accomplishment with *Innerviews*. It's more than a website. It's a community of people, and CC feeds into all of that. If CC isn't about community, then what is it about? It's the ultimate manifestation of it." 
 
