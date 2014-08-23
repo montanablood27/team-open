@@ -2,7 +2,7 @@
 layout: profiles
 bgcolora: "#626C72"
 bgcolorb: "#589add"
-title: Lisa Huang
+title: SL (Lisa) Huang
 writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
