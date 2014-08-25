@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 7
 headshoturl: /images/maria.gif
-navurl: /images/navthomas.gif
+navurl: /images/navmaria.gif
 blurb: Math
 twitterhandle: MariaDroujkova
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
