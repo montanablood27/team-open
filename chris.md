@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 1
 headshoturl: /images/chris.gif
-navurl: /images/navthomas.gif
+navurl: /images/navchris.gif
 blurb: Making a living with CC-licensed music
 twitterhandle: chriszabriskie
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
