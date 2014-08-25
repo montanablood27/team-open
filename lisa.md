@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 5
 headshoturl: /images/lisa.gif
-navurl: /images/navthomas.gif
+navurl: /images/navlisa.gif
 blurb: She writes books and stuff.
 twitterhandle: sl_huang
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
