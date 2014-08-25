@@ -8,7 +8,7 @@ drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 11
-headshoturl: /images/abel.gif
+headshoturl: /images/sean.gif
 navurl: /images/navthomas.gif
 blurb: Safecast
 twitterhandle: seanbonner
