@@ -1,14 +1,14 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolora: "#67776E"
+bgcolorb: "#87aa55"
 title: Maria Droujkova
 writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 7
-headshoturl: /images/thomas.gif
+headshoturl: /images/maria.gif
 navurl: /images/navthomas.gif
 blurb: Math
 twitterhandle: MariaDroujkova
