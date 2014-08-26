@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 12
 headshoturl: /images/jon.gif
-navurl: /images/navthomas.gif
+navurl: /images/navjon.gif
 blurb: Video game lawyer
 twitterhandle: jonfestinger
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
