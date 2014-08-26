@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 11
 headshoturl: /images/sean.gif
-navurl: /images/navthomas.gif
+navurl: /images/navsean.gif
 blurb: Safecast
 twitterhandle: seanbonner
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
