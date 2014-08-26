@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 8
 headshoturl: /images/abel.gif
-navurl: /images/navthomas.gif
+navurl: /images/navabel.gif
 blurb: UNESCO
 twitterhandle: abelcaine
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
