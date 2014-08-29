@@ -35,9 +35,9 @@ As a result, there have been thousands of [fan remixes of the cards](https://www
 
 In support of this aim, the co-founders selected the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/2.0/), allowing any remixes of the cards to be shared similarly ("SA"), and for those remixes to also be available for free ("NC"). With the attribution requirement on the license ("BY"), any remixes also acknowledged the original creator, supporting the Cards Against Humanity business.
 
-"[CC] is integral to our business model, because it helped make it spread," says Max. The group has never paid for advertising, and instead the game's popularity grew virally, through word of mouth, and by people sharing the game with one another. 
+"CC is integral to our business model, because it helped make it spread," says Max. The group has never paid for advertising, and instead the game's popularity grew virally, through word of mouth, and by people sharing the game with one another. 
 
-"I honestly don't think people would gravitate to the game, talk about the cards, or feel ownership if we weren't willing to share it with them," continues Max. "The game is about telling jokes and making people laugh. We want people to feel as if they're a participant in putting that joke together -- it's in the spirit of comedy and of the game."
+"I honestly don't think people would gravitate to the game, talk about the cards, or feel ownership if we weren't willing to share it with them. The game is about telling jokes and making people laugh. We want people to feel as if they're a participant in putting that joke together -- it's in the spirit of comedy and of the game."
 
 More pragmatically, the creators of Cards Against Humanity have chosen to focus their time on what they feel is most important - writing jokes. "You have a choice to make, whether you want to spend your time suing people or turn them into evangelists for a brand or product," says Max. "Nothing can deplete energy and goodwill faster than suing people and defending your copyright. You literally can't move faster than people who want to rip your stuff off."
 
