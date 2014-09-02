@@ -7,7 +7,7 @@ writer: Billy Meinke
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 11
+order: 12
 headshoturl: /images/sean.gif
 navurl: /images/navsean.gif
 blurb: Safecast

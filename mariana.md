@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 6
+order: 8
 headshoturl: /images/mariana.gif
 navurl: /images/navmariana.gif
 blurb: Ártica

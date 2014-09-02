@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 3
+order: 7
 headshoturl: /images/anil.gif
 navurl: /images/navanil.gif
 blurb: Music journalism

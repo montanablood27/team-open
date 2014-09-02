@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 2
+order: 1
 headshoturl: /images/max.gif
 navurl: /images/navmax.gif
 blurb: Cards Against Humanity

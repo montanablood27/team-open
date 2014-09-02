@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 1
+order: 9
 headshoturl: /images/chris.gif
 navurl: /images/navchris.gif
 blurb: Making a living with CC-licensed music

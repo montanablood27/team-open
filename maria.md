@@ -7,7 +7,7 @@ writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 7
+order: 10
 headshoturl: /images/maria.gif
 navurl: /images/navmaria.gif
 blurb: Math

@@ -7,7 +7,7 @@ writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 10
+order: 4
 headshoturl: /images/simon.gif
 navurl: /images/navsimon.gif
 blurb: PirateBay

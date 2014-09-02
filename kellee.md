@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 4
+order: 2
 headshoturl: /images/thomas.gif
 navurl: /images/navthomas.gif
 blurb: Rapper
