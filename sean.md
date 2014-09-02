@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#5C8091"
-bgcolorb: "#2f56c8"
+bgcolorb: "#3158c8"
 title: Sean Bonner
 writer: Billy Meinke
 drawingby: Luke Surl
