@@ -1,15 +1,15 @@
 ---
 layout: profiles
 bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolorb: "#2d508f"
 title: David Lippman
 writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 9
-headshoturl: /images/thomas.gif
-navurl: /images/navthomas.gif
+headshoturl: /images/david.gif
+navurl: /images/navdavid.gif
 blurb: How one professor saved students a million dollars.
 twitterhandle: drlippman
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
