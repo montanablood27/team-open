@@ -1,15 +1,15 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
-bgcolorb: "#712cca"
+bgcolora: "#786D6B"
+bgcolorb: "#a73a33"
 title: Simon Klose
 writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 10
-headshoturl: /images/abel.gif
-navurl: /images/navthomas.gif
+headshoturl: /images/simon.gif
+navurl: /images/navsimon.gif
 blurb: PirateBay
 twitterhandle: simonklose
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
