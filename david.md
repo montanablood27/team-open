@@ -7,7 +7,7 @@ writer: Elliot Harmon
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 4
+order: 3
 headshoturl: /images/david.gif
 navurl: /images/navdavid.gif
 blurb: How one professor saved students a million dollars.
