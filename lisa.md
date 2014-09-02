@@ -7,7 +7,7 @@ writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 6
+order: 5
 headshoturl: /images/lisa.gif
 navurl: /images/navlisa.gif
 blurb: She writes books and stuff.

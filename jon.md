@@ -7,7 +7,7 @@ writer: Paul Stacey
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
-order: 5
+order: 6
 headshoturl: /images/jon.gif
 navurl: /images/navjon.gif
 blurb: Video game lawyer
