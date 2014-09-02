@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#5C8091"
-bgcolorb: "#2e2621"
+bgcolorb: "#2f2f2f"
 title: Anil Prasad
 writer: Meryl Mohan
 drawingby: Luke Surl
