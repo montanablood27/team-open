@@ -1,15 +1,15 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolora: "#786D6B"
+bgcolorb: "#fc784c"
 title: Mariana Fossatti
 writer: Meryl Mohan
 drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 6
-headshoturl: /images/thomas.gif
-navurl: /images/navthomas.gif
+headshoturl: /images/mariana.gif
+navurl: /images/navmariana.gif
 blurb: Ártica
 twitterhandle: marfossatti
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
