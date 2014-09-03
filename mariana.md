@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#786D6B"
-bgcolorb: "#fc784c"
+bgcolorb: "#f57b53"
 title: Mariana Fossatti
 writer: Meryl Mohan
 drawingby: Luke Surl
