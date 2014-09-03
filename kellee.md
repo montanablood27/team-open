@@ -1,7 +1,7 @@
 ---
 layout: profiles
 bgcolora: "#5C8091"
-bgcolorb: "#74bb97"
+bgcolorb: "#59af83"
 title: Kellee Maize
 writer: Meryl Mohan
 drawingby: Luke Surl
