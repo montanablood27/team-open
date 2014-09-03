@@ -1,7 +1,7 @@
 ---
 layout: profiles
-bgcolora: "#626C72"
-bgcolorb: "#E5723F"
+bgcolora: "#5C8091"
+bgcolorb: "#74bb97"
 title: Kellee Maize
 writer: Meryl Mohan
 drawingby: Luke Surl
@@ -9,7 +9,7 @@ drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 2
 headshoturl: /images/kellee.gif
-navurl: /images/navthomas.gif
+navurl: /images/navkellee.gif
 blurb: Rapper
 twitterhandle: KelleeMaize
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
