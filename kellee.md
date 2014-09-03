@@ -8,7 +8,7 @@ drawingby: Luke Surl
 drawingbyurl: http://www.lukesurl.com/
 series: 2
 order: 2
-headshoturl: /images/thomas.gif
+headshoturl: /images/kellee.gif
 navurl: /images/navthomas.gif
 blurb: Rapper
 twitterhandle: KelleeMaize
