@@ -19,7 +19,7 @@ permalink: /chris/
 published: true
 ---
 
-A couple of months ago when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."
+Earlier this year when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."
 
 He wasn't. In July of this year, [he did it](https://www.flickr.com/photos/chriszabriskie/14951359402/).
 
@@ -29,7 +29,7 @@ Chris has been actively using CC licenses since 2009, beginning with the Creativ
 
 "CC is a really good, clear way to communicate what you can and can't do. You could do your own licensing page with all sorts of stipulations, but CC has done all the work for you. It's accepted, it's recognized, and people go looking for it."
 
-His decision has benefited numerous other people. Chris's music has been used in over 10,000 videos on YouTube -- and those are just the ones he knows about.
+Chris's music has been used in over 10,000 videos on YouTube -- and those are just the ones he knows about. With his music attached to his name through the attribution requirement on the CC license, Chris gets credited in tens of thousands of videos and songs. By doing so, it opens opportunities for Chris to make money through separate licensing deals for companies, films, advertisements, and various other projects.
 
 "I couldn't have the same success without the exposure CC allows. It's key to my business model - the first is making music people enjoy, and the second part is sharing."
 
@@ -41,10 +41,8 @@ With his success, Chris can afford to make music his full-time career, but opts 
 
 "I never thought many people would hear my music. The kind of music I make, it's not going to be on the radio, a video isn't going to go viral. CC changed everything for me," Chris continues. "Literally every job I've taken, music I've licensed or scored, is because people were searching for CC. My career is 100% due to CC."
 
-For other musicians, it can be easy to think that Chris's path to success may only work for artists who do instrumental pieces. Chris wondered the same thing. As an experiment, he released some of his music from when he sang in a band on Free Music Archive. This material was used as well - with some of the download counts beating some of his instrumental records. 
+For other musicians, it can be easy to think that Chris's path to success may only work for artists who do instrumental pieces. Chris wondered the same thing. As an experiment, he released some of his music from when he sang in a band on [Free Music Archive](http://freemusicarchive.org/music/chris_zabriskie/). This material was used as well - with some of the download counts beating some of his instrumental records. 
 
-"There's always an audience for something, but it's getting to them. The easier you make it for people to find you, they eventually do. If you close your stuff off, it’s going to kill you. Sharing isn't the same as giving away."
-
-With his music attached to his name through the attribution requirement on the CC license, Chris gets credited in tens of thousands of videos and songs. By doing so, it opens opportunities for Chris to make money through separate licensing deals for companies, films, advertisements, and various other projects.
+"There's always an audience for something, but it's getting to them. The easier you make it for people to find you, they eventually do. If you close your stuff off, it’s going to kill you. Sharing isn't the same as giving away," says Chris.
 
 "I can't imagine CC not working for everyone. I recommend it to everybody. I can't figure out a good downside."
