@@ -45,6 +45,6 @@ Today, Ártica is a site of reference in the Spanish-speaking world, contributin
 
 This year, Ártica will launch the third edition of their massive open online course "Art and Culture in circulation,” along with [Vía Libre Foundation](http://www.vialibre.org.ar/) from Argentina. 
 
-“We are committed to Ártica’s growth,” says Mariana. “It is happening in the form of a rhizome, helping to germinate related cultural projects in the region, with which we can continue building a free and open culture together.” Under Creative Commons licensing, Ártica is continuing to build this open culture backed by a legally sound method to easily disseminate knowledge. 
+“We are committed to Ártica’s growth,” says Mariana. “It is happening in the form of a rhizome, helping to germinate related cultural projects in the region, with which we can continue building a free and open culture together.” Under Creative Commons licensing, Ártica and its users are building this open culture by allowing anyone to use and contribute to a history of shared knowledge, innovation, and creativity. 
 
 
