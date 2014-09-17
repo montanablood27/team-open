@@ -38,8 +38,6 @@
 <body>
 <div id="navbar">
 
-<!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
-
 		{% for i in (1..numberofprofiles) %}
 			{% for page in site.pages %}
 				{% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{i}} %}
@@ -67,7 +65,7 @@
 	{% if page.series == 2 %}
 		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series two</p>
 	{% else %}
-		<a href="/chris/"><p class="seriesbox">series two</p></a>
+		<a href="/max/"><p class="seriesbox">series two</p></a>
 	{% endif %}
 <a href="/all/"><p class="seriesbox">all</p></a>
 </div>

@@ -8,15 +8,14 @@ permalink: /all/
 	{% assign numberofprofiles = 12 %}
 
 <div class="othercontent">
-<br clear=all>
 <p>Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
 <p>Team Open is a project to collect and share stories of the power of Creative Commons licenses.</p>
 </div>
 
-	{% for i in (1..numberofprofiles) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'profiles' %} 
-				{% if page.order == {{i}} %}
+	{% for j in (1..2) reversed %}
+		{% for i in (1..numberofprofiles) %}
+			{% for page in site.pages %}
+				{% if page.layout == 'profiles' and page.order == {{i}} and page.series == {{j}} %}
 					<a href="{{ page.permalink }}" style="text-decoration: none; ">
 					<div class="selector" style="background-color: {{page:bgcolorb}}; ">
 					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
@@ -29,10 +28,11 @@ permalink: /all/
 					</div>
 					</a>
 					<div style="clear: both; "></div>
-				{% endif %}
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
+{% endfor %}
+
 <div style="height: 50px; clear: both; "></div>
 
 <div class="licensebox">

@@ -25,10 +25,8 @@
 <div id="navbar">
 	{% for i in (1..numberofprofiles) %}
 		{% for page in site.pages %}
-			{% if page.layout == 'profiles' %} 
-				{% if page.order == {{i}} %}
+			{% if page.layout == 'profiles' and page.series == 2 and page.order == {{i}} %} 
 						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
-				{% endif %}
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
@@ -39,6 +37,16 @@
 <div id="topspace"></div>
 <h1>Team Open</h1>
 
+<div id="seriesbox-holder">
+		<a href="/piya/"><p class="seriesbox">series one</p></a>
+		<a href="/max/"><p class="seriesbox">series two</p></a>
+<a href="/all/"><p class="seriesbox" style="background-color: #1191ac; ">all</p></a>
+</div>
+<div style="clear: both;" />
+
+
+{% include newslettersignup.html context="teamopen" %}
+<hr />
 {{content}}
 
 {% include footer.html position=static bgcolora="#626C72" tweet="http://twitter.com/intent/tweet?source=webclient&text=I'm+on+%23teamopen+teamopen.cc" facebook="https://www.facebook.com/sharer/sharer.php?u=http://teamopen.cc/" donate="https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source=teamopen&utm_medium=web" %}
