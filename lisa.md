@@ -10,7 +10,7 @@ series: 2
 order: 5
 headshoturl: /images/lisa.gif
 navurl: /images/navlisa.gif
-blurb: She writes books and stuff.
+blurb: Rather than fight them, she let her fans share her book.
 twitterhandle: sl_huang
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
 newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276
@@ -31,7 +31,7 @@ Philosophically, Lisa stands behind copyright and protection for creators. But a
 
 By making them legal under CC's license conditions, Lisa is guaranteeing her fans the right to use and remix her work, without permission and without fear of retribution. She's ensuring a seamless exchange of creativity. "Choosing to allow derivative works was a no-brainer," says Lisa. "I've always been wholeheartedly behind the creativity in fandom, and I can't imagine telling my readers they couldn't delight in my work that way." Sharing under CC also benefits Lisa as an author by enabling the work to spread far and wide.
 
-"Using CC might have some risk, but NOT using it does as well.  I think it's easy to get caught up in the fear that allowing sharing will mean no one will ever pay for your work . . . but on the flip side, what about the fear that your work will stay mired in revenue-less obscurity because not enough people will pay for it sight-unseen? Allowing your work to be shared is nowhere near as scary once you see people happily trundling along and making money with it without the sky falling in on them."
+"Using CC might have some risk, but NOT using it does as well.  I think it's easy to get caught up in the fear that allowing sharing will mean no one will ever pay for your work... but on the flip side, what about the fear that your work will stay mired in revenue-less obscurity because not enough people will pay for it sight-unseen? Allowing your work to be shared is nowhere near as scary once you see people happily trundling along and making money with it without the sky falling in on them."
 
 Lisa firmly believes that legally allowing filesharing will help, rather than harm, her success. The CC license leaves open the potential for larger adaptations of Lisa’s work by studio television shows, movies, and other monetary licensing avenues.
 
