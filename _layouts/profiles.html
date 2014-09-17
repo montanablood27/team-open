@@ -56,6 +56,8 @@
 <div id="middle" style="background-color: {{page:bgcolora}}; ">
 <div id="topspace"></div>
 <a href="/all/"><h1>Team Open</h1></a>
+
+<div id="seriesbox-holder">
 	{% if page.series == 1 %}
 		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series one</p>
 	{% else %}
@@ -68,7 +70,9 @@
 		<a href="/chris/"><p class="seriesbox">series two</p></a>
 	{% endif %}
 <a href="/all/"><p class="seriesbox">all</p></a>
+</div>
 <div style="clear: both;" />
+
 
 {% include newslettersignup.html context="teamopen" %}
 

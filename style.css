@@ -20,6 +20,12 @@ h1 {
 /*	margin-right: auto; */
 	}
 
+#seriesbox-holder {
+	position: relative;
+	left: 90px;
+	}
+
+
 .seriesbox {
 	float: left;
 	background-color: {{page:bgcolorb}};
