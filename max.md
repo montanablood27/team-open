@@ -10,7 +10,7 @@ series: 2
 order: 1
 headshoturl: /images/max.gif
 navurl: /images/navmax.gif
-blurb: The #1 bestselling comedy game proved that fans will pay, even when they don't have to.
+blurb: The &#35;1 comedy game proved that fans will pay, even when they don't have to.
 twitterhandle: MaxTemkin
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
 newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276
