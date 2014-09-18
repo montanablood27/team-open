@@ -10,7 +10,7 @@ series: 2
 order: 4
 headshoturl: /images/simon.gif
 navurl: /images/navsimon.gif
-blurb: This filmmaker proved that you can work with the big networks and still share your work openly.
+blurb: This filmmaker proved the television industry can still change.
 twitterhandle: simonklose
 facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
 newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276
