@@ -22,17 +22,6 @@
 </head>
 <body>
 
-<div id="navbar">
-	{% for i in (1..numberofprofiles) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'profiles' and page.series == 2 and page.order == {{i}} %} 
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); "></div></a>
-			{% endif %}
-		{% endfor %}
-	{% endfor %}
-</div>
-<div style="clear: both; "></div>
-
 <div id="middle" style="background-color: #626C72; ">
 <div id="topspace"></div>
 <h1>Team Open</h1>

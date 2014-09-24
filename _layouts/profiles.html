@@ -2,6 +2,28 @@
 <head>
 <title>{{ page.title }} | Team Open</title>
 <meta charset="utf-8" />
+
+{% if page.series == 2 %}
+
+<!-- Facebook open graph metadata -->
+
+<meta property="og:title" content="{{ page.title }} | Team Open" />
+<meta property="og:url" content="http://teamopen.cc{{ page.permalink }}" />
+<meta property="og:image" content="http://teamopen.cc{{ page.fbog-image }}"/>
+<meta property="og:site_name" content="Team Open" />
+<meta property="og:description" content="{{ page.blurb }}" />
+
+<!-- Twitter card metadata -->
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@creativecommons">
+<meta name="twitter:title" content="{{ page.title }} | Team Open">
+<meta name="twitter:description" content="{{ page.blurb }}">
+<meta name="twitter:image:src" content="http://teamopen.cc{{ page.tc-image }}">
+<meta name="twitter:domain" content="teamopen.cc">
+
+{% endif %}
+
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
 
@@ -113,7 +135,7 @@
 
 </div>
 
-{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen{% endcapture %}
+{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb | url_escape }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen{% endcapture %}
 
 {% capture donate %}https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.source }}&utm_medium=web{% endcapture %}
 

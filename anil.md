@@ -10,10 +10,10 @@ series: 2
 order: 7
 headshoturl: /images/anil.gif
 navurl: /images/navanil.gif
+fbog-image: /images/fb-anil.png
+tc-image: /images/tc-anil.png
 blurb: Why the internet's first music magazine opened the door to sharing.
 twitterhandle: innerviews
-facebookshare: https://www.facebook.com/photo.php?fbid=10152019297872777
-newsletter: https://docs.google.com/forms/d/1-_Z8q6XdCyXWZU3k-ogoy7TrPxhSN7nYHPvjj0MwogA/viewform?entry.239708838=Team+Open+-+Thomas&entry.1860916380&entry.1017428125&entry.1257771276
 source: anil
 permalink: /anil/
 published: true
