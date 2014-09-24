@@ -43,10 +43,6 @@ Kellee has reached a level of success that many musicians hope to achieve, and i
 
 "CC is one of the many ways we did things differently. I highly recommend it. I was skeptical of it, and I totally see the value now. It's not for everyone, but it's also not like you're signing a record deal where your next three albums are owed to someone. And it doesn't prevent you from doing traditional things like putting your work on iTunes."
 
-By doing things differently and testing different strategies, Kellee has been able to bypass competition and create an avenue for herself. She's maintained her independent status and the power of creative control to write about what matters most to her.
-
-"I'm sharing issues I feel are important - things that I feel inspired by. I share a lot of theories and ideas that have helped me heal personally and believe strongly that you have to be the change you see in the world. Music has been therapy for me to change in many ways."
-
 In the same way music has shaped Kellee and helped her thrive in the face of challenging life experiences, she hopes freely sharing her music will help her fans feel less alone and transform the world into one that is socially and spiritually conscious. It's an ideal she also views at the heart of hip-hop as a powerful social and political agent of change.
 
 "Hip-hop is and was born out of a need for a voice and for sharing, both as a social advocacy tool, and it just lets you relax, have fun, and forget what we're facing everyday. Hip-hop was free in the beginning, and there are still free mixtapes every single day from the biggest artists in the world. It's part of the culture. It makes a lot of sense for hip-hop artists to look into CC&nbsp;--- it holds a foundational interest in sharing ideas, in music, and in power," says Kellee.
