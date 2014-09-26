@@ -12,7 +12,8 @@ headshoturl: /images/lisa.gif
 navurl: /images/navlisa.gif
 fbog-image: /images/fb-lisa.png
 tc-image: /images/tc-lisa.png
-blurb: She didn't fight filesharing of her novel&#59; she decriminalized it.
+blurb: |
+  She didn’t fight filesharing of her novel; she decriminalized it.
 twitterhandle: sl_huang
 source: lisa
 permalink: /lisa/
