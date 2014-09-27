@@ -25,7 +25,7 @@ In reality, [*TPB: AFK*](http://watch.tpbafk.tv/) was never destined for a tradi
 
 Simon released the film under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/3.0/), which allows others to redistribute and remix it for noncommercial purposes, so long as they release their versions under the same license. He also released raw footage, the film soundtrack, and even the custom font he used for the poster and titles, giving fans the ability to completely rebuild the film.
 
-That decision was the easy part. The hard part was convincing his major funders --- six of the largest television networks in Europe --- to go along with the plan.
+That decision was the easy part. The hard part was convincing his major funders&#160;--- six of the largest television networks in Europe&#160;--- to go along with the plan.
 
 "None of the six partners knew what CC was. We had to explain the concept to each of them." But once Simon made the case, the networks all understood. It was the first time so many major television networks agreed to release a major film under a Creative Commons license.
 
