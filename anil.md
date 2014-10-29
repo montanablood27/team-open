@@ -29,7 +29,7 @@ The BY-ND license allows for his work to be used freely by others, as long as th
 
 "Others have prescribed rules that they have to follow with the CC licenses, and it's great. I haven't seen any abuse of it whatsoever," says Anil.
 
-Within a few months of placing his interviews under CC, Anil has seen downloads multiply of the [eBook edition](http://www.innerviews.org/ebook/innerviews.pdf) of his #1 iTunes bestselling book, *Innerviews: Music Without Borders*. There's increased discovery of his website, increased website traffic and social media signups, and increased writing opportunities springing up. A myriad of websites have taken pieces of the interviews, translated his work, or used the interviews in its entirety with attribution&#160;--- freeing Anil of the burdensome back and forth of granting permission. Anil has also had the chance to collaborate with major record labels, including a project with the significant jazz avant-garde label Cuneiform Records, label liner notes for Blue Note Records, and a box set project for Atlantic Records.
+Within a few months of placing his interviews under CC, Anil has seen downloads multiply of the [eBook edition](http://www.innerviews.org/ebook/innerviews.pdf) of his #1 iTunes bestselling book, *Innerviews: Music Without Borders*. There's increased discovery of his website, increased website traffic and social media signups, and increased writing opportunities springing up. Myriad of websites have taken pieces of the interviews, translated his work, or used the interviews in its entirety with attribution&#160;--- freeing Anil of the burdensome back and forth of granting permission. Anil has also had the chance to collaborate with major record labels, including a project with the significant jazz avant-garde label Cuneiform Records, label liner notes for Blue Note Records, and a box set project for Atlantic Records.
 
 "Interesting big commercial enterprises are looking to CC for content," explains Anil. "There has been a general lift in awareness of *Innerviews* since the decision has been made. I'm busier than I've ever been."
 
@@ -39,13 +39,13 @@ In addition to Anil, the musicians featured on *Innerviews* have seen successes 
 
 Enabled by CC licenses, a greater number of people are reading Anil's pieces on more and more websites, with coverage in various countries in multiple forums, benefiting everyone. 
 
-"The musicians might not make the connection to CC, but they're happy they're out there as a result. The great thing about CC," continues Anil, "is that for some it's invisible, and readers are probably not paying a whole lot of attention to it, but they're benefiting because the content is propagating in a way that wasn't previously. There's a large free flow of information."
+"The musicians might not make the connection to CC, but they're happy they're out there as a result. The great thing about CC," continues Anil, "is that for some it's invisible, and readers are probably not paying a whole lot of attention to it, but they're benefiting because the content is propagating in a way that it wasn't previously. There's a large free flow of information."
 
 One year into using CC licenses, Anil views opening up his work as integral to *Innerviews* and the changing context in which people digest, share, and use online content.
 
 "I have no regrets about the decision. A lot of people -- like those from conventional music magazines -- paid attention when I adopted CC and raised their eyebrows. I got a lot of emails in capital letters and exclamation points, saying that I was forgoing future revenue opportunities, and that I was watering it down for the rest of them. I think it reflects a generational shift in the digital world."
 
-As the internet's first music magazine in 1994, Anil poised *Innerviews* as an enduring body of work. 20 years later, Anil has not only adapted to the evolving digital landscape, but embraced it. This outlook has paid dividends for *Innerviews*, securing his site as a classic fixture of music journalism.
+As the internet's first music magazine in 1994, *Innerviews* continues to endure as a major body of work. 20 years later, Anil has not only adapted to the evolving digital landscape, but embraced it. This outlook has paid dividends for *Innerviews*, securing his site as a classic fixture of music journalism.
 
 "I'm proud that I'm still able to do *Innerviews* on a non-commercial basis, have it last this long, and turn into a life's work. It started essentially when I was a kid - and now I'm in my mid 40s and still doing it. The opportunities have become pretty significant, and it's a very well known site at this point. The world comes to it instead of me going to the world, and the CC element comes into that," says Anil.
 
