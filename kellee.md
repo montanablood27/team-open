@@ -17,6 +17,7 @@ twitterhandle: KelleeMaize
 source: kellee
 permalink: /kellee/
 published: true
+category: music
 ---
 
 Listen to Kellee Maize's "[Google Female Rapper](https://www.youtube.com/watch?v=VhhdXG5UM2o)," and you hear her rap about transformation and community in such rapid precision that it takes you aback. And if you *literally* [Google "female rapper,"](https://www.google.com/search?q=female+rapper&rlz=1C5CHFA_enUS503US503&oq=female+rapper&aqs=chrome..69i57j0l5.15897j0j4&sourceid=chrome&es_sm=119&ie=UTF-8)  Kellee is first on the list.

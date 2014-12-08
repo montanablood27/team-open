@@ -17,6 +17,7 @@ twitterhandle: simonklose
 source: simon
 permalink: /simon/
 published: true
+category: music
 ---
 
 Simon Klose has spent his career making documentaries, and developed more than a little healthy cynicism about the business: "A lot of my colleagues are documentary filmmakers. Passionate and manic people who spend five years of their lives on this little story, they release the film, and nine people see it. It's really hard to penetrate through the noise." So when Simon embarked on his latest project in 2010, he decided that rather than let only nine people see the film, he'd give it away to everyone for free.

@@ -56,6 +56,12 @@
 		{% assign orderminusone = page.order|minus:1 %}
 	{% endif %}
 	
+	{% for category in site.data.tocategories %}
+		{% if page.category == category.anchor %}
+			{% assign catlong = category.category %}
+		{% endif %}
+	{% endfor %}
+
 </head>
 <body>
 <div id="navbar">
@@ -121,6 +127,7 @@
 <br style="clear: both; " />
 <div id="profile">
 {{content}}
+<p style="text-align: center; ">Read more Team Open stories:<br /><a href="/all/#{{ page.category }}">{{ catlong }}</a></p>
 </div>
 <a href="#"><div class="uparrow"></div></a>
 

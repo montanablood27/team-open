@@ -18,6 +18,7 @@ twitterhandle: MaxTemkin
 source: max
 permalink: /max/
 published: true
+category: business
 ---
 
 My friend Anne Marie once had her car broken into. She had a raft, expensive running shoes, gym equipment, and [Cards Against Humanity](http://cardsagainsthumanity.com/). The only item taken was Cards Against Humanity. 

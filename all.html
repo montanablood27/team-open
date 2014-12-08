@@ -10,72 +10,28 @@ permalink: /all/
 <div class="othercontent">
 <p>Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
 <p>Team Open is a project to collect and share stories of the power of Creative Commons licenses.</p>
-<p>
-ART
-<li>Khalid Albaih</li>
-<li>Miyoung Yi</li><br>
-
-BUSINESS
-<li>Mariana Fossatti</li>
-<li>Sofya Polyakov</li>
-<li>Max Temkin</li>
-<br>
-
-EDUCATION
-<li>Maria Droujkova</li>
-<li>Jon Festinger</li>
-<li>David Lippman</li>
-<li>Kasyoka Mutunga</li>
-<li>John Wetzel</li>
-<br>
-
-GOVERNMENT & POLICY
-<li>Abel Caine</li>
-<li>Carlos Rossel</li>
-<br>
-
-MUSIC & FILM
-<li>Thomas Bonte</li>
-<li>Simon Klose</li>
-<li>Kellee Maize</li>
-<li>Jonathan Mann</li>
-<li>Chris Zabriskie</li>
-<br>
-
-NON-PROFIT & ADVOCACY
-<li>Ramzi Jaber</li>
-<li>Piya Sorcar</li>
-<br>
-
-SCIENCE & DATA
-<li>Jack Anraka</li>
-<li>Sean Bonner</li>
-<li>Daniel Branan</li>
-<br>
-
-WRITING
-<li>SL "Lisa" Huang</li>
-<li>Anil Prasad</li>
 </div>
 
-	{% for j in (1..2) reversed %}
-		{% for i in (1..numberofprofiles) %}
-			{% for page in site.pages %}
-				{% if page.layout == 'profiles' and page.order == {{i}} and page.series == {{j}} %}
-					<a href="{{ page.permalink }}" style="text-decoration: none; ">
-					<div class="selector" style="background-color: {{page:bgcolorb}}; ">
-					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-					<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
-					<div class="bannerrightcontent">
-					<h2>{{ page.title }}</h2>
-					<h3>{{ page.blurb }}</h3> 
-					</div>
-					</div>
-					</div>
-					</a>
-					<div style="clear: both; "></div>
-			{% endif %}
-		{% endfor %}
+{% for category in site.data.tocategories %}
+	<a name="{{ category.anchor }}"><div style="height: 30px; "></div>
+	<div class="othercontent">
+	<h2>{{ category.category }}</h3></a>
+	</div>
+	{% for page in site.pages %}
+		{% if page.layout == 'profiles' and page.category == category.anchor %}
+			<a href="{{ page.permalink }}" style="text-decoration: none; ">
+			<div class="selector" style="background-color: {{page:bgcolorb}}; ">
+			<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+			<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
+			<div class="bannerrightcontent">
+			<h2>{{ page.title }}</h2>
+			<h3>{{ page.blurb }}</h3> 
+			</div>
+			</div>
+			</div>
+			</a>
+			<div style="clear: both; "></div>
+		{% endif %}
 	{% endfor %}
 {% endfor %}
 

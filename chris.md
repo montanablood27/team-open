@@ -17,6 +17,7 @@ twitterhandle: chriszabriskie
 source: chris
 permalink: /chris/
 published: true
+category: music
 ---
 
 Earlier this year when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."

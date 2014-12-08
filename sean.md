@@ -17,6 +17,7 @@ twitterhandle: seanbonner
 source: sean
 permalink: /sean/
 published: true
+category: science
 ---
 
 In March of 2011, an earthquake off the coast of Japan triggered a series of destructive forces, crippling the Fukushima Daiichi nuclear power plant and surrounding communities. Shortly after the resulting tsunami made landfall, radioactive water from the damaged facility began to leak, creating unsafe conditions for hundreds of thousands of Japanese citizens.

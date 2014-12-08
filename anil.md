@@ -17,6 +17,7 @@ twitterhandle: innerviews
 source: anil
 permalink: /anil/
 published: true
+category: writing
 ---
 
 Few people can take a project and sustain it 20 years later. Even fewer can do it while maintaining the project's original intent and successfully adapting to the changing times. Anil Prasad, creator of [*Innerviews*](http://www.innerviews.org/)&#160;--- the first and longest-running online music magazine&#160;--- is one of those people.  He began *Innerviews* in 1994, and since then, the site has stayed devoted to in-depth interviews of musicians, including artists like [Kronos Quartet](http://innerviews.org/inner/kronos.html), [Talking Heads](http://innerviews.org/inner/heads.html), [Björk](http://innerviews.org/inner/bjork.html), and [William Shatner](http://innerviews.org/inner/shatner.html), among numerous others. The site has seen great success over the years, spreading around the world in different media, including as part of the UCLA School of Music's curriculum. 

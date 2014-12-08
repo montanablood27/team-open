@@ -17,6 +17,7 @@ twitterhandle: drlippman
 source: david
 permalink: /david/
 published: true
+category: education
 ---
 
 One day last year, David Lippman got an interesting Google Alert. 1,300 miles away, [fellow math professor James Sousa had created free video tutorials](http://creativecommons.org/weblog/entry/37647) for almost every example question in David's basic math textbook. James did all of that without asking for David's permission: *David had already given permission* by licensing his work under a Creative Commons license.

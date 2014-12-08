@@ -18,6 +18,7 @@ twitterhandle: sl_huang
 source: lisa
 permalink: /lisa/
 published: true
+category: writing
 ---
 
 Standing together on the Great Wall of China in 2006, MIT Professor [Hal Abelson](http://creativecommons.org/board#halabelson) said to author [SL "Lisa" Huang](http://www.slhuang.com/), "Well, there’s this thing some of us have started. It's called Creative Commons."

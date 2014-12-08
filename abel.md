@@ -17,6 +17,7 @@ twitterhandle: abelcaine
 source: abel
 permalink: /abel/
 published: true
+category: government
 ---
 
 In the parable of the tortoise and the hare, Abel Caine is the tortoise. Since 2009, Caine has been a Program Specialist on [Open Educational Resources](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/) at the United Nations Educational, Scientific and Cultural Organization, or UNESCO. While UNESCO has been interested in open education since 2002 (and coined the phrase "[open educational resources](http://en.wikipedia.org/wiki/Open_educational_resources)"), Caine's been a key driver behind UNESCO's re-emergence as a key strategic proponent for the development and use of OERs across UNESCO member nations (all 193 of them). He's worked tirelessly to promote information sharing and OER-friendly policy adoption around the world. 

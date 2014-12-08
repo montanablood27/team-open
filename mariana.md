@@ -17,6 +17,7 @@ twitterhandle: marfossatti
 source: mariana
 permalink: /mariana/
 published: true
+category: business
 ---
 
 A year ago when [Ártica](http://articaonline.com) director Mariana Fossatti wanted to publish a book, Ártica had no budget to make a print version -- so they published it digitally at no cost. They published the book under a [Creative Commons Attribution-ShareAlike (BY-SA) license](http://creativecommons.org/licenses/by-sa/4.0/), which allows anyone to republish or modify it so long as they publish their modified versions under the same license. 

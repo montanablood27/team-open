@@ -17,6 +17,7 @@ twitterhandle: MariaDroujkova
 source: maria
 permalink: /maria/
 published: true
+category: education
 ---
 
 According to Dr. Maria Droujkova, anyone can learn calculus, even five-year-old children. How do people respond when she tells them that? She laughs at the question: "How do you *think* people respond?"

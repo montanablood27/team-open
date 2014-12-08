@@ -17,6 +17,7 @@ twitterhandle: jonfestinger
 source: jon
 permalink: /jon/
 published: true
+category: education
 ---
 
 Jon Festinger is at root a freedom of expression lawyer. He spent years at the beginning of his career as a newsroom lawyer fighting for access to court documents and lobbying for cameras in court.
