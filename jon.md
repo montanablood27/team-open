@@ -19,9 +19,9 @@ permalink: /jon/
 published: true
 category: education
 shortprofile: |
-  Jon Festinger spent his early career as a newsroom lawyer, fighting for access to court documents. Today, he’s a video game law professor, upholding those ideals by making his course content publicly available online under a Creative Commons license. With a system of public and peer review, Jon generates essential feedback that improves the course. 
+  Jon Festinger spent his early career as a newsroom lawyer, fighting for access to court documents. Today, he's a video game law professor, upholding those ideals by making his course content publicly available online under a Creative Commons license. With a system of public and peer review, Jon generates essential feedback that improves the course. 
 
-  When he began Video Game Law, Jon couldn’t share the course’s case materials beyond registered students because they weren’t openly licensed. A year later, Jon was able to use all openly licensed case materials, without having to change his syllabus. “Both law and education are remix cultures,” states Jon. By drawing on precedent, each field innovates and builds upon past knowledge. 
+  When he began Video Game Law, Jon couldn't share the course's case materials beyond registered students because they weren't openly licensed. A year later, Jon was able to use all openly licensed case materials, without having to change his syllabus. "Both law and education are remix cultures," states Jon. By drawing on precedent, each field innovates and builds upon past knowledge. 
 ---
 
 Jon Festinger is at root a freedom of expression lawyer. He spent years at the beginning of his career as a newsroom lawyer fighting for access to court documents and lobbying for cameras in court.

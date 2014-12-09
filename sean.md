@@ -19,9 +19,9 @@ permalink: /sean/
 published: true
 category: science
 shortprofile: |
-  When an earthquake struck Japan in 2011, avoiding hazardous areas was paramount. Within hours, Sean Bonner, Director/Co-founder of Safecast, gathered crowdsourced open sensor data with a team of technologists, creating a system of up-to-date information on radiation zones in Japan. Using Creative Commons’ public domain declaration (CC0), they then ensured “absolutely no hindrance to using the data.” 
+  When an earthquake struck Japan in 2011, avoiding hazardous areas was paramount. Within hours, Sean Bonner and his team at Safecast gathered crowdsourced open sensor data, creating a system of up-to-date information on radiation zones in Japan. Using Creative Commons' public domain declaration (CC0), they then ensured "Absolutely no hindrance to using the data."
 
-  Safecast created an open-source Geiger counter prototype one month later, releasing full details of the software, hardware, and data collection to the public. By alleviating concerns about inaccurate or incomplete information, Safecast has grown in data contributors and users, all whom have free and unfettered access to 20 million data points on the 2011 disaster through CC0. 
+  Safecast created an open-source Geiger counter prototype one month later, releasing full details of the software, hardware, and data collection to the public. By alleviating concerns about inaccurate or incomplete information, Safecast has grown in data contributors and users, all whom have free and unfettered access to 20 million data points through CC0. 
 ---
 
 In March of 2011, an earthquake off the coast of Japan triggered a series of destructive forces, crippling the Fukushima Daiichi nuclear power plant and surrounding communities. Shortly after the resulting tsunami made landfall, radioactive water from the damaged facility began to leak, creating unsafe conditions for hundreds of thousands of Japanese citizens.

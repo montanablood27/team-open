@@ -19,9 +19,9 @@ permalink: /simon/
 published: true
 category: music
 shortprofile: |
-  Simon Klose’s film TPB: AFK is not like other documentaries. It follows the founders of the filesharing service The Pirate Bay through a copyright infringement lawsuit that landed them in prison, and counts six of Europe’s largest television networks as its major funders. “This is the first documentary to ever be released under a Creative Commons license with the support of all the major networks.” 
+  Simon Klose's film *TPB: AFK* is not like other documentaries. It follows the founders of the filesharing service The Pirate Bay through a copyright infringement lawsuit that landed them in prison, and counts six of Europe's largest television networks as its major funders. "This is the first documentary to ever be released under a Creative Commons license with the support of all the major networks."
 
-  Simon released the film on The Pirate Bay before it aired on television, so when TPB: AFK premiered on TV, it opened with massive viewership. Giving away the film under a CC license grew the audience, not cannibalized it. “I’m not saying that we changed the industry. But we did prove that the industry can still change.”
+  Simon released the film on The Pirate Bay before it aired on television, so when *TPB: AFK* premiered on TV, it opened with massive viewership. Giving away the film under a CC license grew the audience, not cannibalized it. "I'm not saying that we changed the industry. But we did prove that the industry *can* still change."
 ---
 
 Simon Klose has spent his career making documentaries, and developed more than a little healthy cynicism about the business: "A lot of my colleagues are documentary filmmakers. Passionate and manic people who spend five years of their lives on this little story, they release the film, and nine people see it. It's really hard to penetrate through the noise." So when Simon embarked on his latest project in 2010, he decided that rather than let only nine people see the film, he'd give it away to everyone for free.

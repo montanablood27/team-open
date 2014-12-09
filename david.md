@@ -21,7 +21,7 @@ category: education
 shortprofile: |
   Professor David Lippman has saved students a million dollars. David co-wrote two math textbooks and built iMathAS, a free, open-source math assessment and course platform. Nearly all of his work is licensed under a Creative Commons BY-SA license, allowing others to access, reuse, and edit his work for free. 
 
-  Unlike traditional publishers that won’t publish known textbook errors out of fear of compromising their business, David wants edits. “Whatever I create’s not going to be perfect. So I want to make sure that people have the ability to make changes and improvements, and hopefully contribute back.” One volunteer once contributed a thousand copy edits -- for free. “He wouldn’t have done that for a traditional textbook,” says David.
+  Unlike traditional publishers that won't publish known textbook errors out of fear of compromising their business, David wants edits. "Whatever I create's not going to be perfect. So I want to make sure that people have the ability to make changes and improvements, and hopefully contribute back." One volunteer once contributed a thousand copy edits --- for free. "He wouldn't have done that for a traditional textbook."
 ---
 
 One day last year, David Lippman got an interesting Google Alert. 1,300 miles away, [fellow math professor James Sousa had created free video tutorials](http://creativecommons.org/weblog/entry/37647) for almost every example question in David's basic math textbook. James did all of that without asking for David's permission: *David had already given permission* by licensing his work under a Creative Commons license.
