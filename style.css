@@ -70,6 +70,15 @@ body a {
 	width: 100%;
 	}
 
+#shortprofile {
+	padding-left: 50px;
+	padding-right: 50px;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	font-size: large;
+	text-align: justify;
+	}
+
 #profile {
 	padding-top: 25px;
 	padding-left: 50px;

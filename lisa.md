@@ -19,6 +19,10 @@ source: lisa
 permalink: /lisa/
 published: true
 category: writing
+shortprofile: |
+  SL “Lisa” Huang, the self-published author of Zero Sum Game, loves fandom. But without legal protection for her fans, she can’t champion it like she wants to. By releasing her novel under a Creative Commons license, Lisa removed any element of criminality from her readers who love her books enough to share them.  
+
+  As an author, Lisa sees more risk in not making her work freely available under CC: “It’s easy to get caught up in the fear that allowing sharing will mean no one will ever pay for your work… but what about the fear that your work will stay mired in revenue-less obscurity because not enough people will pay for it sight-unseen?”
 ---
 
 Standing together on the Great Wall of China in 2006, MIT Professor [Hal Abelson](http://creativecommons.org/board#halabelson) said to author [SL "Lisa" Huang](http://www.slhuang.com/), "Well, there’s this thing some of us have started. It's called Creative Commons."

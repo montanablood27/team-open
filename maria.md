@@ -18,6 +18,10 @@ source: maria
 permalink: /maria/
 published: true
 category: education
+shortprofile: |
+  At Natural Math, Maria Droujkova facilitates online math courses on a pay-what-you-can model. All Natural Math’s materials are published under a Creative Commons license, and its success relies on the ability to freely access, test, and edit the content. “Every parent needs to tweak it; every teacher needs to tweak it. How do you tweak it if it’s prohibited?” asks Maria. 
+
+  For Maria, free access goes hand-in-hand with running a sustainable company. In one course, half of the participants joined for free, and the course’s revenue was still comparable to a traditional university course. “CC licenses are central to every part of our process: for content development, for quality assurance, for translations, for publishing new books, and for crowdfunding.” 
 ---
 
 According to Dr. Maria Droujkova, anyone can learn calculus, even five-year-old children. How do people respond when she tells them that? She laughs at the question: "How do you *think* people respond?"

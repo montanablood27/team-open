@@ -18,6 +18,10 @@ source: kellee
 permalink: /kellee/
 published: true
 category: music
+shortprofile: |
+  As an independent rapper, Kellee Maize was skeptical about giving her music away for free. Today, under a Creative Commons BY license, she has millions of downloads of her five albums, a Toyota Hybrid sponsorship deal, press coverage in the likes of XXL Magazine, and a Bonnaroo Music Festival performance under her belt. 
+
+  The CC license indicates that Kellee wants others to use and remix her music, without having to ask her for permission. As a result, she gains new fans who use and buy her songs and attend her shows. "I don't trust the music industry in general. I don't think it values music or the artist. CC is one of the many ways we did things differently. I highly recommend it."
 ---
 
 Listen to Kellee Maize's "[Google Female Rapper](https://www.youtube.com/watch?v=VhhdXG5UM2o)," and you hear her rap about transformation and community in such rapid precision that it takes you aback. And if you *literally* [Google "female rapper,"](https://www.google.com/search?q=female+rapper&rlz=1C5CHFA_enUS503US503&oq=female+rapper&aqs=chrome..69i57j0l5.15897j0j4&sourceid=chrome&es_sm=119&ie=UTF-8)  Kellee is first on the list.

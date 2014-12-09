@@ -18,6 +18,10 @@ source: chris
 permalink: /chris/
 published: true
 category: music
+shortprofile: |
+  In Chris Zabriskie’s words, he owes Creative Commons his entire career. Chris is a composer with nine albums available under a CC license. With the attribution requirement on the license, Chris gets credited in numerous videos and songs, increasing his visibility.
+
+  This year, a film Chris worked on was nominated for an Academy Award, and he counts companies like adidas, Cartoon Network, and The Wall Street Journal among his long list of clients. “Literally every job I’ve taken, music I’ve licensed or scored, is because people were searching for CC. My career is 100% due to CC. I can’t imagine CC not working for everyone. I recommend it to everybody.”
 ---
 
 Earlier this year when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."

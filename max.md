@@ -2,6 +2,7 @@
 layout: profiles
 bgcolora: "#626C72"
 bgcolorb: "#1191ac"
+bgcolorc: "black"
 title: Max Temkin
 writer: Meryl Mohan
 drawingby: Luke Surl
@@ -13,12 +14,16 @@ navurl: /images/navmax.gif
 fbog-image: /images/fb-max.png
 tc-image: /images/tc-max.png
 blurb: |
-  The #1 comedy game proved that fans will pay, even when they don't have to.
+  The #1 comedy game proved that fans will pay, even when they don&#8217;t have to.
 twitterhandle: MaxTemkin
 source: max
 permalink: /max/
 published: true
 category: business
+shortprofile: |
+  As a founder of Cards Against Humanity, Max Temkin spends time delighting his fans, not suing them. The creators selected a Creative Commons license instead of All Rights Reserved copyright, choosing to focus their energy where it matters most for their business --- writing jokes.
+
+  Under CC, the creators allow people to share their game without fear of retribution. As a result, Cards Against Humanity has become the #1 best-selling game on Amazon, with its free online version downloaded several millions of times. "Creative Commons is integral to our business model, because it helped make it spread."
 ---
 
 My friend Anne Marie once had her car broken into. She had a raft, expensive running shoes, gym equipment, and [Cards Against Humanity](http://cardsagainsthumanity.com/). The only item taken was Cards Against Humanity. 

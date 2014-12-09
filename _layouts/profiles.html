@@ -99,7 +99,6 @@
 </div>
 <div style="clear: both;" />
 
-
 {% include newslettersignup.html context="teamopen" %}
 
   {% for page in site.pages %}
@@ -125,6 +124,11 @@
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
 </a>
 <br style="clear: both; " />
+	{% if page.shortprofile %}
+		<div id="shortprofile" style="background-color: {{ page.bgcolorb }}; ">
+			{{ page.shortprofile | markdownify }}
+		</div>
+	{% endif %}
 <div id="profile">
 {{content}}
 <p style="text-align: center; ">Read more Team Open stories:<br /><a href="/all/#{{ page.category }}">{{ catlong }}</a></p>

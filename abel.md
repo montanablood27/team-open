@@ -18,6 +18,10 @@ source: abel
 permalink: /abel/
 published: true
 category: government
+shortprofile: |
+  Abel Caine --- is -- dedicated to the development and use of Open Educational Resources (OERs) across all 193 member nations of United Nations Educational, Scientific and Cultural Organization (UNESCO). For the first time in 2012, the Paris OER Declaration outlined principles and recommendations for member states to adopt and support open education. In 2013, UNESCO also adopted a policy requiring Creative Commons licensing on its publications, and launched a repository that has 450+ publications.
+
+  Through CC licensing, permission is also granted in advance to anyone who wishes to translate UNESCO’s resources, removing burdensome manual processes. “We’re hoping for a Wikipedia-like effect, as there will be a community of translators who will be allowed to work on the document together.”
 ---
 
 In the parable of the tortoise and the hare, Abel Caine is the tortoise. Since 2009, Caine has been a Program Specialist on [Open Educational Resources](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/) at the United Nations Educational, Scientific and Cultural Organization, or UNESCO. While UNESCO has been interested in open education since 2002 (and coined the phrase "[open educational resources](http://en.wikipedia.org/wiki/Open_educational_resources)"), Caine's been a key driver behind UNESCO's re-emergence as a key strategic proponent for the development and use of OERs across UNESCO member nations (all 193 of them). He's worked tirelessly to promote information sharing and OER-friendly policy adoption around the world. 
