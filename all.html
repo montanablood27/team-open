@@ -10,6 +10,10 @@ permalink: /all/
 <div class="othercontent">
 <p>Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
 <p>Team Open is a project to collect and share stories of the power of Creative Commons licenses.</p>
+
+<p style="text-align: center; font-size: large; ">
+{% for category in site.data.tocategories %}<a href="#{{ category.anchor }}">{{ category.category }}</a><br />{% endfor %}
+</p>
 </div>
 
 {% for category in site.data.tocategories %}
