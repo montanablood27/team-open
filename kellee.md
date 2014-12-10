@@ -19,7 +19,7 @@ permalink: /kellee/
 published: true
 category: music
 shortprofile: |
-  As an independent rapper, Kellee Maize was skeptical about giving her music away for free. Today, under a Creative Commons BY license, she has millions of downloads of her five albums, a Toyota Hybrid sponsorship deal, press coverage in the likes of *XXL Magazine*, and a Bonnaroo Music Festival performance under her belt. 
+  As an independent rapper, Kellee Maize was skeptical about giving her music away for free. Now, under a Creative Commons BY license, she has millions of downloads of her five albums, a Toyota Hybrid sponsorship deal, press coverage in the likes of *XXL Magazine*, and a Bonnaroo Music Festival performance under her belt. 
 
   The CC license indicates that Kellee wants others to use and remix her music, without having to ask her for permission. As a result, she gains new fans who use and buy her songs and attend her shows. "I don't trust the music industry in general. I don't think it values music or the artist. CC is one of the many ways we did things differently. I highly recommend it."
 ---
