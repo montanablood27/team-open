@@ -56,4 +56,4 @@ Whereas major labels may not be keen to sign artists with Kelle's style of consc
 
 "Mainstream music is not conscious content. So we're sharing how we're doing it so other conscious artists, hopefully other women, can learn about it and we can pass along the torch to next generation of conscious art. In hip-hop women are pitted against each other. It's not about collaboration or unity, and those things are important for music to grow."
 
-"Opening up to these ideas will be challenging," continued Kellee, "but when we look at fields that are built on sharing like science, things advance, and technology advances, because sharing advances.”
+"Opening up to these ideas will be challenging," continues Kellee, "but when we look at fields that are built on sharing like science, things advance, and technology advances, because sharing advances.”
