@@ -26,7 +26,7 @@ shortprofile: |
 
 Earlier this year when I spoke with Chris Zabriskie, he told me: "I'm thinking about getting the Creative Commons attribution logo tattooed on my wrist. Literally. I'm not kidding."
 
-He wasn't. In July of this year, [he did it](https://www.flickr.com/photos/chriszabriskie/14951359402/).
+He wasn't. In July of 2014, [he did it](https://www.flickr.com/photos/chriszabriskie/14951359402/).
 
 In [Chris Zabriskie's](http://chriszabriskie.com/) words, he owes Creative Commons his entire career. Chris is a composer with nine albums available for free download through Creative Commons and for purchase at digital retailers. He composes original scores and songs for advertisements, games, companies, and films around the world. This past year, one of the films he worked on was [nominated for an Academy Award](http://www.facingfearmovie.com/), and in a [long list of clients](http://chriszabriskie.com/clients/), Chris has contributed to the music needs of companies including adidas, Cartoon Network, and *The Wall Street Journal*.
 

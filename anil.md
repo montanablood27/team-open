@@ -54,7 +54,7 @@ As the internet's first music magazine in 1994, *Innerviews* continues to endure
 
 "I'm proud that I'm still able to do *Innerviews* on a non-commercial basis, have it last this long, and turn into a life's work. It started essentially when I was a kid - and now I'm in my mid 40s and still doing it. The opportunities have become pretty significant, and it's a very well known site at this point. The world comes to it instead of me going to the world, and the CC element comes into that," says Anil.
 
-For *Innerviews*' 20th anniversary this year, Anil underwent a major website redesign that radically revisioned the site. The design is"future-proof," seamlessly adapting to mobile and tablet formats so everyone can have the same experience, no matter how small their screen is. CC is integrated into every element.
+For *Innerviews*' 20th anniversary in 2014, Anil underwent a major website redesign that radically revisioned the site. The design is"future-proof," seamlessly adapting to mobile and tablet formats so everyone can have the same experience, no matter how small their screen is. CC is integrated into every element.
 
 "For the 20th anniversary, it's a statement that the site belongs to everyone else as much as it does to me. That's the biggest accomplishment with *Innerviews*. It's more than a website. It's a community of people, and CC feeds into all of that. If CC isn't about community, then what is it about? It's the ultimate manifestation of it." 
 
