@@ -14,7 +14,7 @@ navurl: /images/navmax.gif
 fbog-image: /images/fb-max.png
 tc-image: /images/tc-max.png
 blurb: |
-  The #1 comedy game proved that fans will pay, even when they don&#8217;t have to.
+  The #1 comedy game proved that fans will pay, even when they don't have to.
 twitterhandle: MaxTemkin
 source: max
 permalink: /max/

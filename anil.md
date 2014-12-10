@@ -12,7 +12,8 @@ headshoturl: /images/anil.gif
 navurl: /images/navanil.gif
 fbog-image: /images/fb-anil.png
 tc-image: /images/tc-anil.png
-blurb: Why the internet’s first music magazine opened the door to sharing.
+blurb: |
+  Why the internet's first music magazine opened the door to sharing.
 twitterhandle: innerviews
 source: anil
 permalink: /anil/

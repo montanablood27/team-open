@@ -14,7 +14,6 @@ fbog-image: /images/fb-abel.png
 tc-image: /images/tc-abel.png
 blurb: How UNESCO is working to make free education the rule, not the exception.
 twitterhandle: abelcaine
-source: abel
 permalink: /abel/
 published: true
 category: government
