@@ -20,7 +20,7 @@ permalink: /anil/
 published: true
 category: writing
 shortprofile: |
-  Anil Prasad is creator of *Innerviews*, the first and longest-running online music magazine. In 2013, Anil placed 20 years of in-depth musician interviews under a Creative Commons license. One year later, he has seen downloads multiply of his eBook, increased discovery of his website, and collaborations with major labels like Blue Note and Atlantic Records. "Interesting big commercial enterprises are looking to CC for content. I'm busier than I’ve ever been."
+  Anil Prasad is the creator of *Innerviews*, the first and longest-running online music magazine. In 2013, Anil placed 20 years of in-depth musician interviews under a Creative Commons license. One year later, he has seen downloads multiply of his eBook, increased discovery of his website, and collaborations with major labels like Blue Note and Atlantic Records. "Interesting big commercial enterprises are looking to CC for content. I'm busier than I’ve ever been."
 
   Enabled by CC licenses, more people are reading Anil's work around the world in different media. Readers are "...Benefiting because the content is propagating in a way that it wasn't previously. There's a large free flow of information."
 ---

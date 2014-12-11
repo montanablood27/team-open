@@ -21,7 +21,7 @@ category: business
 shortprofile: |
   A year ago, Ártica director Mariana Fossatti wanted to publish a book. Ártica, an online cultural center in Latin America, had no budget to print the book&#160;--- so it published it online under a Creative Commons license&#160;--- at zero cost. 
 
-  Today, the eBook has over 4,000 downloads. Two months after publication, an Argentinian publisher also decided to publish the book in print, a format which Ártica did not have the knowledge, time, nor the technical and economic means to produce. "A free license allows our texts, videos, and other materials to be republished in other spaces. That has increased our visibility and allows us to connect with a wider community."
+  Today, the eBook has over 4,000 downloads. Two months after publication, an Argentinian publisher also decided to publish the book in print, a format for which Ártica did not have the knowledge, time, nor the technical and economic means to produce. "A free license allows our texts, videos, and other materials to be republished in other spaces. That has increased our visibility and allows us to connect with a wider community."
 ---
 
 A year ago, when [Ártica](http://articaonline.com) director Mariana Fossatti wanted to publish a book, Ártica had no budget to make a print version -- so it published it digitally at no cost. They published the book under a [Creative Commons Attribution-ShareAlike (BY-SA) license](http://creativecommons.org/licenses/by-sa/4.0/), which allows anyone to republish or modify it so long as they publish their modified versions under the same license. 
