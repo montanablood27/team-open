@@ -19,7 +19,7 @@ permalink: /sean/
 published: true
 category: science
 shortprofile: |
-  When an earthquake struck Japan in 2011, avoiding hazardous areas was paramount. Within just a month, Sean Bonner and Joi Ito formed the group Safecast to gather crowdsourced open sensor data, creating a system of up-to-date information on radiation zones in Japan. Using Creative Commons' public domain declaration (CC0), they then ensured "Absolutely no hindrance to using the data."
+  When an earthquake struck Japan in 2011, avoiding hazardous areas was paramount. Just one month later, Sean Bonner and Joi Ito formed the group Safecast to gather crowdsourced open sensor data, creating a system of up-to-date information on radiation zones in Japan. Using Creative Commons' public domain declaration (CC0), they then ensured "Absolutely no hindrance to using the data."
   
   Safecast also created an open-source Geiger counter prototype, releasing full details of the software, hardware, and data collection to the public. By alleviating concerns about inaccurate or incomplete information, Safecast has grown in data contributors and users, all whom have free and unfettered access to 20 million data points through CC0. 
 ---
