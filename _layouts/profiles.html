@@ -2,6 +2,25 @@
 <html>
 <head>
 <title>{{ page.title }} | Team Open</title>
+<meta charset="utf-8" />
+
+<!-- Facebook open graph metadata -->
+
+<meta property="og:title" content="{{ page.title }} | Team Open" />
+<meta property="og:url" content="http://teamopen.cc{{ page.permalink }}" />
+<meta property="og:image" content="http://teamopen.cc{{ page.fbog-image }}"/>
+<meta property="og:site_name" content="Team Open" />
+<meta property="og:description" content="{{ page.blurb }}" />
+
+<!-- Twitter card metadata -->
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@creativecommons">
+<meta name="twitter:title" content="{{ page.title }} | Team Open">
+<meta name="twitter:description" content="{{ page.blurb }}">
+<meta name="twitter:image:src" content="http://teamopen.cc{{ page.tc-image }}">
+<meta name="twitter:domain" content="teamopen.cc">
+
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
 
@@ -14,12 +33,12 @@
 
   ga('create', 'UA-2010376-27', 'teamopen.cc');
   ga('send', 'pageview');
-
-</script>
+	</script>
 
 <!-- This code is what makes the "next" and "previous" buttons work, as well as the faces in the navbar. When adding new profiles, adjust the page.order variable for all profiles accordingly, and change the numberofprofiles variable below to the total number of profiles. -->
 
 	{% assign currentpage = page.title %}
+	{% assign series = page.series %}
 	{% assign numberofprofiles = 12 %}
 
 	{% if page.order == {numberofprofiles} %}
@@ -34,35 +53,54 @@
 		{% assign orderminusone = page.order|minus:1 %}
 	{% endif %}
 	
+	{% for category in site.data.tocategories %}
+		{% if page.category == category.anchor %}
+			{% assign catlong = category.category %}
+		{% endif %}
+	{% endfor %}
+
 </head>
 <body>
 <div id="navbar">
 
-<!-- When we create a second series of cards, we'll need to add another command to the logic below, to include only profiles in the same series. -->
-
-	{% for i in (1..numberofprofiles) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'profiles' %} 
-				{% if page.order == {{i}} %}
+		{% for i in (1..numberofprofiles) %}
+			{% for page in site.pages %}
+				{% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{i}} %}
 					{% if page.title == {{currentpage}} %}
-						<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
+					<div class="navface" style="background-image: url({{page.navurl}}); 	background-position: -75px 0px; ">{{ page.title }}</div>
 					{% else %}
-						<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
+					<a href="{{ page.permalink }}"><div class="navface" style="background-image: url({{page.navurl}}); ">{{ page.title }}</div></a>
 					{% endif %}
 				{% endif %}
-			{% endif %}
+			{% endfor %}
 		{% endfor %}
-	{% endfor %}
 </div>
 <div style="clear: both; "></div>
 <div id="middle" style="background-color: {{page:bgcolora}}; ">
 <div id="topspace"></div>
 <a href="/all/"><h1>Team Open</h1></a>
+
+<div id="seriesbox-holder">
+	{% if page.series == 1 %}
+		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series one</p>
+	{% else %}
+		<a href="/piya/"><p class="seriesbox">series one</p></a>
+	{% endif %}
+
+	{% if page.series == 2 %}
+		<p class="seriesbox" style="background-color: {{page.bgcolorb}}; ">series two</p>
+	{% else %}
+		<a href="/max/"><p class="seriesbox">series two</p></a>
+	{% endif %}
+<a href="/all/"><p class="seriesbox">all</p></a>
+</div>
+<div style="clear: both;" />
+
+{% include newslettersignup.html context="teamopen" %}
+
   {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderminusone}} %}
+    {% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{orderminusone}} %}
     		<a href="{{page.permalink}}">
-    	{% endif %}
     {% endif %}
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/leftarrow.png'); " ></div></a>
@@ -71,22 +109,26 @@
 <div class="bannerright" style="background-color: {{page:bgcolorb}}; background-image: url('/images/bannerright.png'); ">
 <div class="bannerrightcontent">
 <h2>{{ page.title }} </h2>
-<h3>{{ page.blurb }}</h3> 
+<h3>{{ page.blurb | markdownify }}</h3> 
 </div>
 </div>
 </a>
   {% for page in site.pages %}
-    {% if page.layout == 'profiles' %}  
-    	{% if page.order == {{orderplusone}} %}
+    {% if page.layout == 'profiles' and page.series == {{series}} and page.order == {{orderplusone}} %}
     		<a href="{{page.permalink}}">
-    	{% endif %}
     {% endif %}
   {% endfor %}
 <div class="arrow" style="background-color: {{page:bgcolorb}}; background-image: url('/images/rightarrow.png'); " ></div></a>
 </a>
 <br style="clear: both; " />
+	{% if page.shortprofile %}
+		<div id="shortprofile" style="background-color: {{ page.bgcolorb }}; ">
+			{{ page.shortprofile | markdownify }}
+		</div>
+	{% endif %}
 <div id="profile">
 {{content}}
+<p style="text-align: center; ">Read more Team Open stories:<br /><a href="/all/#{{ page.category }}">{{ catlong }}</a></p>
 </div>
 <a href="#"><div class="uparrow"></div></a>
 
@@ -101,11 +143,13 @@
 
 </div>
 
-{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb }}+teamopen.cc{{ page.url }}+%40{{ page.twitterhandle }}+%23teamopen{% endcapture %}
+{% capture tweet %}http://twitter.com/intent/tweet?source=webclient&text={{ page.blurb | cgi_escape | remove: "%0A" }}+teamopen.cc{{ page.permalink }}+%40{{ page.twitterhandle }}+%23teamopen{% endcapture %}
 
-{% capture donate %}https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.source }}&utm_medium=web{% endcapture %}
+{% capture facebook %}https://www.facebook.com/sharer/sharer.php?u=http://teamopen.cc{{ page.permalink }}{% endcapture %}
 
-{% include footer.html position="fixed" bgcolora=page.bgcolora tweet=tweet facebook=page.facebookshare donate=donate %}
+{% capture donate %}https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source={{ page.permalink | remove: "/" }}&utm_medium=web{% endcapture %}
+
+{% include footer.html position="fixed" bgcolora=page.bgcolora tweet=tweet facebook=facebook donate=donate %}
 
 </div>
 </body>

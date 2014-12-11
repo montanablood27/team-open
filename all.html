@@ -10,29 +10,36 @@ permalink: /all/
 <div class="othercontent">
 <p>Creative Commons is a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.</p>
 <p>Team Open is a project to collect and share stories of the power of Creative Commons licenses.</p>
-<p>If you <a href="https://donate.creativecommons.org/?utm_campaign=teamopen&utm_source=teamopen&utm_medium=web">donate $25 (US) or more to Creative Commons</a>, we&#8217;ll send you a complete set of Team Open trading cards.</p>
+
+<a name="toc"><p style="text-align: center; font-size: large; ">
+{% for category in site.data.tocategories %}<a href="#{{ category.anchor }}">{{ category.category }}</a><br />{% endfor %}
+</p></a>
 </div>
 
-	{% for i in (1..numberofprofiles) %}
-		{% for page in site.pages %}
-			{% if page.layout == 'profiles' %} 
-				{% if page.order == {{i}} %}
-					<a href="{{ page.permalink }}" style="text-decoration: none; ">
-					<div class="selector" style="background-color: {{page:bgcolorb}}; ">
-					<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
-					<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
-					<div class="bannerrightcontent">
-					<h2>{{ page.title }}</h2>
-					<h3>{{ page.blurb }}</h3> 
-					</div>
-					</div>
-					</div>
-					</a>
-					<div style="clear: both; "></div>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+{% for category in site.data.tocategories %}
+	<a name="{{ category.anchor }}"><div style="height: 30px; "></div>
+	<div class="othercontent">
+	<h2>{{ category.category }}</h3></a>
+	</div>
+	{% for page in site.pages %}
+		{% if page.layout == 'profiles' and page.category == category.anchor %}
+			<a href="{{ page.permalink }}" style="text-decoration: none; ">
+			<div class="selector" style="background-color: {{page:bgcolorb}}; ">
+			<div class="bannerleft" style="background: url({{page.headshoturl}}) no-repeat 0 0; " /></div>
+			<div class="bannerleft" style="background: {{page:bgcolorb}}; ">
+			<div class="bannerrightcontent">
+			<h2>{{ page.title }}</h2>
+			<h3>{{ page.blurb }}</h3> 
+			</div>
+			</div>
+			</div>
+			</a>
+			<div style="clear: both; "></div>
+		{% endif %}
 	{% endfor %}
+	<div class="othercontent"><p><a href="#toc">back to top</a></p></div>
+{% endfor %}
+
 <div style="height: 50px; clear: both; "></div>
 
 <div class="licensebox">
