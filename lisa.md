@@ -27,7 +27,7 @@ shortprofile: |
 
 Standing together on the Great Wall of China in 2006, MIT Professor [Hal Abelson](http://creativecommons.org/board#halabelson) said to author [SL "Lisa" Huang](http://www.slhuang.com/), "Well, there’s this thing some of us have started. It's called Creative Commons."
 
-Since that poignant moment, Lisa set her sights on using Creative Commons licenses. As an MIT graduate with a degree in math, she now uses her degree to write "eccentric mathematical superhero fiction," and in March of 2014, Lisa self-published her first novel, [*Zero Sum Game*](http://www.slhuang.com/books/) under the moniker SL Huang. The book is available at digital retailers and free to download on [Unglue.it](https://unglue.it/work/139822/) under a [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA) license.
+Since that poignant moment, Lisa set her sights on using Creative Commons licenses. As an MIT graduate with a degree in math, she now uses her degree to write "eccentric mathematical superhero fiction," and in March of 2014, Lisa self-published her first novel, [*Zero Sum Game*](http://www.slhuang.com/books/), under the moniker SL Huang. The book is available at digital retailers and free to download on [Unglue.it](https://unglue.it/work/139822/) under a [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA) license.
 
 "Zero Sum Game is the fourth novel I've written and the first I've deemed good enough to inflict on the world, and I always wanted to license under CC when I did. I'm delighted that self-publishing has allowed me that freedom," says Lisa. "It's very exciting that authors have so many choices these days!"
 
@@ -45,7 +45,7 @@ Lisa firmly believes that legally allowing filesharing will help, rather than ha
 
 Lisa is continuing to earn monthly revenue from the digital version of her book, and is working on releasing the print version of *Zero Sum Game*. She's also editing the second and third books in her series, with planned release dates in 2015. Her long-term business plan is to complete the series, in which every new release will add to her sales traction and build upon her existing audience. The CC factor on her novel is quickly drawing curiosity from readers. 
 
-"What I have noticed is that people are very interested in Creative Commons when I talk about my book. I'm getting asked to talk about my Creative Commons decision a lot, and that's been great for me as an author. I've also already been contacted by several Creative Commons-oriented sales channels who want to feature my book."
+"What I have noticed is that people are very interested in Creative Commons when I talk about my book. I'm getting asked to talk about my Creative Commons decision a lot, and that's been great for me as an author. I've also already been contacted by several Creative Commons--oriented sales channels who want to feature my book."
 
 Lisa is creating the world she wants to live in, and she hopes more authors and creators will consider Creative Commons licensing for themselves. Yet, the fear of the unknown often holds creators back.
 

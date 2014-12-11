@@ -19,9 +19,9 @@ permalink: /david/
 published: true
 category: education
 shortprofile: |
-  Professor David Lippman has saved students a million dollars. David co-wrote two math textbooks and built iMathAS, a free, open-source math assessment and course platform. Nearly all of his work is licensed under a Creative Commons BY-SA license, allowing others to access, reuse, and edit his work for free. 
+  Professor David Lippman has saved students a million dollars. David co-wrote two math textbooks and built iMathAS, a free, open-source math assessment and course platform. Nearly all of his work is licensed under a Creative Commons license, allowing others to access, reuse, and edit his work for free. 
 
-  Unlike traditional publishers that won't publish known textbook errors out of fear of compromising their business, David wants edits. "Whatever I create's not going to be perfect. So I want to make sure that people have the ability to make changes and improvements, and hopefully contribute back." One volunteer once contributed a thousand copy edits --- for free. "He wouldn't have done that for a traditional textbook."
+  Unlike traditional publishers that won't publish known textbook errors out of fear of compromising their business, David wants edits. "Whatever I create's not going to be perfect. So I want to make sure that people have the ability to make changes and improvements, and hopefully contribute back." One volunteer once contributed a thousand copy edits&#160;--- for free. "He wouldn't have done that for a traditional textbook."
 ---
 
 One day last year, David Lippman got an interesting Google Alert. 1,300 miles away, [fellow math professor James Sousa had created free video tutorials](http://creativecommons.org/weblog/entry/37647) for almost every example question in David's basic math textbook. James did all of that without asking for David's permission: *David had already given permission* by licensing his work under a Creative Commons license.
@@ -32,7 +32,7 @@ David built [iMathAS](http://iMathAS.com), a free, open-source platform that gen
 
 Why did David choose to give the textbooks away for free, rather than publish them with a traditional publisher? "I'm sitting here faced with this reality that my students are buying this $150 book. We only use about half of it anyway. And we're not even using the exercises in the book. It just felt so silly that they were having to pay 150 dollars for the book for a course that they don't even want to be taking anyway." David estimates that the precalculus book has saved students around the country over a million dollars.
 
-David says that sharing his work for free always seems to result in people helping out who wouldn't otherwise. And even though he doesn't have the large budget of a major textbook publisher, community contributions make up for it. "Very shortly after the book came out, we had one guy who went through it and literally sent us a thousand edits," David says. "He ended up acting like a professional copyeditor for us, all for free. He wouldn't have done that for a traditional textbook."
+David says that sharing his work for free always seems to result in people helping out who wouldn't otherwise. Even though he doesn't have the large budget of a major textbook publisher, community contributions make up for it. "Very shortly after the book came out, we had one guy who went through it and literally sent us a thousand edits," David says. "He ended up acting like a professional copyeditor for us, all for free. He wouldn't have done that for a traditional textbook."
 
 But David considers open licenses more than just a way of saving students money or getting free work: he sees them as a new path forward for education. He tells the story of a professor who asked a representative from a textbook company if they published a list of known errors in the book: "They said, 'No, we'd never have that, because then the other publishers would use that against us.' I get it: people are concerned about the accuracy of their textbooks. Particularly math teachers: we hate it when there's a wrong answer in the book. But don't just let us live with it. Fix it!"
 
